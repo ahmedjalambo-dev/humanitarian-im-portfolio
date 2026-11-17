@@ -45,9 +45,21 @@ This project rebuilds, end to end, the information flow a programme data assista
 ![Reconciliation](outputs/charts/reconciliation_status.png)
 ![DQ issues](outputs/charts/dq_issues_by_dimension.png)
 
-<!-- Add after building: -->
-<!-- ![Power BI dashboard](docs/screenshots/powerbi_dashboard.png) -->
-<!-- ![QGIS site map](docs/screenshots/qgis_site_map.png) -->
+### Power BI dashboard
+![Power BI dashboard](docs/screenshots/powerbi_dashboard.png)
+
+### QGIS site map
+![QGIS site map](docs/screenshots/qgis_site_map.png)
+
+### KoboToolbox form and test submissions
+![Kobo form](docs/screenshots/kobo_form.png)
+![Kobo data](docs/screenshots/kobo_data.png)
+![Kobo map](docs/screenshots/kobo_map.png)
+
+### Validation rules rejecting bad entries at collection
+![Installed cannot exceed target](docs/screenshots/validation_installed_gt_target.png)
+![Women cannot exceed total workers](docs/screenshots/validation_women_gt_workers.png)
+![None cannot be combined](docs/screenshots/validation_none_combined.png)
 
 ## Data-quality checks implemented
 
