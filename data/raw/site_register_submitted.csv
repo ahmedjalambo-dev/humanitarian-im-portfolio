@@ -1,0 +1,31 @@
+site_id,site_name,governorate_code,governorate,locality,site_type,latitude,longitude,households,individuals,field_engineer,start_date
+ITCN-NG-001,Jabalia Site 1,NG,North Gaza,Jabalia,Transitional Neighborhood,31.52741,34.474643,120,811,FE-05,2026-08-03
+ITCN-GZ-001,Gaza City - Rimal Site 1,GZ,Gaza,Gaza City - Rimal,Informal Site,31.521734,34.439714,174,1179,FE-05,2026-08-24
+ITCN-GZ-002,Gaza City - Sheikh Radwan Site 1,GZ,Gaza,Gaza City - Sheikh Radwan,Collective Centre,31.541698,34.463789,353,2006,FE-06,2026-08-24
+ITCN-DB-001,Deir al-Balah Site 1,DB,Deir al-Balah,Deir al-Balah,Transitional Neighborhood,31.408513,34.346225,360,2386,FE-01,2026-08-03
+ITCN-DB-002,Nuseirat Site 1,DB,Deir al-Balah,Nuseirat,Transitional Neighborhood,34.389348,31.448556,116,707,FE-01,2026-08-24
+ITCN-DB-003,Bureij Site 1,DB,Deir al-Balah,Bureij,Informal Site,31.448479,34.397058,65,434,FE-06,2026-08-24
+ITCN-DB-004,Maghazi Site 1,DB,Deir al-Balah,Maghazi,Transitional Neighborhood,31.424984,34.376525,407,2270,FE-04,2026-08-17
+ITCN-KY-001,Khan Younis Site 1,KY,Khan Younis,Khan Younis,Informal Site,31.343758,34.302283,238,1497,FE-03,2026-08-24
+ITCN-KY-002,Al-Mawasi Site 1,KY,Khan Younis,Al-Mawasi,Collective Centre,31.362159,34.274477,322,1942,FE-06,2026-08-17
+ITCN-RF-001,Rafah Site 1,RF,Rafah,Rafah,Collective Centre,31.286952,34.248633,105,631,FE-03,2026-08-17
+ITCN-NG-002,Jabalia Site 2,NG,North Gaza,Jabalia,Transitional Neighborhood,31.527832,34.499379,294,1626,FE-06,2026-08-17
+ITCN-GZ-003,Gaza City - Rimal Site 2,GZ,Gaza,Gaza City - Rimal,Informal Site,3.144521,34.444535,72,410,FE-03,2026-08-17
+ITCN-GZ-004,Gaza City - Sheikh Radwan Site 2,GZ,Gaza,Gaza City - Sheikh Radwan,Transitional Neighborhood,31.529278,34.458382,296,1856,FE-04,2026-08-24
+ITCN-DB-005,Deir al-Balah Site 2,DB,Deir al-Balah,Deir al-Balah,Transitional Neighborhood,31.421865,34.353641,119,634,FE-05,2026-08-24
+ITCN-DB-006,Nuseirat Site 2,DB,Deir al-Balah,Nuseirat,Informal Site,31.448965,34.392586,263,1388,FE-03,2026-08-24
+ITCN-DB-007,Bureij Site 2,DB,Deir al-Balah,Bureij,Informal Site,31.426732,34.39918,348,2178,FE-04,2026-08-03
+ITCN-DB-008,Maghazi Site 2,DB,Deir al-Balah,Maghazi,Transitional Neighborhood,31.42664,34.394037,354,2173,FE-02,2026-08-03
+ITCN-KY-003,Khan Younis Site 2,KY,Khan Younis,Khan Younis,Collective Centre,31.336341,,420,2796,FE-06,2026-08-03
+ITCN-KY-004,Al-Mawasi Site 2,KY,Khan Younis,Al-Mawasi,Transitional Neighborhood,31.35713,34.264002,378,2288,FE-02,2026-08-24
+ITCN-RF-002,Rafah Site 2,RF,Rafah,Rafah,Informal Site,31.297524,34.236131,177,1052,FE-01,2026-08-24
+ITCN-NG-003,Jabalia Site 3,NG,North Gaza,Jabalia,Transitional Neighborhood,31.535489,34.476802,405,2175,FE-05,2026-08-17
+ITCN-GZ-005,Gaza City - Rimal Site 3,GZ,Gaza,Gaza City - Rimal,Transitional Neighborhood,31.524333,34.442562,346,2215,FE-03,2026-08-24
+ITCN-GZ-006,Gaza City - Sheikh Radwan Site 3,GZ,Dier Al Balah,Gaza City - Sheikh Radwan,Transitional Neighborhood,31.537297,34.459333,265,1691,FE-03,2026-08-17
+ITCN-DB-009,Deir al-Balah Site 3,DB,Deir al-Balah,Deir al-Balah,Transitional Neighborhood,31.416586,34.353714,64,350,FE-06,2026-08-24
+ITCN-DB-010,Nuseirat Site 3,DB,Deir al-Balah,Nuseirat,Informal Site,31.452896,34.389759,327,2146,FE-03,2026-08-10
+ITCN-DB-011,Bureij Site 3,DB,Deir al-Balah,Bureij,collective centre ,31.441185,34.398063,193,1301,FE-04,2026-08-24
+ITCN-DB-012,Maghazi Site 3,DB,Deir al-Balah,Maghazi,Collective Centre,31.419595,34.384688,282,1737,FE-01,2026-08-17
+ITCN-KY-005,Khan Younis Site 3,KY,Khan Younis,Khan Younis,Transitional Neighborhood,31.349247,34.307512,222,1226,FE-01,2026-08-24
+ITCN-KY-006,Al-Mawasi Site 3,KY,Khan Younis,Al-Mawasi,Collective Centre,31.358867,34.272494,412,2756,FE-05,2026-08-17
+ITCN-RF-003,Rafah Site 3,RF,Rafah,Rafah,Informal Site,31.285917,34.245794,291,1812,FE-02,2026-08-24

@@ -1,0 +1,129 @@
+site_id,site_name,component,target,achieved,contractor,contractor_reported,difference,reconciliation_status
+ITCN-NG-001,Jabalia Site 1,Roads & Access,248,248,CTR-B,246,-2,Match
+ITCN-NG-001,Jabalia Site 1,Shelter,116,67,CTR-C,63,-4,Match
+ITCN-NG-001,Jabalia Site 1,Electricity,40,40,CTR-B,40,0,Match
+ITCN-NG-001,Jabalia Site 1,WASH,3,3,CTR-D,1,-2,Minor gap
+ITCN-NG-001,Jabalia Site 1,Solid Waste,4,4,CTR-B,4,0,Match
+ITCN-GZ-001,Gaza City - Rimal Site 1,WASH,10,10,CTR-B,10,0,Match
+ITCN-GZ-001,Gaza City - Rimal Site 1,Roads & Access,575,344,CTR-C,344,0,Match
+ITCN-GZ-001,Gaza City - Rimal Site 1,Shelter,102,82,CTR-C,82,0,Match
+ITCN-GZ-001,Gaza City - Rimal Site 1,Community Facility,1,1,CTR-C,1,0,Match
+ITCN-GZ-001,Gaza City - Rimal Site 1,Electricity,58,58,CTR-C,66,8,Minor gap
+ITCN-GZ-002,Gaza City - Sheikh Radwan Site 1,Roads & Access,390,390,CTR-A,390,0,Match
+ITCN-GZ-002,Gaza City - Sheikh Radwan Site 1,Shelter,60,23,CTR-B,23,0,Match
+ITCN-GZ-002,Gaza City - Sheikh Radwan Site 1,Community Facility,3,2,CTR-D,5,3,Minor gap
+ITCN-GZ-002,Gaza City - Sheikh Radwan Site 1,Solid Waste,5,3,CTR-A,3,0,Match
+ITCN-DB-001,Deir al-Balah Site 1,Roads & Access,337,337,CTR-A,331,-6,Match
+ITCN-DB-001,Deir al-Balah Site 1,WASH,4,3,CTR-A,3,0,Match
+ITCN-DB-001,Deir al-Balah Site 1,Community Facility,1,1,CTR-B,1,0,Match
+ITCN-DB-001,Deir al-Balah Site 1,Shelter,101,89,CTR-D,89,0,Match
+ITCN-DB-002,Nuseirat Site 1,Solid Waste,3,2,CTR-C,2,0,Match
+ITCN-DB-002,Nuseirat Site 1,Roads & Access,678,678,CTR-B,678,0,Match
+ITCN-DB-002,Nuseirat Site 1,Shelter,69,69,CTR-B,69,0,Match
+ITCN-DB-002,Nuseirat Site 1,Electricity,56,45,CTR-A,45,0,Match
+ITCN-DB-002,Nuseirat Site 1,Community Facility,1,0,CTR-B,0,0,Match
+ITCN-DB-003,Bureij Site 1,Solid Waste,3,3,CTR-A,3,0,Match
+ITCN-DB-003,Bureij Site 1,Roads & Access,655,655,CTR-D,655,0,Match
+ITCN-DB-003,Bureij Site 1,Electricity,38,38,CTR-B,38,0,Match
+ITCN-DB-003,Bureij Site 1,Shelter,93,93,CTR-D,93,0,Match
+ITCN-DB-004,Maghazi Site 1,Community Facility,1,1,CTR-D,1,0,Match
+ITCN-DB-004,Maghazi Site 1,WASH,6,6,CTR-C,6,0,Match
+ITCN-DB-004,Maghazi Site 1,Roads & Access,374,374,CTR-D,446,72,Major gap
+ITCN-DB-004,Maghazi Site 1,Solid Waste,10,8,CTR-B,11,3,Minor gap
+ITCN-DB-004,Maghazi Site 1,Electricity,18,15,CTR-A,15,0,Match
+ITCN-DB-004,Maghazi Site 1,Shelter,28,28,CTR-C,28,0,Match
+ITCN-KY-001,Khan Younis Site 1,Community Facility,1,0,CTR-D,0,0,Match
+ITCN-KY-001,Khan Younis Site 1,Roads & Access,483,425,CTR-C,425,0,Match
+ITCN-KY-001,Khan Younis Site 1,Shelter,105,83,CTR-A,83,0,Match
+ITCN-KY-001,Khan Younis Site 1,Electricity,49,36,CTR-D,38,2,Match
+ITCN-KY-001,Khan Younis Site 1,Solid Waste,2,2,CTR-A,2,0,Match
+ITCN-KY-002,Al-Mawasi Site 1,WASH,7,3,CTR-B,3,0,Match
+ITCN-KY-002,Al-Mawasi Site 1,Roads & Access,643,643,CTR-A,643,0,Match
+ITCN-KY-002,Al-Mawasi Site 1,Solid Waste,8,6,CTR-A,6,0,Match
+ITCN-KY-002,Al-Mawasi Site 1,Shelter,65,41,CTR-D,41,0,Match
+ITCN-RF-001,Rafah Site 1,Community Facility,1,1,CTR-A,1,0,Match
+ITCN-RF-001,Rafah Site 1,Shelter,41,16,CTR-C,16,0,Match
+ITCN-RF-001,Rafah Site 1,Electricity,55,55,CTR-D,55,0,Match
+ITCN-RF-001,Rafah Site 1,WASH,11,11,CTR-D,11,0,Match
+ITCN-RF-001,Rafah Site 1,Solid Waste,2,2,CTR-C,2,0,Match
+ITCN-NG-002,Jabalia Site 2,Roads & Access,202,103,CTR-C,134,31,Major gap
+ITCN-NG-002,Jabalia Site 2,Shelter,85,81,CTR-A,81,0,Match
+ITCN-NG-002,Jabalia Site 2,WASH,6,6,CTR-A,6,0,Match
+ITCN-NG-002,Jabalia Site 2,Community Facility,1,1,CTR-B,1,0,Match
+ITCN-GZ-003,Gaza City - Rimal Site 2,Shelter,115,115,CTR-B,108,-7,Minor gap
+ITCN-GZ-003,Gaza City - Rimal Site 2,Solid Waste,3,3,CTR-D,3,0,Match
+ITCN-GZ-003,Gaza City - Rimal Site 2,Electricity,53,47,CTR-B,47,0,Match
+ITCN-GZ-003,Gaza City - Rimal Site 2,Community Facility,3,3,CTR-D,3,0,Match
+ITCN-GZ-004,Gaza City - Sheikh Radwan Site 2,Shelter,118,118,CTR-D,126,8,Minor gap
+ITCN-GZ-004,Gaza City - Sheikh Radwan Site 2,Roads & Access,865,788,CTR-C,788,0,Match
+ITCN-GZ-004,Gaza City - Sheikh Radwan Site 2,Electricity,49,48,CTR-C,48,0,Match
+ITCN-GZ-004,Gaza City - Sheikh Radwan Site 2,WASH,6,6,CTR-B,6,0,Match
+ITCN-DB-005,Deir al-Balah Site 2,WASH,11,10,CTR-C,10,0,Match
+ITCN-DB-005,Deir al-Balah Site 2,Community Facility,3,3,CTR-D,3,0,Match
+ITCN-DB-005,Deir al-Balah Site 2,Electricity,11,11,CTR-A,13,2,Minor gap
+ITCN-DB-005,Deir al-Balah Site 2,Roads & Access,499,259,CTR-B,291,32,Minor gap
+ITCN-DB-005,Deir al-Balah Site 2,Shelter,39,39,CTR-D,44,5,Minor gap
+ITCN-DB-006,Nuseirat Site 2,Roads & Access,250,250,CTR-A,250,0,Match
+ITCN-DB-006,Nuseirat Site 2,Solid Waste,8,8,CTR-A,8,0,Match
+ITCN-DB-006,Nuseirat Site 2,Electricity,29,16,CTR-B,16,0,Match
+ITCN-DB-006,Nuseirat Site 2,Shelter,118,118,CTR-D,118,0,Match
+ITCN-DB-007,Bureij Site 2,Shelter,98,98,CTR-D,111,13,Minor gap
+ITCN-DB-007,Bureij Site 2,Electricity,34,34,CTR-C,32,-2,Minor gap
+ITCN-DB-007,Bureij Site 2,Roads & Access,592,592,CTR-C,592,0,Match
+ITCN-DB-007,Bureij Site 2,Community Facility,3,2,CTR-D,2,0,Match
+ITCN-DB-007,Bureij Site 2,WASH,10,10,CTR-A,10,0,Match
+ITCN-DB-008,Maghazi Site 2,Shelter,81,81,CTR-D,81,0,Match
+ITCN-DB-008,Maghazi Site 2,Solid Waste,7,4,CTR-B,4,0,Match
+ITCN-DB-008,Maghazi Site 2,Roads & Access,374,374,CTR-B,374,0,Match
+ITCN-DB-008,Maghazi Site 2,Electricity,26,23,CTR-A,23,0,Match
+ITCN-DB-008,Maghazi Site 2,WASH,6,6,CTR-A,6,0,Match
+ITCN-KY-003,Khan Younis Site 2,Shelter,106,86,CTR-D,98,12,Minor gap
+ITCN-KY-003,Khan Younis Site 2,WASH,5,4,CTR-A,4,0,Match
+ITCN-KY-003,Khan Younis Site 2,Electricity,41,19,CTR-D,26,7,Major gap
+ITCN-KY-003,Khan Younis Site 2,Solid Waste,2,2,CTR-D,2,0,Match
+ITCN-KY-003,Khan Younis Site 2,Community Facility,1,1,CTR-B,1,0,Match
+ITCN-KY-004,Al-Mawasi Site 2,Solid Waste,4,4,CTR-C,4,0,Match
+ITCN-KY-004,Al-Mawasi Site 2,Community Facility,3,3,CTR-D,3,0,Match
+ITCN-KY-004,Al-Mawasi Site 2,Electricity,39,35,CTR-B,35,0,Match
+ITCN-KY-004,Al-Mawasi Site 2,Shelter,108,108,CTR-A,108,0,Match
+ITCN-RF-002,Rafah Site 2,Solid Waste,2,1,CTR-B,1,0,Match
+ITCN-RF-002,Rafah Site 2,Electricity,27,27,CTR-D,27,0,Match
+ITCN-RF-002,Rafah Site 2,Shelter,71,53,CTR-A,46,-7,Minor gap
+ITCN-NG-003,Jabalia Site 3,WASH,9,9,CTR-B,9,0,Match
+ITCN-NG-003,Jabalia Site 3,Community Facility,2,1,CTR-A,3,2,Minor gap
+ITCN-NG-003,Jabalia Site 3,Solid Waste,6,5,CTR-B,7,2,Minor gap
+ITCN-NG-003,Jabalia Site 3,Shelter,73,68,CTR-D,68,0,Match
+ITCN-GZ-005,Gaza City - Rimal Site 3,WASH,5,5,CTR-B,5,0,Match
+ITCN-GZ-005,Gaza City - Rimal Site 3,Community Facility,3,2,CTR-D,2,0,Match
+ITCN-GZ-005,Gaza City - Rimal Site 3,Shelter,86,64,CTR-B,64,0,Match
+ITCN-GZ-006,Gaza City - Sheikh Radwan Site 3,Roads & Access,175,175,CTR-B,200,25,Minor gap
+ITCN-GZ-006,Gaza City - Sheikh Radwan Site 3,WASH,2,2,CTR-D,2,0,Match
+ITCN-GZ-006,Gaza City - Sheikh Radwan Site 3,Community Facility,1,1,CTR-B,1,0,Match
+ITCN-GZ-006,Gaza City - Sheikh Radwan Site 3,Electricity,18,18,CTR-D,20,2,Minor gap
+ITCN-GZ-006,Gaza City - Sheikh Radwan Site 3,Shelter,47,44,CTR-D,44,0,Match
+ITCN-DB-009,Deir al-Balah Site 3,Shelter,35,35,CTR-A,42,7,Major gap
+ITCN-DB-009,Deir al-Balah Site 3,WASH,3,2,CTR-B,2,0,Match
+ITCN-DB-009,Deir al-Balah Site 3,Electricity,23,23,CTR-A,27,4,Major gap
+ITCN-DB-010,Nuseirat Site 3,Community Facility,3,2,CTR-B,1,-1,Match
+ITCN-DB-010,Nuseirat Site 3,Electricity,56,56,CTR-B,56,0,Match
+ITCN-DB-010,Nuseirat Site 3,Shelter,82,82,CTR-D,82,0,Match
+ITCN-DB-011,Bureij Site 3,Solid Waste,6,2,CTR-C,2,0,Match
+ITCN-DB-011,Bureij Site 3,WASH,6,4,CTR-D,4,0,Match
+ITCN-DB-011,Bureij Site 3,Roads & Access,320,285,CTR-D,285,0,Match
+ITCN-DB-011,Bureij Site 3,Shelter,23,12,CTR-C,14,2,Minor gap
+ITCN-DB-012,Maghazi Site 3,Roads & Access,661,371,CTR-B,371,0,Match
+ITCN-DB-012,Maghazi Site 3,Electricity,55,30,CTR-D,39,9,Major gap
+ITCN-DB-012,Maghazi Site 3,Shelter,22,22,CTR-A,22,0,Match
+ITCN-KY-005,Khan Younis Site 3,Electricity,59,36,CTR-D,36,0,Match
+ITCN-KY-005,Khan Younis Site 3,WASH,7,7,CTR-B,9,2,Minor gap
+ITCN-KY-005,Khan Younis Site 3,Shelter,46,46,CTR-B,46,0,Match
+ITCN-KY-005,Khan Younis Site 3,Community Facility,1,1,CTR-B,1,0,Match
+ITCN-KY-006,Al-Mawasi Site 3,Roads & Access,494,367,CTR-D,423,56,Minor gap
+ITCN-KY-006,Al-Mawasi Site 3,Electricity,56,54,CTR-C,54,0,Match
+ITCN-KY-006,Al-Mawasi Site 3,WASH,6,6,CTR-C,9,3,Minor gap
+ITCN-KY-006,Al-Mawasi Site 3,Shelter,74,59,CTR-A,59,0,Match
+ITCN-RF-003,Rafah Site 3,Roads & Access,267,267,CTR-C,267,0,Match
+ITCN-RF-003,Rafah Site 3,Shelter,101,101,CTR-B,101,0,Match
+ITCN-RF-003,Rafah Site 3,Community Facility,3,2,CTR-A,2,0,Match
+ITCN-RF-003,Rafah Site 3,Solid Waste,7,7,CTR-A,7,0,Match
+ITCN-RF-003,Rafah Site 3,Electricity,12,12,CTR-D,12,0,Match

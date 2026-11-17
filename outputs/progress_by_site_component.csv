@@ -1,0 +1,129 @@
+site_id,component,indicator,unit,target,contractor,achieved,last_report,pct_complete,status,site_name,governorate,locality
+ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,248,CTR-B,248,2026-11-02,1.0,Completed,Jabalia Site 1,North Gaza,Jabalia
+ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,116,CTR-C,67,2026-11-02,0.578,Advanced,Jabalia Site 1,North Gaza,Jabalia
+ITCN-NG-001,Electricity,Solar lighting units installed,unit,40,CTR-B,40,2026-11-02,1.0,Completed,Jabalia Site 1,North Gaza,Jabalia
+ITCN-NG-001,WASH,Water points rehabilitated,point,3,CTR-D,3,2026-11-02,1.0,Completed,Jabalia Site 1,North Gaza,Jabalia
+ITCN-NG-001,Solid Waste,Waste collection points established,point,4,CTR-B,4,2026-11-02,1.0,Completed,Jabalia Site 1,North Gaza,Jabalia
+ITCN-GZ-001,WASH,Water points rehabilitated,point,10,CTR-B,10,2026-11-02,1.0,Completed,Gaza City - Rimal Site 1,Gaza,Gaza City - Rimal
+ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,575,CTR-C,344,2026-11-02,0.598,Advanced,Gaza City - Rimal Site 1,Gaza,Gaza City - Rimal
+ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,102,CTR-C,82,2026-11-02,0.804,Advanced,Gaza City - Rimal Site 1,Gaza,Gaza City - Rimal
+ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-C,1,2026-11-02,1.0,Completed,Gaza City - Rimal Site 1,Gaza,Gaza City - Rimal
+ITCN-GZ-001,Electricity,Solar lighting units installed,unit,58,CTR-C,58,2026-11-02,1.0,Completed,Gaza City - Rimal Site 1,Gaza,Gaza City - Rimal
+ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,390,CTR-A,390,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 1,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,60,CTR-B,23,2026-11-02,0.383,Early stage,Gaza City - Sheikh Radwan Site 1,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,3,CTR-D,2,2026-11-02,0.667,Advanced,Gaza City - Sheikh Radwan Site 1,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-002,Solid Waste,Waste collection points established,point,5,CTR-A,3,2026-11-02,0.6,Advanced,Gaza City - Sheikh Radwan Site 1,Gaza,Gaza City - Sheikh Radwan
+ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,CTR-A,337,2026-11-02,1.0,Completed,Deir al-Balah Site 1,Deir al-Balah,Deir al-Balah
+ITCN-DB-001,WASH,Water points rehabilitated,point,4,CTR-A,3,2026-11-02,0.75,Advanced,Deir al-Balah Site 1,Deir al-Balah,Deir al-Balah
+ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-B,1,2026-11-02,1.0,Completed,Deir al-Balah Site 1,Deir al-Balah,Deir al-Balah
+ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,101,CTR-D,89,2026-11-02,0.881,Advanced,Deir al-Balah Site 1,Deir al-Balah,Deir al-Balah
+ITCN-DB-002,Solid Waste,Waste collection points established,point,3,CTR-C,2,2026-11-02,0.667,Advanced,Nuseirat Site 1,Deir al-Balah,Nuseirat
+ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,678,CTR-B,678,2026-11-02,1.0,Completed,Nuseirat Site 1,Deir al-Balah,Nuseirat
+ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,69,CTR-B,69,2026-11-02,1.0,Completed,Nuseirat Site 1,Deir al-Balah,Nuseirat
+ITCN-DB-002,Electricity,Solar lighting units installed,unit,56,CTR-A,45,2026-11-02,0.804,Advanced,Nuseirat Site 1,Deir al-Balah,Nuseirat
+ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,1,CTR-B,0,2026-11-02,0.0,Not started,Nuseirat Site 1,Deir al-Balah,Nuseirat
+ITCN-DB-003,Solid Waste,Waste collection points established,point,3,CTR-A,3,2026-11-02,1.0,Completed,Bureij Site 1,Deir al-Balah,Bureij
+ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,CTR-D,655,2026-11-02,1.0,Completed,Bureij Site 1,Deir al-Balah,Bureij
+ITCN-DB-003,Electricity,Solar lighting units installed,unit,38,CTR-B,38,2026-11-02,1.0,Completed,Bureij Site 1,Deir al-Balah,Bureij
+ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,93,CTR-D,93,2026-11-02,1.0,Completed,Bureij Site 1,Deir al-Balah,Bureij
+ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,CTR-D,1,2026-11-02,1.0,Completed,Maghazi Site 1,Deir al-Balah,Maghazi
+ITCN-DB-004,WASH,Water points rehabilitated,point,6,CTR-C,6,2026-11-02,1.0,Completed,Maghazi Site 1,Deir al-Balah,Maghazi
+ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,374,CTR-D,374,2026-11-02,1.0,Completed,Maghazi Site 1,Deir al-Balah,Maghazi
+ITCN-DB-004,Solid Waste,Waste collection points established,point,10,CTR-B,8,2026-11-02,0.8,Advanced,Maghazi Site 1,Deir al-Balah,Maghazi
+ITCN-DB-004,Electricity,Solar lighting units installed,unit,18,CTR-A,15,2026-11-02,0.833,Advanced,Maghazi Site 1,Deir al-Balah,Maghazi
+ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,28,CTR-C,28,2026-11-02,1.0,Completed,Maghazi Site 1,Deir al-Balah,Maghazi
+ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-D,0,2026-11-02,0.0,Not started,Khan Younis Site 1,Khan Younis,Khan Younis
+ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,483,CTR-C,425,2026-11-02,0.88,Advanced,Khan Younis Site 1,Khan Younis,Khan Younis
+ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,105,CTR-A,83,2026-11-02,0.79,Advanced,Khan Younis Site 1,Khan Younis,Khan Younis
+ITCN-KY-001,Electricity,Solar lighting units installed,unit,49,CTR-D,36,2026-11-02,0.735,Advanced,Khan Younis Site 1,Khan Younis,Khan Younis
+ITCN-KY-001,Solid Waste,Waste collection points established,point,2,CTR-A,2,2026-11-02,1.0,Completed,Khan Younis Site 1,Khan Younis,Khan Younis
+ITCN-KY-002,WASH,Water points rehabilitated,point,7,CTR-B,3,2026-11-02,0.429,Early stage,Al-Mawasi Site 1,Khan Younis,Al-Mawasi
+ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,643,CTR-A,643,2026-11-02,1.0,Completed,Al-Mawasi Site 1,Khan Younis,Al-Mawasi
+ITCN-KY-002,Solid Waste,Waste collection points established,point,8,CTR-A,6,2026-11-02,0.75,Advanced,Al-Mawasi Site 1,Khan Younis,Al-Mawasi
+ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,65,CTR-D,41,2026-11-02,0.631,Advanced,Al-Mawasi Site 1,Khan Younis,Al-Mawasi
+ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-A,1,2026-11-02,1.0,Completed,Rafah Site 1,Rafah,Rafah
+ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,41,CTR-C,16,2026-11-02,0.39,Early stage,Rafah Site 1,Rafah,Rafah
+ITCN-RF-001,Electricity,Solar lighting units installed,unit,55,CTR-D,55,2026-11-02,1.0,Completed,Rafah Site 1,Rafah,Rafah
+ITCN-RF-001,WASH,Water points rehabilitated,point,11,CTR-D,11,2026-10-26,1.0,Completed,Rafah Site 1,Rafah,Rafah
+ITCN-RF-001,Solid Waste,Waste collection points established,point,2,CTR-C,2,2026-11-02,1.0,Completed,Rafah Site 1,Rafah,Rafah
+ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,202,CTR-C,103,2026-11-02,0.51,Advanced,Jabalia Site 2,North Gaza,Jabalia
+ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,85,CTR-A,81,2026-11-02,0.953,Advanced,Jabalia Site 2,North Gaza,Jabalia
+ITCN-NG-002,WASH,Water points rehabilitated,point,6,CTR-A,6,2026-11-02,1.0,Completed,Jabalia Site 2,North Gaza,Jabalia
+ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,CTR-B,1,2026-11-02,1.0,Completed,Jabalia Site 2,North Gaza,Jabalia
+ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,115,CTR-B,115,2026-11-02,1.0,Completed,Gaza City - Rimal Site 2,Gaza,Gaza City - Rimal
+ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,CTR-D,3,2026-11-02,1.0,Completed,Gaza City - Rimal Site 2,Gaza,Gaza City - Rimal
+ITCN-GZ-003,Electricity,Solar lighting units installed,unit,53,CTR-B,47,2026-11-02,0.887,Advanced,Gaza City - Rimal Site 2,Gaza,Gaza City - Rimal
+ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,CTR-D,3,2026-11-02,1.0,Completed,Gaza City - Rimal Site 2,Gaza,Gaza City - Rimal
+ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,118,CTR-D,118,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 2,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,865,CTR-C,788,2026-11-02,0.911,Advanced,Gaza City - Sheikh Radwan Site 2,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-004,Electricity,Solar lighting units installed,unit,49,CTR-C,48,2026-11-02,0.98,Advanced,Gaza City - Sheikh Radwan Site 2,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-004,WASH,Water points rehabilitated,point,6,CTR-B,6,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 2,Gaza,Gaza City - Sheikh Radwan
+ITCN-DB-005,WASH,Water points rehabilitated,point,11,CTR-C,10,2026-11-02,0.909,Advanced,Deir al-Balah Site 2,Deir al-Balah,Deir al-Balah
+ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,CTR-D,3,2026-11-02,1.0,Completed,Deir al-Balah Site 2,Deir al-Balah,Deir al-Balah
+ITCN-DB-005,Electricity,Solar lighting units installed,unit,11,CTR-A,11,2026-11-02,1.0,Completed,Deir al-Balah Site 2,Deir al-Balah,Deir al-Balah
+ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,499,CTR-B,259,2026-11-02,0.519,Advanced,Deir al-Balah Site 2,Deir al-Balah,Deir al-Balah
+ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,39,CTR-D,39,2026-11-02,1.0,Completed,Deir al-Balah Site 2,Deir al-Balah,Deir al-Balah
+ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,250,CTR-A,250,2026-11-02,1.0,Completed,Nuseirat Site 2,Deir al-Balah,Nuseirat
+ITCN-DB-006,Solid Waste,Waste collection points established,point,8,CTR-A,8,2026-11-02,1.0,Completed,Nuseirat Site 2,Deir al-Balah,Nuseirat
+ITCN-DB-006,Electricity,Solar lighting units installed,unit,29,CTR-B,16,2026-11-02,0.552,Advanced,Nuseirat Site 2,Deir al-Balah,Nuseirat
+ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,118,CTR-D,118,2026-11-02,1.0,Completed,Nuseirat Site 2,Deir al-Balah,Nuseirat
+ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,98,CTR-D,98,2026-11-02,1.0,Completed,Bureij Site 2,Deir al-Balah,Bureij
+ITCN-DB-007,Electricity,Solar lighting units installed,unit,34,CTR-C,34,2026-11-02,1.0,Completed,Bureij Site 2,Deir al-Balah,Bureij
+ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,592,CTR-C,592,2026-11-02,1.0,Completed,Bureij Site 2,Deir al-Balah,Bureij
+ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,3,CTR-D,2,2026-11-02,0.667,Advanced,Bureij Site 2,Deir al-Balah,Bureij
+ITCN-DB-007,WASH,Water points rehabilitated,point,10,CTR-A,10,2026-11-02,1.0,Completed,Bureij Site 2,Deir al-Balah,Bureij
+ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,81,CTR-D,81,2026-11-02,1.0,Completed,Maghazi Site 2,Deir al-Balah,Maghazi
+ITCN-DB-008,Solid Waste,Waste collection points established,point,7,CTR-B,4,2026-11-02,0.571,Advanced,Maghazi Site 2,Deir al-Balah,Maghazi
+ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,374,CTR-B,374,2026-11-02,1.0,Completed,Maghazi Site 2,Deir al-Balah,Maghazi
+ITCN-DB-008,Electricity,Solar lighting units installed,unit,26,CTR-A,23,2026-11-02,0.885,Advanced,Maghazi Site 2,Deir al-Balah,Maghazi
+ITCN-DB-008,WASH,Water points rehabilitated,point,6,CTR-A,6,2026-11-02,1.0,Completed,Maghazi Site 2,Deir al-Balah,Maghazi
+ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,106,CTR-D,86,2026-11-02,0.811,Advanced,Khan Younis Site 2,Khan Younis,Khan Younis
+ITCN-KY-003,WASH,Water points rehabilitated,point,5,CTR-A,4,2026-11-02,0.8,Advanced,Khan Younis Site 2,Khan Younis,Khan Younis
+ITCN-KY-003,Electricity,Solar lighting units installed,unit,41,CTR-D,19,2026-11-02,0.463,Early stage,Khan Younis Site 2,Khan Younis,Khan Younis
+ITCN-KY-003,Solid Waste,Waste collection points established,point,2,CTR-D,2,2026-11-02,1.0,Completed,Khan Younis Site 2,Khan Younis,Khan Younis
+ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,CTR-B,1,2026-11-02,1.0,Completed,Khan Younis Site 2,Khan Younis,Khan Younis
+ITCN-KY-004,Solid Waste,Waste collection points established,point,4,CTR-C,4,2026-11-02,1.0,Completed,Al-Mawasi Site 2,Khan Younis,Al-Mawasi
+ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,CTR-D,3,2026-11-02,1.0,Completed,Al-Mawasi Site 2,Khan Younis,Al-Mawasi
+ITCN-KY-004,Electricity,Solar lighting units installed,unit,39,CTR-B,35,2026-11-02,0.897,Advanced,Al-Mawasi Site 2,Khan Younis,Al-Mawasi
+ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,108,CTR-A,108,2026-11-02,1.0,Completed,Al-Mawasi Site 2,Khan Younis,Al-Mawasi
+ITCN-RF-002,Solid Waste,Waste collection points established,point,2,CTR-B,1,2026-11-02,0.5,Early stage,Rafah Site 2,Rafah,Rafah
+ITCN-RF-002,Electricity,Solar lighting units installed,unit,27,CTR-D,27,2026-11-02,1.0,Completed,Rafah Site 2,Rafah,Rafah
+ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,71,CTR-A,53,2026-11-02,0.746,Advanced,Rafah Site 2,Rafah,Rafah
+ITCN-NG-003,WASH,Water points rehabilitated,point,9,CTR-B,9,2026-11-02,1.0,Completed,Jabalia Site 3,North Gaza,Jabalia
+ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,2,CTR-A,1,2026-11-02,0.5,Early stage,Jabalia Site 3,North Gaza,Jabalia
+ITCN-NG-003,Solid Waste,Waste collection points established,point,6,CTR-B,5,2026-11-02,0.833,Advanced,Jabalia Site 3,North Gaza,Jabalia
+ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,73,CTR-D,68,2026-11-02,0.932,Advanced,Jabalia Site 3,North Gaza,Jabalia
+ITCN-GZ-005,WASH,Water points rehabilitated,point,5,CTR-B,5,2026-11-02,1.0,Completed,Gaza City - Rimal Site 3,Gaza,Gaza City - Rimal
+ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,3,CTR-D,2,2026-11-02,0.667,Advanced,Gaza City - Rimal Site 3,Gaza,Gaza City - Rimal
+ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,86,CTR-B,64,2026-11-02,0.744,Advanced,Gaza City - Rimal Site 3,Gaza,Gaza City - Rimal
+ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,175,CTR-B,175,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 3,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-006,WASH,Water points rehabilitated,point,2,CTR-D,2,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 3,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,CTR-B,1,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 3,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-006,Electricity,Solar lighting units installed,unit,18,CTR-D,18,2026-11-02,1.0,Completed,Gaza City - Sheikh Radwan Site 3,Gaza,Gaza City - Sheikh Radwan
+ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,47,CTR-D,44,2026-11-02,0.936,Advanced,Gaza City - Sheikh Radwan Site 3,Gaza,Gaza City - Sheikh Radwan
+ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,35,CTR-A,35,2026-11-02,1.0,Completed,Deir al-Balah Site 3,Deir al-Balah,Deir al-Balah
+ITCN-DB-009,WASH,Water points rehabilitated,point,3,CTR-B,2,2026-11-02,0.667,Advanced,Deir al-Balah Site 3,Deir al-Balah,Deir al-Balah
+ITCN-DB-009,Electricity,Solar lighting units installed,unit,23,CTR-A,23,2026-11-02,1.0,Completed,Deir al-Balah Site 3,Deir al-Balah,Deir al-Balah
+ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,3,CTR-B,2,2026-11-02,0.667,Advanced,Nuseirat Site 3,Deir al-Balah,Nuseirat
+ITCN-DB-010,Electricity,Solar lighting units installed,unit,56,CTR-B,56,2026-11-02,1.0,Completed,Nuseirat Site 3,Deir al-Balah,Nuseirat
+ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,82,CTR-D,82,2026-11-02,1.0,Completed,Nuseirat Site 3,Deir al-Balah,Nuseirat
+ITCN-DB-011,Solid Waste,Waste collection points established,point,6,CTR-C,2,2026-11-02,0.333,Early stage,Bureij Site 3,Deir al-Balah,Bureij
+ITCN-DB-011,WASH,Water points rehabilitated,point,6,CTR-D,4,2026-11-02,0.667,Advanced,Bureij Site 3,Deir al-Balah,Bureij
+ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,320,CTR-D,285,2026-11-02,0.891,Advanced,Bureij Site 3,Deir al-Balah,Bureij
+ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,23,CTR-C,12,2026-10-26,0.522,Advanced,Bureij Site 3,Deir al-Balah,Bureij
+ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,661,CTR-B,371,2026-11-02,0.561,Advanced,Maghazi Site 3,Deir al-Balah,Maghazi
+ITCN-DB-012,Electricity,Solar lighting units installed,unit,55,CTR-D,30,2026-11-02,0.545,Advanced,Maghazi Site 3,Deir al-Balah,Maghazi
+ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,22,CTR-A,22,2026-11-02,1.0,Completed,Maghazi Site 3,Deir al-Balah,Maghazi
+ITCN-KY-005,Electricity,Solar lighting units installed,unit,59,CTR-D,36,2026-11-02,0.61,Advanced,Khan Younis Site 3,Khan Younis,Khan Younis
+ITCN-KY-005,WASH,Water points rehabilitated,point,7,CTR-B,7,2026-11-02,1.0,Completed,Khan Younis Site 3,Khan Younis,Khan Younis
+ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,46,CTR-B,46,2026-11-02,1.0,Completed,Khan Younis Site 3,Khan Younis,Khan Younis
+ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,1,CTR-B,1,2026-11-02,1.0,Completed,Khan Younis Site 3,Khan Younis,Khan Younis
+ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,494,CTR-D,367,2026-11-02,0.743,Advanced,Al-Mawasi Site 3,Khan Younis,Al-Mawasi
+ITCN-KY-006,Electricity,Solar lighting units installed,unit,56,CTR-C,54,2026-11-02,0.964,Advanced,Al-Mawasi Site 3,Khan Younis,Al-Mawasi
+ITCN-KY-006,WASH,Water points rehabilitated,point,6,CTR-C,6,2026-11-02,1.0,Completed,Al-Mawasi Site 3,Khan Younis,Al-Mawasi
+ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,74,CTR-A,59,2026-11-02,0.797,Advanced,Al-Mawasi Site 3,Khan Younis,Al-Mawasi
+ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,267,CTR-C,267,2026-11-02,1.0,Completed,Rafah Site 3,Rafah,Rafah
+ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,101,CTR-B,101,2026-11-02,1.0,Completed,Rafah Site 3,Rafah,Rafah
+ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,3,CTR-A,2,2026-11-02,0.667,Advanced,Rafah Site 3,Rafah,Rafah
+ITCN-RF-003,Solid Waste,Waste collection points established,point,7,CTR-A,7,2026-11-02,1.0,Completed,Rafah Site 3,Rafah,Rafah
+ITCN-RF-003,Electricity,Solar lighting units installed,unit,12,CTR-D,12,2026-11-02,1.0,Completed,Rafah Site 3,Rafah,Rafah

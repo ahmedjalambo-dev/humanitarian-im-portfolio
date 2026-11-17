@@ -1,0 +1,432 @@
+issue_no,date_logged,dataset,record_id,field,issue,dq_dimension,original_value,action_taken,corrected_value,status
+DQ-0001,2026-11-02,Site register,ITCN-DB-002,lat/lon,Latitude and longitude swapped,Accuracy,"34.389348, 31.448556",Swapped back; flagged to GIS focal point for confirmation,"31.448556, 34.389348",Auto-corrected - confirm with GIS
+DQ-0002,2026-11-02,Site register,ITCN-GZ-003,lat/lon,Coordinate outside Gaza Strip,Validity,"3.144521, 34.444535",Excluded from map; field engineer asked to re-capture GPS,,Open - field follow-up
+DQ-0003,2026-11-02,Site register,ITCN-KY-003,lat/lon,Missing coordinate,Completeness,"31.336341, nan",Excluded from map; field engineer asked to re-capture GPS,,Open - field follow-up
+DQ-0004,2026-11-02,Site register,ITCN-GZ-006,governorate,Non-standard governorate name,Consistency,Dier Al Balah,Replaced with standard name from coding list,Gaza,Auto-corrected
+DQ-0005,2026-11-02,Site register,ITCN-DB-011,site_type,Inconsistent case/whitespace,Consistency,collective centre ,Standardised to reference list,Collective Centre,Auto-corrected
+DQ-0006,2026-11-02,Field reports,FR-00202,site_id,Site ID format error,Validity,itcn DB-003,Normalised to ITCN-XX-000 pattern,ITCN-DB-003,Auto-corrected
+DQ-0007,2026-11-02,Field reports,FR-00783,site_id,Site ID format error,Validity,itcn KY-002,Normalised to ITCN-XX-000 pattern,ITCN-KY-002,Auto-corrected
+DQ-0008,2026-11-02,Field reports,FR-01135,site_id,Site ID format error,Validity,itcn DB-012,Normalised to ITCN-XX-000 pattern,ITCN-DB-012,Auto-corrected
+DQ-0009,2026-11-02,Field reports,FR-01172,site_id,Site ID format error,Validity,itcn GZ-002,Normalised to ITCN-XX-000 pattern,ITCN-GZ-002,Auto-corrected
+DQ-0010,2026-11-02,Field reports,FR-01173,site_id,Site ID format error,Validity,ITCN-GZ-01,Normalised to ITCN-XX-000 pattern,ITCN-GZ-001,Auto-corrected
+DQ-0011,2026-11-02,Field reports,FR-01223,site_id,Site ID format error,Validity,ITCN-GZ-06,Normalised to ITCN-XX-000 pattern,ITCN-GZ-006,Auto-corrected
+DQ-0012,2026-11-02,Field reports,FR-01235,site_id,Site ID format error,Validity,ITCN-KY-04,Normalised to ITCN-XX-000 pattern,ITCN-KY-004,Auto-corrected
+DQ-0013,2026-11-02,Field reports,FR-00579,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0014,2026-11-02,Field reports,FR-00690,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0015,2026-11-02,Field reports,FR-00749,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0016,2026-11-02,Field reports,FR-00751,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0017,2026-11-02,Field reports,FR-00821,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0018,2026-11-02,Field reports,FR-00999,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0019,2026-11-02,Field reports,FR-01040,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0020,2026-11-02,Field reports,FR-01067,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0021,2026-11-02,Field reports,FR-01076,(row),Duplicate submission,Uniqueness,,Removed duplicate; first submission kept,,Auto-corrected
+DQ-0022,2026-11-02,Field reports,FR-01096,week_ending,Date after reporting period,Timeliness,2027-03-01,Excluded; engineer asked to correct date,,Open - field follow-up
+DQ-0023,2026-11-02,Field reports,FR-00666,achieved_cumulative,Negative value,Validity,-5,Excluded; engineer asked to resubmit,,Open - field follow-up
+DQ-0024,2026-11-02,Field reports,FR-00658,achieved_cumulative,Achievement exceeds target,Accuracy,36 vs target 23,Excluded pending verification against site records,,Open - verify with engineer
+DQ-0025,2026-11-02,Field reports,FR-00933,achieved_cumulative,Achievement exceeds target,Accuracy,17 vs target 11,Excluded pending verification against site records,,Open - verify with engineer
+DQ-0026,2026-11-02,Field reports,FR-01029,achieved_cumulative,Achievement exceeds target,Accuracy,131 vs target 82,Excluded pending verification against site records,,Open - verify with engineer
+DQ-0027,2026-11-02,Reconciliation,ITCN-DB-004 / Roads & Access,achieved,Field vs contractor: Major gap,Consistency,"field=374, contractor=446",Joint verification visit requested (engineer + contractor),,Open - joint verification
+DQ-0028,2026-11-02,Reconciliation,ITCN-NG-002 / Roads & Access,achieved,Field vs contractor: Major gap,Consistency,"field=103, contractor=134",Joint verification visit requested (engineer + contractor),,Open - joint verification
+DQ-0029,2026-11-02,Reconciliation,ITCN-KY-003 / Electricity,achieved,Field vs contractor: Major gap,Consistency,"field=19, contractor=26",Joint verification visit requested (engineer + contractor),,Open - joint verification
+DQ-0030,2026-11-02,Reconciliation,ITCN-DB-009 / Shelter,achieved,Field vs contractor: Major gap,Consistency,"field=35, contractor=42",Joint verification visit requested (engineer + contractor),,Open - joint verification
+DQ-0031,2026-11-02,Reconciliation,ITCN-DB-009 / Electricity,achieved,Field vs contractor: Major gap,Consistency,"field=23, contractor=27",Joint verification visit requested (engineer + contractor),,Open - joint verification
+DQ-0032,2026-11-02,Reconciliation,ITCN-DB-012 / Electricity,achieved,Field vs contractor: Major gap,Consistency,"field=30, contractor=39",Joint verification visit requested (engineer + contractor),,Open - joint verification
+DQ-0033,2026-11-02,Household registry,ITCN-KY-006-HH0043,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0034,2026-11-02,Household registry,ITCN-DB-010-HH0299,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0035,2026-11-02,Household registry,ITCN-KY-004-HH0114,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0036,2026-11-02,Household registry,ITCN-NG-002-HH0010,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0037,2026-11-02,Household registry,ITCN-GZ-001-HH0038,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0038,2026-11-02,Household registry,ITCN-DB-008-HH0268,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0039,2026-11-02,Household registry,ITCN-DB-004-HH0319,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0040,2026-11-02,Household registry,ITCN-KY-003-HH0254,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0041,2026-11-02,Household registry,ITCN-RF-002-HH0001,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0042,2026-11-02,Household registry,ITCN-DB-007-HH0311,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0043,2026-11-02,Household registry,ITCN-GZ-004-HH0118,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0044,2026-11-02,Household registry,ITCN-KY-004-HH0005,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0045,2026-11-02,Household registry,ITCN-KY-003-HH0062,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0046,2026-11-02,Household registry,ITCN-DB-001-HH0241,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0047,2026-11-02,Household registry,ITCN-DB-006-HH0091,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0048,2026-11-02,Household registry,ITCN-GZ-001-HH0078,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0049,2026-11-02,Household registry,ITCN-GZ-004-HH0229,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0050,2026-11-02,Household registry,ITCN-NG-002-HH0080,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0051,2026-11-02,Household registry,ITCN-NG-001-HH0078,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0052,2026-11-02,Household registry,ITCN-RF-001-HH0021,hh_size,Household size is zero,Validity,0,Verify with household,,Open - field follow-up
+DQ-0053,2026-11-02,Household registry,ITCN-DB-011-HH0051,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0054,2026-11-02,Household registry,ITCN-DB-001-HH0174,hh_size,Household size is zero,Validity,0,Verify with household,,Open - field follow-up
+DQ-0055,2026-11-02,Household registry,ITCN-GZ-005-HH0186,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0056,2026-11-02,Household registry,ITCN-GZ-004-HH0008,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0057,2026-11-02,Household registry,ITCN-NG-003-HH0335,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0058,2026-11-02,Household registry,ITCN-GZ-006-HH0221,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0059,2026-11-02,Household registry,ITCN-GZ-004-HH0129,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0060,2026-11-02,Household registry,ITCN-NG-003-HH0180,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0061,2026-11-02,Household registry,ITCN-GZ-004-HH0257,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0062,2026-11-02,Household registry,ITCN-DB-004-HH0245,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0063,2026-11-02,Household registry,ITCN-KY-002-HH0091,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0064,2026-11-02,Household registry,ITCN-DB-007-HH0100,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0065,2026-11-02,Household registry,ITCN-KY-006-HH0308,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0066,2026-11-02,Household registry,ITCN-KY-004-HH0209,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0067,2026-11-02,Household registry,ITCN-GZ-006-HH0116,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0068,2026-11-02,Household registry,ITCN-KY-006-HH0257,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0069,2026-11-02,Household registry,ITCN-DB-006-HH0076,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0070,2026-11-02,Household registry,ITCN-KY-001-HH0181,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0071,2026-11-02,Household registry,ITCN-RF-002-HH0143,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0072,2026-11-02,Household registry,ITCN-GZ-001-HH0004,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0073,2026-11-02,Household registry,ITCN-GZ-002-HH0201,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0074,2026-11-02,Household registry,ITCN-KY-005-HH0012,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0075,2026-11-02,Household registry,ITCN-RF-002-HH0103,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0076,2026-11-02,Household registry,ITCN-KY-002-HH0160,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0077,2026-11-02,Household registry,ITCN-DB-002-HH0027,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0078,2026-11-02,Household registry,ITCN-KY-006-HH0243,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0079,2026-11-02,Household registry,ITCN-RF-003-HH0095,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0080,2026-11-02,Household registry,ITCN-KY-002-HH0269,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0081,2026-11-02,Household registry,ITCN-GZ-002-HH0266,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0082,2026-11-02,Household registry,ITCN-GZ-002-HH0266,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0083,2026-11-02,Household registry,ITCN-GZ-004-HH0107,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0084,2026-11-02,Household registry,ITCN-DB-012-HH0103,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0085,2026-11-02,Household registry,ITCN-GZ-006-HH0091,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0086,2026-11-02,Household registry,ITCN-RF-003-HH0177,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0087,2026-11-02,Household registry,ITCN-DB-010-HH0259,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0088,2026-11-02,Household registry,ITCN-DB-007-HH0007,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0089,2026-11-02,Household registry,ITCN-GZ-002-HH0169,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0090,2026-11-02,Household registry,ITCN-DB-002-HH0073,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0091,2026-11-02,Household registry,ITCN-GZ-004-HH0224,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0092,2026-11-02,Household registry,ITCN-DB-008-HH0184,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0093,2026-11-02,Household registry,ITCN-DB-005-HH0071,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0094,2026-11-02,Household registry,ITCN-DB-002-HH0090,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0095,2026-11-02,Household registry,ITCN-KY-004-HH0060,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0096,2026-11-02,Household registry,ITCN-DB-012-HH0244,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0097,2026-11-02,Household registry,ITCN-NG-002-HH0072,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0098,2026-11-02,Household registry,ITCN-KY-002-HH0166,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0099,2026-11-02,Household registry,ITCN-DB-003-HH0028,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0100,2026-11-02,Household registry,ITCN-DB-001-HH0159,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0101,2026-11-02,Household registry,ITCN-DB-005-HH0004,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0102,2026-11-02,Household registry,ITCN-RF-002-HH0062,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0103,2026-11-02,Household registry,ITCN-GZ-005-HH0288,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0104,2026-11-02,Household registry,ITCN-KY-003-HH0033,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0105,2026-11-02,Household registry,ITCN-DB-012-HH0149,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0106,2026-11-02,Household registry,ITCN-DB-008-HH0278,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0107,2026-11-02,Household registry,ITCN-GZ-005-HH0083,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0108,2026-11-02,Household registry,ITCN-GZ-002-HH0255,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0109,2026-11-02,Household registry,ITCN-KY-002-HH0004,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0110,2026-11-02,Household registry,ITCN-KY-001-HH0017,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0111,2026-11-02,Household registry,ITCN-RF-002-HH0146,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0112,2026-11-02,Household registry,ITCN-NG-003-HH0344,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0113,2026-11-02,Household registry,ITCN-GZ-003-HH0042,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0114,2026-11-02,Household registry,ITCN-DB-007-HH0092,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0115,2026-11-02,Household registry,ITCN-NG-002-HH0159,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0116,2026-11-02,Household registry,ITCN-GZ-003-HH0003,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0117,2026-11-02,Household registry,ITCN-GZ-004-HH0005,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0118,2026-11-02,Household registry,ITCN-GZ-004-HH0124,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0119,2026-11-02,Household registry,ITCN-NG-002-HH0179,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0120,2026-11-02,Household registry,ITCN-DB-007-HH0131,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0121,2026-11-02,Household registry,ITCN-KY-005-HH0053,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0122,2026-11-02,Household registry,ITCN-NG-003-HH0087,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0123,2026-11-02,Household registry,ITCN-DB-011-HH0138,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0124,2026-11-02,Household registry,ITCN-KY-003-HH0155,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0125,2026-11-02,Household registry,ITCN-KY-002-HH0100,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0126,2026-11-02,Household registry,ITCN-NG-002-HH0198,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0127,2026-11-02,Household registry,ITCN-KY-002-HH0033,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0128,2026-11-02,Household registry,ITCN-GZ-006-HH0061,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0129,2026-11-02,Household registry,ITCN-KY-002-HH0170,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0130,2026-11-02,Household registry,ITCN-DB-007-HH0176,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0131,2026-11-02,Household registry,ITCN-NG-003-HH0057,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0132,2026-11-02,Household registry,ITCN-KY-003-HH0335,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0133,2026-11-02,Household registry,ITCN-KY-002-HH0186,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0134,2026-11-02,Household registry,ITCN-NG-002-HH0056,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0135,2026-11-02,Household registry,ITCN-NG-002-HH0019,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0136,2026-11-02,Household registry,ITCN-GZ-006-HH0027,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0137,2026-11-02,Household registry,ITCN-DB-001-HH0094,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0138,2026-11-02,Household registry,ITCN-GZ-005-HH0212,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0139,2026-11-02,Household registry,ITCN-KY-004-HH0306,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0140,2026-11-02,Household registry,ITCN-DB-011-HH0188,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0141,2026-11-02,Household registry,ITCN-KY-006-HH0075,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0142,2026-11-02,Household registry,ITCN-RF-003-HH0232,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0143,2026-11-02,Household registry,ITCN-GZ-004-HH0050,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0144,2026-11-02,Household registry,ITCN-DB-011-HH0019,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0145,2026-11-02,Household registry,ITCN-KY-002-HH0175,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0146,2026-11-02,Household registry,ITCN-KY-004-HH0241,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0147,2026-11-02,Household registry,ITCN-GZ-004-HH0151,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0148,2026-11-02,Household registry,ITCN-RF-001-HH0083,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0149,2026-11-02,Household registry,ITCN-DB-005-HH0033,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0150,2026-11-02,Household registry,ITCN-NG-003-HH0231,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0151,2026-11-02,Household registry,ITCN-KY-002-HH0014,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0152,2026-11-02,Household registry,ITCN-GZ-002-HH0139,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0153,2026-11-02,Household registry,ITCN-DB-005-HH0026,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0154,2026-11-02,Household registry,ITCN-DB-011-HH0023,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0155,2026-11-02,Household registry,ITCN-GZ-001-HH0123,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0156,2026-11-02,Household registry,ITCN-DB-007-HH0192,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0157,2026-11-02,Household registry,ITCN-RF-003-HH0206,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0158,2026-11-02,Household registry,ITCN-DB-007-HH0168,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0159,2026-11-02,Household registry,ITCN-KY-004-HH0194,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0160,2026-11-02,Household registry,ITCN-KY-006-HH0387,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0161,2026-11-02,Household registry,ITCN-GZ-001-HH0075,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0162,2026-11-02,Household registry,ITCN-GZ-005-HH0010,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0163,2026-11-02,Household registry,ITCN-NG-001-HH0080,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0164,2026-11-02,Household registry,ITCN-DB-004-HH0037,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0165,2026-11-02,Household registry,ITCN-GZ-006-HH0187,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0166,2026-11-02,Household registry,ITCN-DB-004-HH0057,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0167,2026-11-02,Household registry,ITCN-KY-001-HH0199,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0168,2026-11-02,Household registry,ITCN-KY-006-HH0339,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0169,2026-11-02,Household registry,ITCN-DB-008-HH0204,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0170,2026-11-02,Household registry,ITCN-KY-003-HH0087,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0171,2026-11-02,Household registry,ITCN-DB-001-HH0182,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0172,2026-11-02,Household registry,ITCN-DB-011-HH0118,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0173,2026-11-02,Household registry,ITCN-KY-002-HH0252,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0174,2026-11-02,Household registry,ITCN-NG-003-HH0303,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0175,2026-11-02,Household registry,ITCN-NG-002-HH0220,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0176,2026-11-02,Household registry,ITCN-NG-003-HH0155,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0177,2026-11-02,Household registry,ITCN-KY-003-HH0049,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0178,2026-11-02,Household registry,ITCN-NG-001-HH0101,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0179,2026-11-02,Household registry,ITCN-GZ-005-HH0231,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0180,2026-11-02,Household registry,ITCN-DB-001-HH0224,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0181,2026-11-02,Household registry,ITCN-DB-006-HH0130,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0182,2026-11-02,Household registry,ITCN-DB-012-HH0206,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0183,2026-11-02,Household registry,ITCN-DB-012-HH0266,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0184,2026-11-02,Household registry,ITCN-DB-008-HH0062,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0185,2026-11-02,Household registry,ITCN-GZ-002-HH0087,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0186,2026-11-02,Household registry,ITCN-RF-002-HH0090,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0187,2026-11-02,Household registry,ITCN-GZ-005-HH0325,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0188,2026-11-02,Household registry,ITCN-KY-002-HH0245,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0189,2026-11-02,Household registry,ITCN-GZ-005-HH0116,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0190,2026-11-02,Household registry,ITCN-KY-004-HH0174,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0191,2026-11-02,Household registry,ITCN-KY-001-HH0089,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0192,2026-11-02,Household registry,ITCN-DB-001-HH0035,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0193,2026-11-02,Household registry,ITCN-DB-007-HH0327,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0194,2026-11-02,Household registry,ITCN-RF-003-HH0255,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0195,2026-11-02,Household registry,ITCN-DB-004-HH0089,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0196,2026-11-02,Household registry,ITCN-DB-006-HH0007,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0197,2026-11-02,Household registry,ITCN-GZ-006-HH0075,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0198,2026-11-02,Household registry,ITCN-GZ-002-HH0298,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0199,2026-11-02,Household registry,ITCN-DB-012-HH0059,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0200,2026-11-02,Household registry,ITCN-KY-003-HH0143,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0201,2026-11-02,Household registry,ITCN-KY-003-HH0085,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0202,2026-11-02,Household registry,ITCN-KY-006-HH0081,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0203,2026-11-02,Household registry,ITCN-KY-004-HH0035,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0204,2026-11-02,Household registry,ITCN-DB-004-HH0155,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0205,2026-11-02,Household registry,ITCN-RF-003-HH0113,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0206,2026-11-02,Household registry,ITCN-GZ-005-HH0006,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0207,2026-11-02,Household registry,ITCN-KY-005-HH0074,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0208,2026-11-02,Household registry,ITCN-KY-003-HH0208,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0209,2026-11-02,Household registry,ITCN-GZ-005-HH0251,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0210,2026-11-02,Household registry,ITCN-DB-001-HH0254,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0211,2026-11-02,Household registry,ITCN-RF-001-HH0002,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0212,2026-11-02,Household registry,ITCN-KY-003-HH0168,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0213,2026-11-02,Household registry,ITCN-GZ-005-HH0177,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0214,2026-11-02,Household registry,ITCN-DB-005-HH0067,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0215,2026-11-02,Household registry,ITCN-KY-003-HH0148,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0216,2026-11-02,Household registry,ITCN-DB-004-HH0101,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0217,2026-11-02,Household registry,ITCN-DB-001-HH0091,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0218,2026-11-02,Household registry,ITCN-DB-012-HH0111,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0219,2026-11-02,Household registry,ITCN-DB-001-HH0213,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0220,2026-11-02,Household registry,ITCN-DB-008-HH0314,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0221,2026-11-02,Household registry,ITCN-GZ-002-HH0188,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0222,2026-11-02,Household registry,ITCN-DB-008-HH0194,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0223,2026-11-02,Household registry,ITCN-DB-004-HH0235,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0224,2026-11-02,Household registry,ITCN-KY-006-HH0130,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0225,2026-11-02,Household registry,ITCN-GZ-005-HH0059,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0226,2026-11-02,Household registry,ITCN-RF-003-HH0138,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0227,2026-11-02,Household registry,ITCN-NG-003-HH0223,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0228,2026-11-02,Household registry,ITCN-DB-002-HH9246,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0229,2026-11-02,Household registry,ITCN-KY-003-HH0088,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0230,2026-11-02,Household registry,ITCN-DB-011-HH0066,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0231,2026-11-02,Household registry,ITCN-GZ-005-HH0311,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0232,2026-11-02,Household registry,ITCN-NG-002-HH0146,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0233,2026-11-02,Household registry,ITCN-KY-006-HH0141,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0234,2026-11-02,Household registry,ITCN-KY-003-HH0256,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0235,2026-11-02,Household registry,ITCN-GZ-002-HH0250,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0236,2026-11-02,Household registry,ITCN-GZ-004-HH0208,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0237,2026-11-02,Household registry,ITCN-KY-006-HH0206,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0238,2026-11-02,Household registry,ITCN-DB-004-HH0222,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0239,2026-11-02,Household registry,ITCN-NG-003-HH0188,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0240,2026-11-02,Household registry,ITCN-NG-002-HH0257,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0241,2026-11-02,Household registry,ITCN-KY-006-HH0089,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0242,2026-11-02,Household registry,ITCN-DB-002-HH0107,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0243,2026-11-02,Household registry,ITCN-GZ-002-HH0202,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0244,2026-11-02,Household registry,ITCN-KY-002-HH0161,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0245,2026-11-02,Household registry,ITCN-GZ-005-HH0230,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0246,2026-11-02,Household registry,ITCN-KY-003-HH0095,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0247,2026-11-02,Household registry,ITCN-KY-001-HH0001,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0248,2026-11-02,Household registry,ITCN-GZ-001-HH0095,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0249,2026-11-02,Household registry,ITCN-DB-007-HH0197,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0250,2026-11-02,Household registry,ITCN-RF-002-HH0054,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0251,2026-11-02,Household registry,ITCN-DB-001-HH0132,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0252,2026-11-02,Household registry,ITCN-GZ-001-HH0035,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0253,2026-11-02,Household registry,ITCN-DB-004-HH0122,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0254,2026-11-02,Household registry,ITCN-DB-008-HH0322,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0255,2026-11-02,Household registry,ITCN-DB-009-HH0007,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0256,2026-11-02,Household registry,ITCN-KY-004-HH0054,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0257,2026-11-02,Household registry,ITCN-GZ-002-HH0135,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0258,2026-11-02,Household registry,ITCN-GZ-006-HH0099,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0259,2026-11-02,Household registry,ITCN-GZ-006-HH0108,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0260,2026-11-02,Household registry,ITCN-GZ-005-HH0147,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0261,2026-11-02,Household registry,ITCN-GZ-006-HH0039,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0262,2026-11-02,Household registry,ITCN-DB-010-HH0257,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0263,2026-11-02,Household registry,ITCN-KY-006-HH0338,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0264,2026-11-02,Household registry,ITCN-KY-001-HH0110,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0265,2026-11-02,Household registry,ITCN-DB-003-HH0046,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0266,2026-11-02,Household registry,ITCN-GZ-004-HH0267,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0267,2026-11-02,Household registry,ITCN-DB-006-HH0094,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0268,2026-11-02,Household registry,ITCN-DB-012-HH0017,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0269,2026-11-02,Household registry,ITCN-RF-002-HH0039,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0270,2026-11-02,Household registry,ITCN-GZ-002-HH0219,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0271,2026-11-02,Household registry,ITCN-KY-002-HH0192,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0272,2026-11-02,Household registry,ITCN-KY-006-HH0090,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0273,2026-11-02,Household registry,ITCN-GZ-002-HH0295,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0274,2026-11-02,Household registry,ITCN-DB-001-HH0298,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0275,2026-11-02,Household registry,ITCN-GZ-004-HH0009,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0276,2026-11-02,Household registry,ITCN-DB-008-HH0120,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0277,2026-11-02,Household registry,ITCN-KY-006-HH0221,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0278,2026-11-02,Household registry,ITCN-RF-002-HH0003,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0279,2026-11-02,Household registry,ITCN-GZ-006-HH0076,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0280,2026-11-02,Household registry,ITCN-KY-002-HH0106,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0281,2026-11-02,Household registry,ITCN-DB-012-HH0181,hh_size,Household size is zero,Validity,0,Verify with household,,Open - field follow-up
+DQ-0282,2026-11-02,Household registry,ITCN-DB-006-HH0146,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0283,2026-11-02,Household registry,ITCN-DB-010-HH0120,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0284,2026-11-02,Household registry,ITCN-KY-006-HH0193,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0285,2026-11-02,Household registry,ITCN-KY-006-HH0193,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0286,2026-11-02,Household registry,ITCN-KY-005-HH0181,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0287,2026-11-02,Household registry,ITCN-DB-007-HH0064,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0288,2026-11-02,Household registry,ITCN-KY-004-HH0025,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0289,2026-11-02,Household registry,ITCN-KY-002-HH0058,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0290,2026-11-02,Household registry,ITCN-DB-012-HH0069,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0291,2026-11-02,Household registry,ITCN-DB-002-HH0078,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0292,2026-11-02,Household registry,ITCN-NG-003-HH0312,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0293,2026-11-02,Household registry,ITCN-NG-003-HH0215,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0294,2026-11-02,Household registry,ITCN-GZ-002-HH0294,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0295,2026-11-02,Household registry,ITCN-KY-006-HH0145,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0296,2026-11-02,Household registry,ITCN-KY-002-HH0048,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0297,2026-11-02,Household registry,ITCN-DB-007-HH0326,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0298,2026-11-02,Household registry,ITCN-RF-003-HH0217,head_gender,Non-standard gender code,Consistency,Male,Recoded to M/F,M,Auto-corrected
+DQ-0299,2026-11-02,Household registry,ITCN-NG-003-HH0075,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0300,2026-11-02,Household registry,ITCN-RF-003-HH0251,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0301,2026-11-02,Household registry,ITCN-KY-001-HH0094,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0302,2026-11-02,Household registry,ITCN-DB-012-HH0026,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0303,2026-11-02,Household registry,ITCN-DB-008-HH0219,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0304,2026-11-02,Household registry,ITCN-NG-003-HH0160,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0305,2026-11-02,Household registry,ITCN-NG-003-HH9657,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0306,2026-11-02,Household registry,ITCN-DB-007-HH0090,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0307,2026-11-02,Household registry,ITCN-KY-006-HH0398,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0308,2026-11-02,Household registry,ITCN-KY-003-HH0106,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0309,2026-11-02,Household registry,ITCN-KY-002-HH0193,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0310,2026-11-02,Household registry,ITCN-KY-004-HH0340,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0311,2026-11-02,Household registry,ITCN-DB-005-HH0063,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0312,2026-11-02,Household registry,ITCN-KY-004-HH0252,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0313,2026-11-02,Household registry,ITCN-KY-004-HH0308,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0314,2026-11-02,Household registry,ITCN-DB-010-HH0174,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0315,2026-11-02,Household registry,ITCN-GZ-002-HH0256,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0316,2026-11-02,Household registry,ITCN-DB-006-HH0205,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0317,2026-11-02,Household registry,ITCN-RF-003-HH0231,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0318,2026-11-02,Household registry,ITCN-DB-010-HH0281,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0319,2026-11-02,Household registry,ITCN-NG-003-HH0189,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0320,2026-11-02,Household registry,ITCN-RF-002-HH0043,hh_size,Household size is zero,Validity,0,Verify with household,,Open - field follow-up
+DQ-0321,2026-11-02,Household registry,ITCN-KY-003-HH0081,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0322,2026-11-02,Household registry,ITCN-KY-002-HH0182,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0323,2026-11-02,Household registry,ITCN-DB-004-HH0240,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0324,2026-11-02,Household registry,ITCN-NG-002-HH0178,head_gender,Missing gender,Completeness,,Community mobiliser to complete at next visit,,Open - field follow-up
+DQ-0325,2026-11-02,Household registry,ITCN-DB-003-HH0016,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0326,2026-11-02,Household registry,ITCN-DB-010-HH0048,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0327,2026-11-02,Household registry,ITCN-DB-001-HH0295,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0328,2026-11-02,Household registry,ITCN-DB-001-HH0295,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0329,2026-11-02,Household registry,ITCN-GZ-004-HH0088,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0330,2026-11-02,Household registry,ITCN-NG-001-HH0069,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0331,2026-11-02,Household registry,ITCN-KY-003-HH0073,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0332,2026-11-02,Household registry,ITCN-GZ-004-HH0093,consent_given,No recorded consent,Data protection,,Excluded from shared datasets,,Open - obtain consent
+DQ-0333,2026-11-02,Household registry,ITCN-KY-002-HH0034,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0334,2026-11-02,Household registry,ITCN-DB-005-HH0059,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0335,2026-11-02,Household registry,ITCN-DB-005-HH0036,hh_size,Household size is zero,Validity,0,Verify with household,,Open - field follow-up
+DQ-0336,2026-11-02,Household registry,ITCN-KY-003-HH0067,hh_size,Household size is zero,Validity,0,Verify with household,,Open - field follow-up
+DQ-0337,2026-11-02,Household registry,ITCN-DB-009-HH0004,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0338,2026-11-02,Household registry,ITCN-RF-002-HH0002,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0339,2026-11-02,Household registry,ITCN-RF-001-HH0011,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0340,2026-11-02,Household registry,ITCN-DB-010-HH0274,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0341,2026-11-02,Household registry,ITCN-DB-005-HH0062,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0342,2026-11-02,Household registry,ITCN-DB-001-HH0315,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0343,2026-11-02,Household registry,ITCN-DB-007-HH0181,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0344,2026-11-02,Household registry,ITCN-DB-007-HH0030,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0345,2026-11-02,Household registry,ITCN-KY-005-HH0101,consent_given,No recorded consent,Data protection,no,Excluded from shared datasets,,Open - obtain consent
+DQ-0346,2026-11-02,Household registry,ITCN-DB-001-HH0181,phone,Invalid phone number,Validity,(masked),Flagged for update,,Open - field follow-up
+DQ-0347,2026-11-02,Household registry,ITCN-DB-001-HH0181,id_number,ID number fails check digit,Validity,(masked),Verify against ID document,,Open - field follow-up
+DQ-0348,2026-11-02,Household registry,ITCN-DB-012-HH0119 / ITCN-GZ-001-HH9233,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0349,2026-11-02,Household registry,ITCN-KY-006-HH0135 / ITCN-DB-002-HH9925,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0350,2026-11-02,Household registry,ITCN-RF-001-HH9927 / ITCN-DB-002-HH0004,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0351,2026-11-02,Household registry,ITCN-DB-010-HH0195 / ITCN-NG-003-HH9330,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0352,2026-11-02,Household registry,ITCN-KY-002-HH0251 / ITCN-GZ-006-HH9444,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0353,2026-11-02,Household registry,ITCN-DB-001-HH0106 / ITCN-KY-006-HH9879,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0354,2026-11-02,Household registry,ITCN-DB-002-HH9491 / ITCN-KY-001-HH0117,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0355,2026-11-02,Household registry,ITCN-KY-006-HH0071 / ITCN-DB-001-HH9271,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0356,2026-11-02,Household registry,ITCN-GZ-001-HH9193 / ITCN-DB-004-HH0217,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0357,2026-11-02,Household registry,ITCN-KY-006-HH0101 / ITCN-KY-002-HH9755,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0358,2026-11-02,Household registry,ITCN-GZ-006-HH9392 / ITCN-DB-006-HH0157,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0359,2026-11-02,Household registry,ITCN-DB-001-HH0065 / ITCN-DB-006-HH9331,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0360,2026-11-02,Household registry,ITCN-RF-003-HH9374 / ITCN-GZ-005-HH0070,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0361,2026-11-02,Household registry,ITCN-NG-003-HH0289 / ITCN-GZ-006-HH9819,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0362,2026-11-02,Household registry,ITCN-NG-003-HH9929 / ITCN-DB-007-HH0244,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0363,2026-11-02,Household registry,ITCN-RF-002-HH0002 / ITCN-DB-002-HH9246,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0364,2026-11-02,Household registry,ITCN-NG-003-HH9853 / ITCN-GZ-002-HH0193,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0365,2026-11-02,Household registry,ITCN-RF-003-HH0140 / ITCN-DB-007-HH9792,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0366,2026-11-02,Household registry,ITCN-KY-001-HH0156 / ITCN-DB-006-HH9610,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0367,2026-11-02,Household registry,ITCN-DB-003-HH9767 / ITCN-GZ-005-HH0315,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0368,2026-11-02,Household registry,ITCN-NG-003-HH9657 / ITCN-KY-001-HH0181,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0369,2026-11-02,Household registry,ITCN-KY-003-HH0276 / ITCN-DB-006-HH0033,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0370,2026-11-02,Household registry,ITCN-RF-001-HH0063 / ITCN-DB-006-HH9977,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0371,2026-11-02,Household registry,ITCN-KY-003-HH0264 / ITCN-KY-001-HH9796,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0372,2026-11-02,Household registry,ITCN-NG-002-HH0027 / ITCN-KY-006-HH9950,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0373,2026-11-02,Household registry,ITCN-GZ-005-HH9718 / ITCN-GZ-004-HH0037,id_number,Same head-of-household ID registered in 2 sites,Uniqueness,(masked),Held for case review by Area Coordinator,,Open - case review
+DQ-0374,2026-11-02,CfW attendance,CFW-0203 2026-09-24,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0375,2026-11-02,CfW attendance,CFW-0160 2026-09-17,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0376,2026-11-02,CfW attendance,CFW-0192 2026-10-08,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0377,2026-11-02,CfW attendance,CFW-0105 2026-09-29,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0378,2026-11-02,CfW attendance,CFW-0161 2026-09-28,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0379,2026-11-02,CfW attendance,CFW-0204 2026-09-28,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0380,2026-11-02,CfW attendance,CFW-0016 2026-09-07,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0381,2026-11-02,CfW attendance,CFW-0227 2026-09-19,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0382,2026-11-02,CfW attendance,CFW-0134 2026-10-03,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0383,2026-11-02,CfW attendance,CFW-0031 2026-09-05,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0384,2026-11-02,CfW attendance,CFW-0172 2026-10-13,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0385,2026-11-02,CfW attendance,CFW-0200 2026-09-20,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0386,2026-11-02,CfW attendance,CFW-0050 2026-09-28,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0387,2026-11-02,CfW attendance,CFW-0147 2026-09-19,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0388,2026-11-02,CfW attendance,CFW-0085 2026-09-23,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0389,2026-11-02,CfW attendance,CFW-0165 2026-09-10,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0390,2026-11-02,CfW attendance,CFW-0212 2026-10-12,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0391,2026-11-02,CfW attendance,CFW-0009 2026-10-03,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0392,2026-11-02,CfW attendance,CFW-0144 2026-10-26,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0393,2026-11-02,CfW attendance,CFW-0234 2026-09-21,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0394,2026-11-02,CfW attendance,CFW-0119 2026-10-19,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0395,2026-11-02,CfW attendance,CFW-0190 2026-10-08,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0396,2026-11-02,CfW attendance,CFW-0157 2026-10-17,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0397,2026-11-02,CfW attendance,CFW-0032 2026-09-19,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0398,2026-11-02,CfW attendance,CFW-0147 2026-09-29,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0399,2026-11-02,CfW attendance,CFW-0140 2026-09-09,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0400,2026-11-02,CfW attendance,CFW-0160 2026-10-06,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0401,2026-11-02,CfW attendance,CFW-0072 2026-10-08,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0402,2026-11-02,CfW attendance,CFW-0180 2026-10-12,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0403,2026-11-02,CfW attendance,CFW-0047 2026-09-02,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0404,2026-11-02,CfW attendance,CFW-0186 2026-09-29,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0405,2026-11-02,CfW attendance,CFW-0201 2026-09-27,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0406,2026-11-02,CfW attendance,CFW-0196 2026-09-06,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0407,2026-11-02,CfW attendance,CFW-0153 2026-10-04,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0408,2026-11-02,CfW attendance,CFW-0031 2026-10-06,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0409,2026-11-02,CfW attendance,CFW-0173 2026-10-01,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0410,2026-11-02,CfW attendance,CFW-0107 2026-09-24,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0411,2026-11-02,CfW attendance,CFW-0112 2026-10-04,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0412,2026-11-02,CfW attendance,CFW-0169 2026-09-20,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0413,2026-11-02,CfW attendance,CFW-0103 2026-09-27,(row),Same worker recorded twice on one day,Uniqueness,,Duplicate removed,,Auto-corrected
+DQ-0414,2026-11-02,CfW attendance,CFW-9009 2026-09-05,worker_id,Worker not in worker register,Validity,CFW-9009,Excluded from payment sheet,,Open - verify worker
+DQ-0415,2026-11-02,CfW attendance,CFW-9008 2026-09-24,worker_id,Worker not in worker register,Validity,CFW-9008,Excluded from payment sheet,,Open - verify worker
+DQ-0416,2026-11-02,CfW attendance,CFW-9001 2026-09-14,worker_id,Worker not in worker register,Validity,CFW-9001,Excluded from payment sheet,,Open - verify worker
+DQ-0417,2026-11-02,CfW attendance,CFW-9006 2026-09-20,worker_id,Worker not in worker register,Validity,CFW-9006,Excluded from payment sheet,,Open - verify worker
+DQ-0418,2026-11-02,CfW attendance,CFW-9000 2026-09-16,worker_id,Worker not in worker register,Validity,CFW-9000,Excluded from payment sheet,,Open - verify worker
+DQ-0419,2026-11-02,CfW attendance,CFW-9002 2026-09-08,worker_id,Worker not in worker register,Validity,CFW-9002,Excluded from payment sheet,,Open - verify worker
+DQ-0420,2026-11-02,CfW attendance,CFW-9004 2026-10-11,worker_id,Worker not in worker register,Validity,CFW-9004,Excluded from payment sheet,,Open - verify worker
+DQ-0421,2026-11-02,CfW attendance,CFW-9007 2026-09-14,worker_id,Worker not in worker register,Validity,CFW-9007,Excluded from payment sheet,,Open - verify worker
+DQ-0422,2026-11-02,CfW attendance,CFW-9003 2026-09-14,worker_id,Worker not in worker register,Validity,CFW-9003,Excluded from payment sheet,,Open - verify worker
+DQ-0423,2026-11-02,CfW attendance,CFW-9005 2026-09-14,worker_id,Worker not in worker register,Validity,CFW-9005,Excluded from payment sheet,,Open - verify worker
+DQ-0424,2026-11-02,CfW attendance,CFW-0169 2026-09-26,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0425,2026-11-02,CfW attendance,CFW-0085 2026-09-23,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0426,2026-11-02,CfW attendance,CFW-0153 2026-10-11,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0427,2026-11-02,CfW attendance,CFW-0106 2026-09-05,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0428,2026-11-02,CfW attendance,CFW-0201 2026-10-05,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0429,2026-11-02,CfW attendance,CFW-0011 2026-09-28,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0430,2026-11-02,CfW attendance,CFW-0033 2026-09-27,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet
+DQ-0431,2026-11-02,CfW attendance,CFW-0058 2026-09-23,hours,Hours above daily maximum (8),Validity,14,Capped at 0 pending timesheet check,0,Open - verify timesheet

@@ -1,0 +1,129 @@
+site_id,component,indicator,unit,target,contractor
+ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,248,CTR-B
+ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,116,CTR-C
+ITCN-NG-001,Electricity,Solar lighting units installed,unit,40,CTR-B
+ITCN-NG-001,WASH,Water points rehabilitated,point,3,CTR-D
+ITCN-NG-001,Solid Waste,Waste collection points established,point,4,CTR-B
+ITCN-GZ-001,WASH,Water points rehabilitated,point,10,CTR-B
+ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,575,CTR-C
+ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,102,CTR-C
+ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-C
+ITCN-GZ-001,Electricity,Solar lighting units installed,unit,58,CTR-C
+ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,390,CTR-A
+ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,60,CTR-B
+ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,3,CTR-D
+ITCN-GZ-002,Solid Waste,Waste collection points established,point,5,CTR-A
+ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,CTR-A
+ITCN-DB-001,WASH,Water points rehabilitated,point,4,CTR-A
+ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-B
+ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,101,CTR-D
+ITCN-DB-002,Solid Waste,Waste collection points established,point,3,CTR-C
+ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,678,CTR-B
+ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,69,CTR-B
+ITCN-DB-002,Electricity,Solar lighting units installed,unit,56,CTR-A
+ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,1,CTR-B
+ITCN-DB-003,Solid Waste,Waste collection points established,point,3,CTR-A
+ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,CTR-D
+ITCN-DB-003,Electricity,Solar lighting units installed,unit,38,CTR-B
+ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,93,CTR-D
+ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,CTR-D
+ITCN-DB-004,WASH,Water points rehabilitated,point,6,CTR-C
+ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,374,CTR-D
+ITCN-DB-004,Solid Waste,Waste collection points established,point,10,CTR-B
+ITCN-DB-004,Electricity,Solar lighting units installed,unit,18,CTR-A
+ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,28,CTR-C
+ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-D
+ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,483,CTR-C
+ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,105,CTR-A
+ITCN-KY-001,Electricity,Solar lighting units installed,unit,49,CTR-D
+ITCN-KY-001,Solid Waste,Waste collection points established,point,2,CTR-A
+ITCN-KY-002,WASH,Water points rehabilitated,point,7,CTR-B
+ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,643,CTR-A
+ITCN-KY-002,Solid Waste,Waste collection points established,point,8,CTR-A
+ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,65,CTR-D
+ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,1,CTR-A
+ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,41,CTR-C
+ITCN-RF-001,Electricity,Solar lighting units installed,unit,55,CTR-D
+ITCN-RF-001,WASH,Water points rehabilitated,point,11,CTR-D
+ITCN-RF-001,Solid Waste,Waste collection points established,point,2,CTR-C
+ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,202,CTR-C
+ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,85,CTR-A
+ITCN-NG-002,WASH,Water points rehabilitated,point,6,CTR-A
+ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,CTR-B
+ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,115,CTR-B
+ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,CTR-D
+ITCN-GZ-003,Electricity,Solar lighting units installed,unit,53,CTR-B
+ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,CTR-D
+ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,118,CTR-D
+ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,865,CTR-C
+ITCN-GZ-004,Electricity,Solar lighting units installed,unit,49,CTR-C
+ITCN-GZ-004,WASH,Water points rehabilitated,point,6,CTR-B
+ITCN-DB-005,WASH,Water points rehabilitated,point,11,CTR-C
+ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,CTR-D
+ITCN-DB-005,Electricity,Solar lighting units installed,unit,11,CTR-A
+ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,499,CTR-B
+ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,39,CTR-D
+ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,250,CTR-A
+ITCN-DB-006,Solid Waste,Waste collection points established,point,8,CTR-A
+ITCN-DB-006,Electricity,Solar lighting units installed,unit,29,CTR-B
+ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,118,CTR-D
+ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,98,CTR-D
+ITCN-DB-007,Electricity,Solar lighting units installed,unit,34,CTR-C
+ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,592,CTR-C
+ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,3,CTR-D
+ITCN-DB-007,WASH,Water points rehabilitated,point,10,CTR-A
+ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,81,CTR-D
+ITCN-DB-008,Solid Waste,Waste collection points established,point,7,CTR-B
+ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,374,CTR-B
+ITCN-DB-008,Electricity,Solar lighting units installed,unit,26,CTR-A
+ITCN-DB-008,WASH,Water points rehabilitated,point,6,CTR-A
+ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,106,CTR-D
+ITCN-KY-003,WASH,Water points rehabilitated,point,5,CTR-A
+ITCN-KY-003,Electricity,Solar lighting units installed,unit,41,CTR-D
+ITCN-KY-003,Solid Waste,Waste collection points established,point,2,CTR-D
+ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,CTR-B
+ITCN-KY-004,Solid Waste,Waste collection points established,point,4,CTR-C
+ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,CTR-D
+ITCN-KY-004,Electricity,Solar lighting units installed,unit,39,CTR-B
+ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,108,CTR-A
+ITCN-RF-002,Solid Waste,Waste collection points established,point,2,CTR-B
+ITCN-RF-002,Electricity,Solar lighting units installed,unit,27,CTR-D
+ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,71,CTR-A
+ITCN-NG-003,WASH,Water points rehabilitated,point,9,CTR-B
+ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,2,CTR-A
+ITCN-NG-003,Solid Waste,Waste collection points established,point,6,CTR-B
+ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,73,CTR-D
+ITCN-GZ-005,WASH,Water points rehabilitated,point,5,CTR-B
+ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,3,CTR-D
+ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,86,CTR-B
+ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,175,CTR-B
+ITCN-GZ-006,WASH,Water points rehabilitated,point,2,CTR-D
+ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,CTR-B
+ITCN-GZ-006,Electricity,Solar lighting units installed,unit,18,CTR-D
+ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,47,CTR-D
+ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,35,CTR-A
+ITCN-DB-009,WASH,Water points rehabilitated,point,3,CTR-B
+ITCN-DB-009,Electricity,Solar lighting units installed,unit,23,CTR-A
+ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,3,CTR-B
+ITCN-DB-010,Electricity,Solar lighting units installed,unit,56,CTR-B
+ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,82,CTR-D
+ITCN-DB-011,Solid Waste,Waste collection points established,point,6,CTR-C
+ITCN-DB-011,WASH,Water points rehabilitated,point,6,CTR-D
+ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,320,CTR-D
+ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,23,CTR-C
+ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,661,CTR-B
+ITCN-DB-012,Electricity,Solar lighting units installed,unit,55,CTR-D
+ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,22,CTR-A
+ITCN-KY-005,Electricity,Solar lighting units installed,unit,59,CTR-D
+ITCN-KY-005,WASH,Water points rehabilitated,point,7,CTR-B
+ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,46,CTR-B
+ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,1,CTR-B
+ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,494,CTR-D
+ITCN-KY-006,Electricity,Solar lighting units installed,unit,56,CTR-C
+ITCN-KY-006,WASH,Water points rehabilitated,point,6,CTR-C
+ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,74,CTR-A
+ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,267,CTR-C
+ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,101,CTR-B
+ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,3,CTR-A
+ITCN-RF-003,Solid Waste,Waste collection points established,point,7,CTR-A
+ITCN-RF-003,Electricity,Solar lighting units installed,unit,12,CTR-D

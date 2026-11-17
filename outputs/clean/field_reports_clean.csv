@@ -1,0 +1,1276 @@
+report_id,week_ending,site_id,component,indicator,unit,achieved_cumulative,reported_by,target,contractor
+FR-00129,2026-08-31,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00851,2026-09-07,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00333,2026-09-14,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00611,2026-09-21,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00214,2026-09-28,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-01249,2026-10-05,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00955,2026-10-12,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-01007,2026-10-19,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00242,2026-10-26,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00338,2026-11-02,ITCN-DB-001,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00118,2026-08-31,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,55,FE-01,337,CTR-A
+FR-01234,2026-09-07,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,113,FE-01,337,CTR-A
+FR-00739,2026-09-14,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,173,FE-01,337,CTR-A
+FR-00166,2026-09-21,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,236,FE-01,337,CTR-A
+FR-00005,2026-09-28,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,297,FE-01,337,CTR-A
+FR-00482,2026-10-05,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,FE-01,337,CTR-A
+FR-00199,2026-10-12,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,FE-01,337,CTR-A
+FR-00247,2026-10-19,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,FE-01,337,CTR-A
+FR-00084,2026-10-26,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,FE-01,337,CTR-A
+FR-01111,2026-11-02,ITCN-DB-001,Roads & Access,Access road rehabilitated,metre,337,FE-01,337,CTR-A
+FR-00347,2026-08-31,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,5,FE-01,101,CTR-D
+FR-00898,2026-09-07,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,12,FE-01,101,CTR-D
+FR-01158,2026-09-14,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,19,FE-01,101,CTR-D
+FR-00203,2026-09-21,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,31,FE-01,101,CTR-D
+FR-00843,2026-09-28,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,31,FE-01,101,CTR-D
+FR-00185,2026-10-05,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,34,FE-01,101,CTR-D
+FR-01259,2026-10-12,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,52,FE-01,101,CTR-D
+FR-00534,2026-10-19,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,66,FE-01,101,CTR-D
+FR-00408,2026-10-26,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,82,FE-01,101,CTR-D
+FR-00470,2026-11-02,ITCN-DB-001,Shelter,Relief Housing Units installed,RHU,89,FE-01,101,CTR-D
+FR-00068,2026-08-31,ITCN-DB-001,WASH,Water points rehabilitated,point,0,FE-01,4,CTR-A
+FR-00722,2026-09-07,ITCN-DB-001,WASH,Water points rehabilitated,point,0,FE-01,4,CTR-A
+FR-00190,2026-09-14,ITCN-DB-001,WASH,Water points rehabilitated,point,1,FE-01,4,CTR-A
+FR-00846,2026-09-21,ITCN-DB-001,WASH,Water points rehabilitated,point,1,FE-01,4,CTR-A
+FR-00184,2026-09-28,ITCN-DB-001,WASH,Water points rehabilitated,point,1,FE-01,4,CTR-A
+FR-00450,2026-10-05,ITCN-DB-001,WASH,Water points rehabilitated,point,1,FE-01,4,CTR-A
+FR-00911,2026-10-12,ITCN-DB-001,WASH,Water points rehabilitated,point,2,FE-01,4,CTR-A
+FR-00115,2026-10-19,ITCN-DB-001,WASH,Water points rehabilitated,point,2,FE-01,4,CTR-A
+FR-00855,2026-10-26,ITCN-DB-001,WASH,Water points rehabilitated,point,2,FE-01,4,CTR-A
+FR-00644,2026-11-02,ITCN-DB-001,WASH,Water points rehabilitated,point,3,FE-01,4,CTR-A
+FR-01122,2026-08-31,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00348,2026-09-07,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00890,2026-09-14,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-01058,2026-09-21,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00396,2026-09-28,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00884,2026-10-05,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-01112,2026-10-12,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00236,2026-10-19,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00012,2026-10-26,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00162,2026-11-02,ITCN-DB-002,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00222,2026-08-31,ITCN-DB-002,Electricity,Solar lighting units installed,unit,5,FE-01,56,CTR-A
+FR-00421,2026-09-07,ITCN-DB-002,Electricity,Solar lighting units installed,unit,10,FE-01,56,CTR-A
+FR-01171,2026-09-14,ITCN-DB-002,Electricity,Solar lighting units installed,unit,14,FE-01,56,CTR-A
+FR-01123,2026-09-21,ITCN-DB-002,Electricity,Solar lighting units installed,unit,18,FE-01,56,CTR-A
+FR-00493,2026-09-28,ITCN-DB-002,Electricity,Solar lighting units installed,unit,21,FE-01,56,CTR-A
+FR-00710,2026-10-05,ITCN-DB-002,Electricity,Solar lighting units installed,unit,24,FE-01,56,CTR-A
+FR-00097,2026-10-12,ITCN-DB-002,Electricity,Solar lighting units installed,unit,30,FE-01,56,CTR-A
+FR-01119,2026-10-19,ITCN-DB-002,Electricity,Solar lighting units installed,unit,33,FE-01,56,CTR-A
+FR-00894,2026-10-26,ITCN-DB-002,Electricity,Solar lighting units installed,unit,38,FE-01,56,CTR-A
+FR-01016,2026-11-02,ITCN-DB-002,Electricity,Solar lighting units installed,unit,45,FE-01,56,CTR-A
+FR-00235,2026-08-31,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,109,FE-01,678,CTR-B
+FR-00786,2026-09-07,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,242,FE-01,678,CTR-B
+FR-00542,2026-09-14,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,353,FE-01,678,CTR-B
+FR-00178,2026-09-21,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,416,FE-01,678,CTR-B
+FR-00461,2026-09-28,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,536,FE-01,678,CTR-B
+FR-00498,2026-10-05,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,620,FE-01,678,CTR-B
+FR-01030,2026-10-12,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,676,FE-01,678,CTR-B
+FR-00047,2026-10-19,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,678,FE-01,678,CTR-B
+FR-00091,2026-10-26,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,678,FE-01,678,CTR-B
+FR-00228,2026-11-02,ITCN-DB-002,Roads & Access,Access road rehabilitated,metre,678,FE-01,678,CTR-B
+FR-01163,2026-08-31,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,5,FE-01,69,CTR-B
+FR-00001,2026-09-07,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,9,FE-01,69,CTR-B
+FR-00985,2026-09-14,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,18,FE-01,69,CTR-B
+FR-00947,2026-09-21,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,26,FE-01,69,CTR-B
+FR-00366,2026-09-28,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,30,FE-01,69,CTR-B
+FR-00393,2026-10-05,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,37,FE-01,69,CTR-B
+FR-00363,2026-10-12,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,51,FE-01,69,CTR-B
+FR-01147,2026-10-19,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,61,FE-01,69,CTR-B
+FR-00891,2026-10-26,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,68,FE-01,69,CTR-B
+FR-00481,2026-11-02,ITCN-DB-002,Shelter,Relief Housing Units installed,RHU,69,FE-01,69,CTR-B
+FR-00207,2026-08-31,ITCN-DB-002,Solid Waste,Waste collection points established,point,0,FE-01,3,CTR-C
+FR-00716,2026-09-07,ITCN-DB-002,Solid Waste,Waste collection points established,point,1,FE-01,3,CTR-C
+FR-01222,2026-09-14,ITCN-DB-002,Solid Waste,Waste collection points established,point,1,FE-01,3,CTR-C
+FR-01236,2026-09-21,ITCN-DB-002,Solid Waste,Waste collection points established,point,1,FE-01,3,CTR-C
+FR-01250,2026-09-28,ITCN-DB-002,Solid Waste,Waste collection points established,point,1,FE-01,3,CTR-C
+FR-00735,2026-10-05,ITCN-DB-002,Solid Waste,Waste collection points established,point,1,FE-01,3,CTR-C
+FR-00138,2026-10-12,ITCN-DB-002,Solid Waste,Waste collection points established,point,1,FE-01,3,CTR-C
+FR-00061,2026-10-19,ITCN-DB-002,Solid Waste,Waste collection points established,point,2,FE-01,3,CTR-C
+FR-00029,2026-10-26,ITCN-DB-002,Solid Waste,Waste collection points established,point,2,FE-01,3,CTR-C
+FR-00378,2026-11-02,ITCN-DB-002,Solid Waste,Waste collection points established,point,2,FE-01,3,CTR-C
+FR-00823,2026-08-31,ITCN-DB-003,Electricity,Solar lighting units installed,unit,7,FE-06,38,CTR-B
+FR-00704,2026-09-07,ITCN-DB-003,Electricity,Solar lighting units installed,unit,12,FE-06,38,CTR-B
+FR-00592,2026-09-14,ITCN-DB-003,Electricity,Solar lighting units installed,unit,15,FE-06,38,CTR-B
+FR-00861,2026-09-21,ITCN-DB-003,Electricity,Solar lighting units installed,unit,19,FE-06,38,CTR-B
+FR-00883,2026-09-28,ITCN-DB-003,Electricity,Solar lighting units installed,unit,22,FE-06,38,CTR-B
+FR-00337,2026-10-05,ITCN-DB-003,Electricity,Solar lighting units installed,unit,24,FE-06,38,CTR-B
+FR-01286,2026-10-12,ITCN-DB-003,Electricity,Solar lighting units installed,unit,28,FE-06,38,CTR-B
+FR-00730,2026-10-19,ITCN-DB-003,Electricity,Solar lighting units installed,unit,32,FE-06,38,CTR-B
+FR-01272,2026-10-26,ITCN-DB-003,Electricity,Solar lighting units installed,unit,35,FE-06,38,CTR-B
+FR-01084,2026-11-02,ITCN-DB-003,Electricity,Solar lighting units installed,unit,38,FE-06,38,CTR-B
+FR-01000,2026-08-31,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,63,FE-06,655,CTR-D
+FR-00943,2026-09-07,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,177,FE-06,655,CTR-D
+FR-01197,2026-09-14,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,309,FE-06,655,CTR-D
+FR-00144,2026-09-21,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,432,FE-06,655,CTR-D
+FR-00852,2026-09-28,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,522,FE-06,655,CTR-D
+FR-01107,2026-10-05,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,FE-06,655,CTR-D
+FR-00426,2026-10-12,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,FE-06,655,CTR-D
+FR-00112,2026-10-19,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,FE-06,655,CTR-D
+FR-00202,2026-10-26,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,FE-06,655,CTR-D
+FR-00017,2026-11-02,ITCN-DB-003,Roads & Access,Access road rehabilitated,metre,655,FE-06,655,CTR-D
+FR-01026,2026-08-31,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,14,FE-06,93,CTR-D
+FR-00638,2026-09-07,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,22,FE-06,93,CTR-D
+FR-01004,2026-09-14,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,35,FE-06,93,CTR-D
+FR-00233,2026-09-21,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,50,FE-06,93,CTR-D
+FR-00249,2026-09-28,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,60,FE-06,93,CTR-D
+FR-00916,2026-10-05,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,81,FE-06,93,CTR-D
+FR-00298,2026-10-12,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,93,FE-06,93,CTR-D
+FR-01209,2026-10-19,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,93,FE-06,93,CTR-D
+FR-00936,2026-10-26,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,93,FE-06,93,CTR-D
+FR-00330,2026-11-02,ITCN-DB-003,Shelter,Relief Housing Units installed,RHU,93,FE-06,93,CTR-D
+FR-00725,2026-08-31,ITCN-DB-003,Solid Waste,Waste collection points established,point,0,FE-06,3,CTR-A
+FR-00721,2026-09-07,ITCN-DB-003,Solid Waste,Waste collection points established,point,1,FE-06,3,CTR-A
+FR-00044,2026-09-14,ITCN-DB-003,Solid Waste,Waste collection points established,point,1,FE-06,3,CTR-A
+FR-00669,2026-09-21,ITCN-DB-003,Solid Waste,Waste collection points established,point,2,FE-06,3,CTR-A
+FR-01131,2026-09-28,ITCN-DB-003,Solid Waste,Waste collection points established,point,2,FE-06,3,CTR-A
+FR-00282,2026-10-05,ITCN-DB-003,Solid Waste,Waste collection points established,point,2,FE-06,3,CTR-A
+FR-00603,2026-10-19,ITCN-DB-003,Solid Waste,Waste collection points established,point,3,FE-06,3,CTR-A
+FR-00229,2026-10-26,ITCN-DB-003,Solid Waste,Waste collection points established,point,3,FE-06,3,CTR-A
+FR-00212,2026-11-02,ITCN-DB-003,Solid Waste,Waste collection points established,point,3,FE-06,3,CTR-A
+FR-00437,2026-08-31,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,0,FE-04,1,CTR-D
+FR-00777,2026-09-07,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,0,FE-04,1,CTR-D
+FR-00798,2026-09-14,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,0,FE-04,1,CTR-D
+FR-01038,2026-09-21,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-01251,2026-09-28,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-01010,2026-10-05,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-00967,2026-10-12,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-01219,2026-10-19,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-01100,2026-10-26,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-00649,2026-11-02,ITCN-DB-004,Community Facility,Community facilities rehabilitated,facility,1,FE-04,1,CTR-D
+FR-00994,2026-08-31,ITCN-DB-004,Electricity,Solar lighting units installed,unit,2,FE-04,18,CTR-A
+FR-00356,2026-09-07,ITCN-DB-004,Electricity,Solar lighting units installed,unit,4,FE-04,18,CTR-A
+FR-00114,2026-09-14,ITCN-DB-004,Electricity,Solar lighting units installed,unit,5,FE-04,18,CTR-A
+FR-00779,2026-09-21,ITCN-DB-004,Electricity,Solar lighting units installed,unit,7,FE-04,18,CTR-A
+FR-00343,2026-09-28,ITCN-DB-004,Electricity,Solar lighting units installed,unit,9,FE-04,18,CTR-A
+FR-00962,2026-10-05,ITCN-DB-004,Electricity,Solar lighting units installed,unit,10,FE-04,18,CTR-A
+FR-00234,2026-10-12,ITCN-DB-004,Electricity,Solar lighting units installed,unit,11,FE-04,18,CTR-A
+FR-00071,2026-10-19,ITCN-DB-004,Electricity,Solar lighting units installed,unit,11,FE-04,18,CTR-A
+FR-01002,2026-10-26,ITCN-DB-004,Electricity,Solar lighting units installed,unit,13,FE-04,18,CTR-A
+FR-00673,2026-11-02,ITCN-DB-004,Electricity,Solar lighting units installed,unit,15,FE-04,18,CTR-A
+FR-00262,2026-08-31,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,56,FE-04,374,CTR-D
+FR-00668,2026-09-07,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,103,FE-04,374,CTR-D
+FR-01099,2026-09-14,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,166,FE-04,374,CTR-D
+FR-00260,2026-09-21,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,237,FE-04,374,CTR-D
+FR-00639,2026-09-28,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,295,FE-04,374,CTR-D
+FR-01217,2026-10-05,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,364,FE-04,374,CTR-D
+FR-00499,2026-10-12,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,374,FE-04,374,CTR-D
+FR-00552,2026-10-19,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,374,FE-04,374,CTR-D
+FR-00877,2026-10-26,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,374,FE-04,374,CTR-D
+FR-01092,2026-11-02,ITCN-DB-004,Roads & Access,Access road rehabilitated,metre,374,FE-04,374,CTR-D
+FR-01089,2026-08-31,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,4,FE-04,28,CTR-C
+FR-00016,2026-09-07,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,5,FE-04,28,CTR-C
+FR-00701,2026-09-14,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,9,FE-04,28,CTR-C
+FR-00051,2026-09-21,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,12,FE-04,28,CTR-C
+FR-00261,2026-09-28,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,16,FE-04,28,CTR-C
+FR-00785,2026-10-12,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,24,FE-04,28,CTR-C
+FR-00438,2026-10-19,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,28,FE-04,28,CTR-C
+FR-00289,2026-10-26,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,28,FE-04,28,CTR-C
+FR-00747,2026-11-02,ITCN-DB-004,Shelter,Relief Housing Units installed,RHU,28,FE-04,28,CTR-C
+FR-00983,2026-08-31,ITCN-DB-004,Solid Waste,Waste collection points established,point,1,FE-04,10,CTR-B
+FR-00124,2026-09-07,ITCN-DB-004,Solid Waste,Waste collection points established,point,2,FE-04,10,CTR-B
+FR-01048,2026-09-14,ITCN-DB-004,Solid Waste,Waste collection points established,point,2,FE-04,10,CTR-B
+FR-00182,2026-09-21,ITCN-DB-004,Solid Waste,Waste collection points established,point,2,FE-04,10,CTR-B
+FR-00170,2026-09-28,ITCN-DB-004,Solid Waste,Waste collection points established,point,3,FE-04,10,CTR-B
+FR-01028,2026-10-05,ITCN-DB-004,Solid Waste,Waste collection points established,point,3,FE-04,10,CTR-B
+FR-00792,2026-10-12,ITCN-DB-004,Solid Waste,Waste collection points established,point,5,FE-04,10,CTR-B
+FR-00895,2026-10-19,ITCN-DB-004,Solid Waste,Waste collection points established,point,6,FE-04,10,CTR-B
+FR-01233,2026-10-26,ITCN-DB-004,Solid Waste,Waste collection points established,point,7,FE-04,10,CTR-B
+FR-01182,2026-11-02,ITCN-DB-004,Solid Waste,Waste collection points established,point,8,FE-04,10,CTR-B
+FR-00976,2026-08-31,ITCN-DB-004,WASH,Water points rehabilitated,point,1,FE-04,6,CTR-C
+FR-01055,2026-09-07,ITCN-DB-004,WASH,Water points rehabilitated,point,2,FE-04,6,CTR-C
+FR-01085,2026-09-14,ITCN-DB-004,WASH,Water points rehabilitated,point,3,FE-04,6,CTR-C
+FR-00766,2026-09-21,ITCN-DB-004,WASH,Water points rehabilitated,point,3,FE-04,6,CTR-C
+FR-00781,2026-09-28,ITCN-DB-004,WASH,Water points rehabilitated,point,4,FE-04,6,CTR-C
+FR-01216,2026-10-05,ITCN-DB-004,WASH,Water points rehabilitated,point,5,FE-04,6,CTR-C
+FR-00903,2026-10-12,ITCN-DB-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-C
+FR-00335,2026-10-19,ITCN-DB-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-C
+FR-00028,2026-10-26,ITCN-DB-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-C
+FR-00774,2026-11-02,ITCN-DB-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-C
+FR-00464,2026-08-31,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,1,FE-05,3,CTR-D
+FR-01117,2026-09-07,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,1,FE-05,3,CTR-D
+FR-00340,2026-09-14,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,1,FE-05,3,CTR-D
+FR-00472,2026-09-21,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,2,FE-05,3,CTR-D
+FR-00960,2026-09-28,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,2,FE-05,3,CTR-D
+FR-01277,2026-10-05,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,FE-05,3,CTR-D
+FR-00391,2026-10-12,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,FE-05,3,CTR-D
+FR-01140,2026-10-19,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,FE-05,3,CTR-D
+FR-00937,2026-10-26,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,FE-05,3,CTR-D
+FR-00646,2026-11-02,ITCN-DB-005,Community Facility,Community facilities rehabilitated,facility,3,FE-05,3,CTR-D
+FR-00094,2026-08-31,ITCN-DB-005,Electricity,Solar lighting units installed,unit,1,FE-05,11,CTR-A
+FR-00339,2026-09-07,ITCN-DB-005,Electricity,Solar lighting units installed,unit,3,FE-05,11,CTR-A
+FR-00508,2026-09-14,ITCN-DB-005,Electricity,Solar lighting units installed,unit,4,FE-05,11,CTR-A
+FR-00502,2026-09-21,ITCN-DB-005,Electricity,Solar lighting units installed,unit,5,FE-05,11,CTR-A
+FR-00240,2026-09-28,ITCN-DB-005,Electricity,Solar lighting units installed,unit,6,FE-05,11,CTR-A
+FR-00116,2026-10-05,ITCN-DB-005,Electricity,Solar lighting units installed,unit,7,FE-05,11,CTR-A
+FR-00455,2026-10-12,ITCN-DB-005,Electricity,Solar lighting units installed,unit,9,FE-05,11,CTR-A
+FR-00412,2026-10-19,ITCN-DB-005,Electricity,Solar lighting units installed,unit,10,FE-05,11,CTR-A
+FR-00469,2026-10-26,ITCN-DB-005,Electricity,Solar lighting units installed,unit,11,FE-05,11,CTR-A
+FR-00663,2026-11-02,ITCN-DB-005,Electricity,Solar lighting units installed,unit,11,FE-05,11,CTR-A
+FR-00217,2026-08-31,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,35,FE-05,499,CTR-B
+FR-01074,2026-09-07,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,52,FE-05,499,CTR-B
+FR-01268,2026-09-14,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,78,FE-05,499,CTR-B
+FR-00157,2026-09-21,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,115,FE-05,499,CTR-B
+FR-00629,2026-09-28,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,142,FE-05,499,CTR-B
+FR-01218,2026-10-05,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,147,FE-05,499,CTR-B
+FR-00077,2026-10-12,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,181,FE-05,499,CTR-B
+FR-01054,2026-10-19,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,211,FE-05,499,CTR-B
+FR-00685,2026-10-26,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,237,FE-05,499,CTR-B
+FR-00932,2026-11-02,ITCN-DB-005,Roads & Access,Access road rehabilitated,metre,259,FE-05,499,CTR-B
+FR-00950,2026-08-31,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,4,FE-05,39,CTR-D
+FR-00377,2026-09-07,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,7,FE-05,39,CTR-D
+FR-00714,2026-09-14,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,12,FE-05,39,CTR-D
+FR-00574,2026-09-21,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,15,FE-05,39,CTR-D
+FR-01086,2026-09-28,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,21,FE-05,39,CTR-D
+FR-00135,2026-10-05,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,29,FE-05,39,CTR-D
+FR-00406,2026-10-12,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,34,FE-05,39,CTR-D
+FR-00130,2026-10-19,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,37,FE-05,39,CTR-D
+FR-00453,2026-10-26,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,39,FE-05,39,CTR-D
+FR-00080,2026-11-02,ITCN-DB-005,Shelter,Relief Housing Units installed,RHU,39,FE-05,39,CTR-D
+FR-00232,2026-08-31,ITCN-DB-005,WASH,Water points rehabilitated,point,1,FE-05,11,CTR-C
+FR-00619,2026-09-07,ITCN-DB-005,WASH,Water points rehabilitated,point,1,FE-05,11,CTR-C
+FR-00316,2026-09-14,ITCN-DB-005,WASH,Water points rehabilitated,point,2,FE-05,11,CTR-C
+FR-00027,2026-09-21,ITCN-DB-005,WASH,Water points rehabilitated,point,3,FE-05,11,CTR-C
+FR-00336,2026-09-28,ITCN-DB-005,WASH,Water points rehabilitated,point,4,FE-05,11,CTR-C
+FR-00949,2026-10-05,ITCN-DB-005,WASH,Water points rehabilitated,point,5,FE-05,11,CTR-C
+FR-00040,2026-10-12,ITCN-DB-005,WASH,Water points rehabilitated,point,5,FE-05,11,CTR-C
+FR-00183,2026-10-19,ITCN-DB-005,WASH,Water points rehabilitated,point,7,FE-05,11,CTR-C
+FR-01154,2026-10-26,ITCN-DB-005,WASH,Water points rehabilitated,point,9,FE-05,11,CTR-C
+FR-00885,2026-11-02,ITCN-DB-005,WASH,Water points rehabilitated,point,10,FE-05,11,CTR-C
+FR-00024,2026-08-31,ITCN-DB-006,Electricity,Solar lighting units installed,unit,4,FE-03,29,CTR-B
+FR-00942,2026-09-07,ITCN-DB-006,Electricity,Solar lighting units installed,unit,5,FE-03,29,CTR-B
+FR-01274,2026-09-14,ITCN-DB-006,Electricity,Solar lighting units installed,unit,7,FE-03,29,CTR-B
+FR-00250,2026-09-21,ITCN-DB-006,Electricity,Solar lighting units installed,unit,10,FE-03,29,CTR-B
+FR-00099,2026-09-28,ITCN-DB-006,Electricity,Solar lighting units installed,unit,10,FE-03,29,CTR-B
+FR-00457,2026-10-05,ITCN-DB-006,Electricity,Solar lighting units installed,unit,12,FE-03,29,CTR-B
+FR-01001,2026-10-12,ITCN-DB-006,Electricity,Solar lighting units installed,unit,15,FE-03,29,CTR-B
+FR-00596,2026-10-19,ITCN-DB-006,Electricity,Solar lighting units installed,unit,15,FE-03,29,CTR-B
+FR-00713,2026-10-26,ITCN-DB-006,Electricity,Solar lighting units installed,unit,16,FE-03,29,CTR-B
+FR-00169,2026-11-02,ITCN-DB-006,Electricity,Solar lighting units installed,unit,16,FE-03,29,CTR-B
+FR-00996,2026-08-31,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,21,FE-03,250,CTR-A
+FR-01271,2026-09-07,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,71,FE-03,250,CTR-A
+FR-00770,2026-09-14,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,105,FE-03,250,CTR-A
+FR-00764,2026-09-21,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,152,FE-03,250,CTR-A
+FR-00063,2026-09-28,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,183,FE-03,250,CTR-A
+FR-00767,2026-10-05,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,219,FE-03,250,CTR-A
+FR-00146,2026-10-12,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,242,FE-03,250,CTR-A
+FR-01188,2026-10-19,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,250,FE-03,250,CTR-A
+FR-00136,2026-10-26,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,250,FE-03,250,CTR-A
+FR-00424,2026-11-02,ITCN-DB-006,Roads & Access,Access road rehabilitated,metre,250,FE-03,250,CTR-A
+FR-00180,2026-08-31,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,13,FE-03,118,CTR-D
+FR-00279,2026-09-07,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,25,FE-03,118,CTR-D
+FR-01059,2026-09-14,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,37,FE-03,118,CTR-D
+FR-00698,2026-09-21,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,49,FE-03,118,CTR-D
+FR-00211,2026-09-28,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,64,FE-03,118,CTR-D
+FR-00517,2026-10-05,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,80,FE-03,118,CTR-D
+FR-00991,2026-10-12,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,98,FE-03,118,CTR-D
+FR-00374,2026-10-19,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,110,FE-03,118,CTR-D
+FR-00293,2026-10-26,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,118,FE-03,118,CTR-D
+FR-00174,2026-11-02,ITCN-DB-006,Shelter,Relief Housing Units installed,RHU,118,FE-03,118,CTR-D
+FR-00571,2026-08-31,ITCN-DB-006,Solid Waste,Waste collection points established,point,1,FE-03,8,CTR-A
+FR-00978,2026-09-07,ITCN-DB-006,Solid Waste,Waste collection points established,point,2,FE-03,8,CTR-A
+FR-00802,2026-09-14,ITCN-DB-006,Solid Waste,Waste collection points established,point,3,FE-03,8,CTR-A
+FR-00832,2026-09-21,ITCN-DB-006,Solid Waste,Waste collection points established,point,4,FE-03,8,CTR-A
+FR-00643,2026-09-28,ITCN-DB-006,Solid Waste,Waste collection points established,point,5,FE-03,8,CTR-A
+FR-01101,2026-10-05,ITCN-DB-006,Solid Waste,Waste collection points established,point,5,FE-03,8,CTR-A
+FR-00640,2026-10-12,ITCN-DB-006,Solid Waste,Waste collection points established,point,6,FE-03,8,CTR-A
+FR-01157,2026-10-19,ITCN-DB-006,Solid Waste,Waste collection points established,point,6,FE-03,8,CTR-A
+FR-01021,2026-10-26,ITCN-DB-006,Solid Waste,Waste collection points established,point,7,FE-03,8,CTR-A
+FR-01283,2026-11-02,ITCN-DB-006,Solid Waste,Waste collection points established,point,8,FE-03,8,CTR-A
+FR-00292,2026-08-31,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,0,FE-04,3,CTR-D
+FR-00019,2026-09-07,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,0,FE-04,3,CTR-D
+FR-00006,2026-09-14,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,0,FE-04,3,CTR-D
+FR-00368,2026-09-21,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,1,FE-04,3,CTR-D
+FR-01012,2026-09-28,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,1,FE-04,3,CTR-D
+FR-00655,2026-10-05,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,1,FE-04,3,CTR-D
+FR-00795,2026-10-12,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,1,FE-04,3,CTR-D
+FR-00026,2026-10-19,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,1,FE-04,3,CTR-D
+FR-00013,2026-10-26,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,2,FE-04,3,CTR-D
+FR-00086,2026-11-02,ITCN-DB-007,Community Facility,Community facilities rehabilitated,facility,2,FE-04,3,CTR-D
+FR-01174,2026-08-31,ITCN-DB-007,Electricity,Solar lighting units installed,unit,6,FE-04,34,CTR-C
+FR-01034,2026-09-07,ITCN-DB-007,Electricity,Solar lighting units installed,unit,13,FE-04,34,CTR-C
+FR-00480,2026-09-14,ITCN-DB-007,Electricity,Solar lighting units installed,unit,18,FE-04,34,CTR-C
+FR-00928,2026-09-21,ITCN-DB-007,Electricity,Solar lighting units installed,unit,20,FE-04,34,CTR-C
+FR-00958,2026-09-28,ITCN-DB-007,Electricity,Solar lighting units installed,unit,26,FE-04,34,CTR-C
+FR-01132,2026-10-05,ITCN-DB-007,Electricity,Solar lighting units installed,unit,32,FE-04,34,CTR-C
+FR-00833,2026-10-12,ITCN-DB-007,Electricity,Solar lighting units installed,unit,34,FE-04,34,CTR-C
+FR-00405,2026-10-19,ITCN-DB-007,Electricity,Solar lighting units installed,unit,34,FE-04,34,CTR-C
+FR-00127,2026-10-26,ITCN-DB-007,Electricity,Solar lighting units installed,unit,34,FE-04,34,CTR-C
+FR-01116,2026-11-02,ITCN-DB-007,Electricity,Solar lighting units installed,unit,34,FE-04,34,CTR-C
+FR-00731,2026-08-31,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,58,FE-04,592,CTR-C
+FR-00957,2026-09-07,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,164,FE-04,592,CTR-C
+FR-00160,2026-09-14,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,256,FE-04,592,CTR-C
+FR-00123,2026-09-21,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,335,FE-04,592,CTR-C
+FR-01253,2026-09-28,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,424,FE-04,592,CTR-C
+FR-00901,2026-10-05,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,462,FE-04,592,CTR-C
+FR-00133,2026-10-12,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,524,FE-04,592,CTR-C
+FR-00131,2026-10-19,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,570,FE-04,592,CTR-C
+FR-00281,2026-10-26,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,592,FE-04,592,CTR-C
+FR-00593,2026-11-02,ITCN-DB-007,Roads & Access,Access road rehabilitated,metre,592,FE-04,592,CTR-C
+FR-00871,2026-08-31,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,7,FE-04,98,CTR-D
+FR-00715,2026-09-07,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,16,FE-04,98,CTR-D
+FR-00575,2026-09-14,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,24,FE-04,98,CTR-D
+FR-00753,2026-09-21,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,31,FE-04,98,CTR-D
+FR-01225,2026-09-28,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,44,FE-04,98,CTR-D
+FR-00315,2026-10-05,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,52,FE-04,98,CTR-D
+FR-00443,2026-10-12,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,66,FE-04,98,CTR-D
+FR-00591,2026-10-19,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,82,FE-04,98,CTR-D
+FR-00154,2026-10-26,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,91,FE-04,98,CTR-D
+FR-00095,2026-11-02,ITCN-DB-007,Shelter,Relief Housing Units installed,RHU,98,FE-04,98,CTR-D
+FR-00049,2026-08-31,ITCN-DB-007,WASH,Water points rehabilitated,point,1,FE-04,10,CTR-A
+FR-00179,2026-09-07,ITCN-DB-007,WASH,Water points rehabilitated,point,3,FE-04,10,CTR-A
+FR-00787,2026-09-14,ITCN-DB-007,WASH,Water points rehabilitated,point,4,FE-04,10,CTR-A
+FR-00509,2026-09-21,ITCN-DB-007,WASH,Water points rehabilitated,point,5,FE-04,10,CTR-A
+FR-00810,2026-09-28,ITCN-DB-007,WASH,Water points rehabilitated,point,7,FE-04,10,CTR-A
+FR-01009,2026-10-05,ITCN-DB-007,WASH,Water points rehabilitated,point,9,FE-04,10,CTR-A
+FR-00087,2026-10-12,ITCN-DB-007,WASH,Water points rehabilitated,point,10,FE-04,10,CTR-A
+FR-00041,2026-10-19,ITCN-DB-007,WASH,Water points rehabilitated,point,10,FE-04,10,CTR-A
+FR-01210,2026-10-26,ITCN-DB-007,WASH,Water points rehabilitated,point,10,FE-04,10,CTR-A
+FR-00326,2026-11-02,ITCN-DB-007,WASH,Water points rehabilitated,point,10,FE-04,10,CTR-A
+FR-00088,2026-08-31,ITCN-DB-008,Electricity,Solar lighting units installed,unit,3,FE-02,26,CTR-A
+FR-00104,2026-09-07,ITCN-DB-008,Electricity,Solar lighting units installed,unit,6,FE-02,26,CTR-A
+FR-00812,2026-09-14,ITCN-DB-008,Electricity,Solar lighting units installed,unit,9,FE-02,26,CTR-A
+FR-00661,2026-09-21,ITCN-DB-008,Electricity,Solar lighting units installed,unit,10,FE-02,26,CTR-A
+FR-01145,2026-09-28,ITCN-DB-008,Electricity,Solar lighting units installed,unit,11,FE-02,26,CTR-A
+FR-00975,2026-10-05,ITCN-DB-008,Electricity,Solar lighting units installed,unit,13,FE-02,26,CTR-A
+FR-00870,2026-10-12,ITCN-DB-008,Electricity,Solar lighting units installed,unit,15,FE-02,26,CTR-A
+FR-01075,2026-10-19,ITCN-DB-008,Electricity,Solar lighting units installed,unit,18,FE-02,26,CTR-A
+FR-00351,2026-10-26,ITCN-DB-008,Electricity,Solar lighting units installed,unit,21,FE-02,26,CTR-A
+FR-00121,2026-11-02,ITCN-DB-008,Electricity,Solar lighting units installed,unit,23,FE-02,26,CTR-A
+FR-00636,2026-08-31,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,44,FE-02,374,CTR-B
+FR-00677,2026-09-07,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,60,FE-02,374,CTR-B
+FR-00613,2026-09-14,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,105,FE-02,374,CTR-B
+FR-00598,2026-09-21,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,157,FE-02,374,CTR-B
+FR-01230,2026-09-28,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,212,FE-02,374,CTR-B
+FR-00754,2026-10-05,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,264,FE-02,374,CTR-B
+FR-00645,2026-10-12,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,305,FE-02,374,CTR-B
+FR-01071,2026-10-19,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,360,FE-02,374,CTR-B
+FR-00718,2026-10-26,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,374,FE-02,374,CTR-B
+FR-00559,2026-11-02,ITCN-DB-008,Roads & Access,Access road rehabilitated,metre,374,FE-02,374,CTR-B
+FR-00681,2026-08-31,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,4,FE-02,81,CTR-D
+FR-01242,2026-09-07,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,18,FE-02,81,CTR-D
+FR-01103,2026-09-14,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,23,FE-02,81,CTR-D
+FR-00687,2026-09-21,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,30,FE-02,81,CTR-D
+FR-01137,2026-09-28,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,43,FE-02,81,CTR-D
+FR-00998,2026-10-05,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,51,FE-02,81,CTR-D
+FR-00564,2026-10-12,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,61,FE-02,81,CTR-D
+FR-00067,2026-10-19,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,69,FE-02,81,CTR-D
+FR-01200,2026-10-26,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,81,FE-02,81,CTR-D
+FR-00929,2026-11-02,ITCN-DB-008,Shelter,Relief Housing Units installed,RHU,81,FE-02,81,CTR-D
+FR-00544,2026-08-31,ITCN-DB-008,Solid Waste,Waste collection points established,point,1,FE-02,7,CTR-B
+FR-00011,2026-09-07,ITCN-DB-008,Solid Waste,Waste collection points established,point,1,FE-02,7,CTR-B
+FR-00676,2026-09-14,ITCN-DB-008,Solid Waste,Waste collection points established,point,2,FE-02,7,CTR-B
+FR-00678,2026-09-21,ITCN-DB-008,Solid Waste,Waste collection points established,point,2,FE-02,7,CTR-B
+FR-00300,2026-09-28,ITCN-DB-008,Solid Waste,Waste collection points established,point,3,FE-02,7,CTR-B
+FR-00237,2026-10-05,ITCN-DB-008,Solid Waste,Waste collection points established,point,3,FE-02,7,CTR-B
+FR-00108,2026-10-12,ITCN-DB-008,Solid Waste,Waste collection points established,point,3,FE-02,7,CTR-B
+FR-00375,2026-10-19,ITCN-DB-008,Solid Waste,Waste collection points established,point,4,FE-02,7,CTR-B
+FR-01068,2026-10-26,ITCN-DB-008,Solid Waste,Waste collection points established,point,4,FE-02,7,CTR-B
+FR-00627,2026-11-02,ITCN-DB-008,Solid Waste,Waste collection points established,point,4,FE-02,7,CTR-B
+FR-00902,2026-08-31,ITCN-DB-008,WASH,Water points rehabilitated,point,1,FE-02,6,CTR-A
+FR-00584,2026-09-07,ITCN-DB-008,WASH,Water points rehabilitated,point,1,FE-02,6,CTR-A
+FR-00971,2026-09-14,ITCN-DB-008,WASH,Water points rehabilitated,point,2,FE-02,6,CTR-A
+FR-00963,2026-09-21,ITCN-DB-008,WASH,Water points rehabilitated,point,3,FE-02,6,CTR-A
+FR-00399,2026-09-28,ITCN-DB-008,WASH,Water points rehabilitated,point,4,FE-02,6,CTR-A
+FR-01109,2026-10-05,ITCN-DB-008,WASH,Water points rehabilitated,point,4,FE-02,6,CTR-A
+FR-01178,2026-10-12,ITCN-DB-008,WASH,Water points rehabilitated,point,5,FE-02,6,CTR-A
+FR-00699,2026-10-19,ITCN-DB-008,WASH,Water points rehabilitated,point,5,FE-02,6,CTR-A
+FR-00342,2026-10-26,ITCN-DB-008,WASH,Water points rehabilitated,point,6,FE-02,6,CTR-A
+FR-00865,2026-11-02,ITCN-DB-008,WASH,Water points rehabilitated,point,6,FE-02,6,CTR-A
+FR-00321,2026-08-31,ITCN-DB-009,Electricity,Solar lighting units installed,unit,3,FE-06,23,CTR-A
+FR-00746,2026-09-07,ITCN-DB-009,Electricity,Solar lighting units installed,unit,7,FE-06,23,CTR-A
+FR-00283,2026-09-14,ITCN-DB-009,Electricity,Solar lighting units installed,unit,8,FE-06,23,CTR-A
+FR-00299,2026-09-21,ITCN-DB-009,Electricity,Solar lighting units installed,unit,12,FE-06,23,CTR-A
+FR-01258,2026-09-28,ITCN-DB-009,Electricity,Solar lighting units installed,unit,14,FE-06,23,CTR-A
+FR-01064,2026-10-05,ITCN-DB-009,Electricity,Solar lighting units installed,unit,17,FE-06,23,CTR-A
+FR-01191,2026-10-12,ITCN-DB-009,Electricity,Solar lighting units installed,unit,20,FE-06,23,CTR-A
+FR-00578,2026-10-19,ITCN-DB-009,Electricity,Solar lighting units installed,unit,23,FE-06,23,CTR-A
+FR-00803,2026-10-26,ITCN-DB-009,Electricity,Solar lighting units installed,unit,23,FE-06,23,CTR-A
+FR-00355,2026-11-02,ITCN-DB-009,Electricity,Solar lighting units installed,unit,23,FE-06,23,CTR-A
+FR-00572,2026-08-31,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,7,FE-06,35,CTR-A
+FR-01284,2026-09-07,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,11,FE-06,35,CTR-A
+FR-00662,2026-09-14,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,15,FE-06,35,CTR-A
+FR-01138,2026-09-21,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,20,FE-06,35,CTR-A
+FR-01254,2026-09-28,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,24,FE-06,35,CTR-A
+FR-01246,2026-10-05,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,29,FE-06,35,CTR-A
+FR-01195,2026-10-12,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,33,FE-06,35,CTR-A
+FR-00694,2026-10-19,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,35,FE-06,35,CTR-A
+FR-00238,2026-10-26,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,35,FE-06,35,CTR-A
+FR-00310,2026-11-02,ITCN-DB-009,Shelter,Relief Housing Units installed,RHU,35,FE-06,35,CTR-A
+FR-01077,2026-08-31,ITCN-DB-009,WASH,Water points rehabilitated,point,0,FE-06,3,CTR-B
+FR-00838,2026-09-07,ITCN-DB-009,WASH,Water points rehabilitated,point,0,FE-06,3,CTR-B
+FR-01022,2026-09-14,ITCN-DB-009,WASH,Water points rehabilitated,point,0,FE-06,3,CTR-B
+FR-01214,2026-09-21,ITCN-DB-009,WASH,Water points rehabilitated,point,1,FE-06,3,CTR-B
+FR-00680,2026-09-28,ITCN-DB-009,WASH,Water points rehabilitated,point,1,FE-06,3,CTR-B
+FR-00264,2026-10-05,ITCN-DB-009,WASH,Water points rehabilitated,point,1,FE-06,3,CTR-B
+FR-00773,2026-10-12,ITCN-DB-009,WASH,Water points rehabilitated,point,1,FE-06,3,CTR-B
+FR-00359,2026-10-19,ITCN-DB-009,WASH,Water points rehabilitated,point,1,FE-06,3,CTR-B
+FR-00632,2026-10-26,ITCN-DB-009,WASH,Water points rehabilitated,point,2,FE-06,3,CTR-B
+FR-00334,2026-11-02,ITCN-DB-009,WASH,Water points rehabilitated,point,2,FE-06,3,CTR-B
+FR-01161,2026-08-31,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,0,FE-03,3,CTR-B
+FR-00225,2026-09-07,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,0,FE-03,3,CTR-B
+FR-00352,2026-09-14,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-B
+FR-00660,2026-09-21,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-B
+FR-00939,2026-09-28,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-B
+FR-00750,2026-10-05,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-B
+FR-00816,2026-10-12,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-B
+FR-01213,2026-10-19,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-B
+FR-01118,2026-10-26,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,2,FE-03,3,CTR-B
+FR-00350,2026-11-02,ITCN-DB-010,Community Facility,Community facilities rehabilitated,facility,2,FE-03,3,CTR-B
+FR-00813,2026-08-31,ITCN-DB-010,Electricity,Solar lighting units installed,unit,7,FE-03,56,CTR-B
+FR-00201,2026-09-07,ITCN-DB-010,Electricity,Solar lighting units installed,unit,16,FE-03,56,CTR-B
+FR-00686,2026-09-14,ITCN-DB-010,Electricity,Solar lighting units installed,unit,18,FE-03,56,CTR-B
+FR-00309,2026-09-21,ITCN-DB-010,Electricity,Solar lighting units installed,unit,26,FE-03,56,CTR-B
+FR-00557,2026-09-28,ITCN-DB-010,Electricity,Solar lighting units installed,unit,36,FE-03,56,CTR-B
+FR-00031,2026-10-05,ITCN-DB-010,Electricity,Solar lighting units installed,unit,44,FE-03,56,CTR-B
+FR-01072,2026-10-12,ITCN-DB-010,Electricity,Solar lighting units installed,unit,49,FE-03,56,CTR-B
+FR-00076,2026-10-19,ITCN-DB-010,Electricity,Solar lighting units installed,unit,55,FE-03,56,CTR-B
+FR-00755,2026-10-26,ITCN-DB-010,Electricity,Solar lighting units installed,unit,56,FE-03,56,CTR-B
+FR-00436,2026-11-02,ITCN-DB-010,Electricity,Solar lighting units installed,unit,56,FE-03,56,CTR-B
+FR-00444,2026-08-31,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,14,FE-03,82,CTR-D
+FR-00409,2026-09-07,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,23,FE-03,82,CTR-D
+FR-00083,2026-09-14,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,39,FE-03,82,CTR-D
+FR-00395,2026-09-21,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,50,FE-03,82,CTR-D
+FR-01014,2026-09-28,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,59,FE-03,82,CTR-D
+FR-00824,2026-10-05,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,79,FE-03,82,CTR-D
+FR-00674,2026-10-12,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,82,FE-03,82,CTR-D
+FR-00665,2026-10-19,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,82,FE-03,82,CTR-D
+FR-01052,2026-11-02,ITCN-DB-010,Shelter,Relief Housing Units installed,RHU,82,FE-03,82,CTR-D
+FR-00485,2026-08-31,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,20,FE-04,320,CTR-D
+FR-00873,2026-09-07,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,31,FE-04,320,CTR-D
+FR-00413,2026-09-14,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,74,FE-04,320,CTR-D
+FR-00004,2026-09-21,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,104,FE-04,320,CTR-D
+FR-01003,2026-09-28,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,148,FE-04,320,CTR-D
+FR-01083,2026-10-05,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,180,FE-04,320,CTR-D
+FR-00153,2026-10-12,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,210,FE-04,320,CTR-D
+FR-00675,2026-10-19,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,217,FE-04,320,CTR-D
+FR-00306,2026-10-26,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,261,FE-04,320,CTR-D
+FR-00032,2026-11-02,ITCN-DB-011,Roads & Access,Access road rehabilitated,metre,285,FE-04,320,CTR-D
+FR-01025,2026-08-31,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,0,FE-04,23,CTR-C
+FR-00631,2026-09-07,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,2,FE-04,23,CTR-C
+FR-00566,2026-09-14,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,4,FE-04,23,CTR-C
+FR-00800,2026-09-21,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,4,FE-04,23,CTR-C
+FR-01148,2026-09-28,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,7,FE-04,23,CTR-C
+FR-00793,2026-10-05,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,8,FE-04,23,CTR-C
+FR-00081,2026-10-12,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,9,FE-04,23,CTR-C
+FR-01102,2026-10-19,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,11,FE-04,23,CTR-C
+FR-00683,2026-10-26,ITCN-DB-011,Shelter,Relief Housing Units installed,RHU,12,FE-04,23,CTR-C
+FR-00522,2026-08-31,ITCN-DB-011,Solid Waste,Waste collection points established,point,0,FE-04,6,CTR-C
+FR-00141,2026-09-07,ITCN-DB-011,Solid Waste,Waste collection points established,point,0,FE-04,6,CTR-C
+FR-00850,2026-09-14,ITCN-DB-011,Solid Waste,Waste collection points established,point,0,FE-04,6,CTR-C
+FR-00177,2026-09-21,ITCN-DB-011,Solid Waste,Waste collection points established,point,1,FE-04,6,CTR-C
+FR-01133,2026-09-28,ITCN-DB-011,Solid Waste,Waste collection points established,point,1,FE-04,6,CTR-C
+FR-01081,2026-10-05,ITCN-DB-011,Solid Waste,Waste collection points established,point,1,FE-04,6,CTR-C
+FR-01159,2026-10-12,ITCN-DB-011,Solid Waste,Waste collection points established,point,1,FE-04,6,CTR-C
+FR-00616,2026-10-19,ITCN-DB-011,Solid Waste,Waste collection points established,point,1,FE-04,6,CTR-C
+FR-00653,2026-10-26,ITCN-DB-011,Solid Waste,Waste collection points established,point,1,FE-04,6,CTR-C
+FR-00082,2026-11-02,ITCN-DB-011,Solid Waste,Waste collection points established,point,2,FE-04,6,CTR-C
+FR-00038,2026-08-31,ITCN-DB-011,WASH,Water points rehabilitated,point,1,FE-04,6,CTR-D
+FR-00769,2026-09-07,ITCN-DB-011,WASH,Water points rehabilitated,point,1,FE-04,6,CTR-D
+FR-00842,2026-09-14,ITCN-DB-011,WASH,Water points rehabilitated,point,1,FE-04,6,CTR-D
+FR-00563,2026-09-21,ITCN-DB-011,WASH,Water points rehabilitated,point,2,FE-04,6,CTR-D
+FR-00724,2026-09-28,ITCN-DB-011,WASH,Water points rehabilitated,point,2,FE-04,6,CTR-D
+FR-01019,2026-10-05,ITCN-DB-011,WASH,Water points rehabilitated,point,2,FE-04,6,CTR-D
+FR-01120,2026-10-12,ITCN-DB-011,WASH,Water points rehabilitated,point,2,FE-04,6,CTR-D
+FR-00834,2026-10-19,ITCN-DB-011,WASH,Water points rehabilitated,point,3,FE-04,6,CTR-D
+FR-00052,2026-10-26,ITCN-DB-011,WASH,Water points rehabilitated,point,3,FE-04,6,CTR-D
+FR-00889,2026-11-02,ITCN-DB-011,WASH,Water points rehabilitated,point,4,FE-04,6,CTR-D
+FR-00765,2026-08-31,ITCN-DB-012,Electricity,Solar lighting units installed,unit,1,FE-01,55,CTR-D
+FR-00066,2026-09-07,ITCN-DB-012,Electricity,Solar lighting units installed,unit,7,FE-01,55,CTR-D
+FR-00230,2026-09-14,ITCN-DB-012,Electricity,Solar lighting units installed,unit,7,FE-01,55,CTR-D
+FR-00015,2026-09-21,ITCN-DB-012,Electricity,Solar lighting units installed,unit,11,FE-01,55,CTR-D
+FR-00468,2026-09-28,ITCN-DB-012,Electricity,Solar lighting units installed,unit,15,FE-01,55,CTR-D
+FR-00475,2026-10-05,ITCN-DB-012,Electricity,Solar lighting units installed,unit,21,FE-01,55,CTR-D
+FR-00245,2026-10-12,ITCN-DB-012,Electricity,Solar lighting units installed,unit,23,FE-01,55,CTR-D
+FR-00308,2026-10-19,ITCN-DB-012,Electricity,Solar lighting units installed,unit,24,FE-01,55,CTR-D
+FR-00496,2026-10-26,ITCN-DB-012,Electricity,Solar lighting units installed,unit,25,FE-01,55,CTR-D
+FR-00495,2026-11-02,ITCN-DB-012,Electricity,Solar lighting units installed,unit,30,FE-01,55,CTR-D
+FR-00941,2026-08-31,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,25,FE-01,661,CTR-B
+FR-00151,2026-09-07,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,85,FE-01,661,CTR-B
+FR-00244,2026-09-14,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,125,FE-01,661,CTR-B
+FR-00500,2026-09-21,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,175,FE-01,661,CTR-B
+FR-00267,2026-09-28,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,175,FE-01,661,CTR-B
+FR-00107,2026-10-05,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,175,FE-01,661,CTR-B
+FR-00688,2026-10-12,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,214,FE-01,661,CTR-B
+FR-00404,2026-10-19,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,302,FE-01,661,CTR-B
+FR-00637,2026-10-26,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,371,FE-01,661,CTR-B
+FR-00505,2026-11-02,ITCN-DB-012,Roads & Access,Access road rehabilitated,metre,371,FE-01,661,CTR-B
+FR-01135,2026-08-31,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,3,FE-01,22,CTR-A
+FR-00449,2026-09-07,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,8,FE-01,22,CTR-A
+FR-00471,2026-09-14,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,10,FE-01,22,CTR-A
+FR-01279,2026-09-21,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,12,FE-01,22,CTR-A
+FR-00140,2026-09-28,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,15,FE-01,22,CTR-A
+FR-00970,2026-10-05,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,19,FE-01,22,CTR-A
+FR-00143,2026-10-12,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,21,FE-01,22,CTR-A
+FR-00693,2026-10-19,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,22,FE-01,22,CTR-A
+FR-00198,2026-10-26,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,22,FE-01,22,CTR-A
+FR-00926,2026-11-02,ITCN-DB-012,Shelter,Relief Housing Units installed,RHU,22,FE-01,22,CTR-A
+FR-00132,2026-08-31,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,0,FE-05,1,CTR-C
+FR-00128,2026-09-07,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,0,FE-05,1,CTR-C
+FR-00910,2026-09-14,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,0,FE-05,1,CTR-C
+FR-00313,2026-09-21,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-00956,2026-09-28,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-00188,2026-10-05,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-00122,2026-10-12,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-00423,2026-10-19,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-00973,2026-10-26,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-01011,2026-11-02,ITCN-GZ-001,Community Facility,Community facilities rehabilitated,facility,1,FE-05,1,CTR-C
+FR-00974,2026-08-31,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,4,FE-05,58,CTR-C
+FR-00243,2026-09-07,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,12,FE-05,58,CTR-C
+FR-00491,2026-09-14,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,20,FE-05,58,CTR-C
+FR-00394,2026-09-21,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,30,FE-05,58,CTR-C
+FR-01105,2026-09-28,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,33,FE-05,58,CTR-C
+FR-00221,2026-10-05,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,43,FE-05,58,CTR-C
+FR-00951,2026-10-12,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,52,FE-05,58,CTR-C
+FR-00163,2026-10-19,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,58,FE-05,58,CTR-C
+FR-01006,2026-10-26,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,58,FE-05,58,CTR-C
+FR-00349,2026-11-02,ITCN-GZ-001,Electricity,Solar lighting units installed,unit,58,FE-05,58,CTR-C
+FR-01173,2026-08-31,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,14,FE-05,575,CTR-C
+FR-00110,2026-09-07,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,27,FE-05,575,CTR-C
+FR-01192,2026-09-14,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,67,FE-05,575,CTR-C
+FR-01136,2026-09-21,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,82,FE-05,575,CTR-C
+FR-00402,2026-09-28,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,116,FE-05,575,CTR-C
+FR-00056,2026-10-05,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,166,FE-05,575,CTR-C
+FR-00904,2026-10-12,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,211,FE-05,575,CTR-C
+FR-00479,2026-10-19,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,294,FE-05,575,CTR-C
+FR-00585,2026-10-26,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,319,FE-05,575,CTR-C
+FR-00125,2026-11-02,ITCN-GZ-001,Roads & Access,Access road rehabilitated,metre,344,FE-05,575,CTR-C
+FR-00410,2026-08-31,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,4,FE-05,102,CTR-C
+FR-00907,2026-09-07,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,5,FE-05,102,CTR-C
+FR-00164,2026-09-14,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,13,FE-05,102,CTR-C
+FR-00255,2026-09-21,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,21,FE-05,102,CTR-C
+FR-00609,2026-09-28,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,32,FE-05,102,CTR-C
+FR-00411,2026-10-05,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,41,FE-05,102,CTR-C
+FR-01206,2026-10-12,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,54,FE-05,102,CTR-C
+FR-01065,2026-10-19,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,68,FE-05,102,CTR-C
+FR-00194,2026-10-26,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,75,FE-05,102,CTR-C
+FR-00818,2026-11-02,ITCN-GZ-001,Shelter,Relief Housing Units installed,RHU,82,FE-05,102,CTR-C
+FR-00137,2026-08-31,ITCN-GZ-001,WASH,Water points rehabilitated,point,2,FE-05,10,CTR-B
+FR-00318,2026-09-07,ITCN-GZ-001,WASH,Water points rehabilitated,point,3,FE-05,10,CTR-B
+FR-01196,2026-09-14,ITCN-GZ-001,WASH,Water points rehabilitated,point,5,FE-05,10,CTR-B
+FR-00717,2026-09-21,ITCN-GZ-001,WASH,Water points rehabilitated,point,6,FE-05,10,CTR-B
+FR-00868,2026-09-28,ITCN-GZ-001,WASH,Water points rehabilitated,point,7,FE-05,10,CTR-B
+FR-00608,2026-10-05,ITCN-GZ-001,WASH,Water points rehabilitated,point,9,FE-05,10,CTR-B
+FR-00712,2026-10-12,ITCN-GZ-001,WASH,Water points rehabilitated,point,10,FE-05,10,CTR-B
+FR-00020,2026-10-19,ITCN-GZ-001,WASH,Water points rehabilitated,point,10,FE-05,10,CTR-B
+FR-00173,2026-10-26,ITCN-GZ-001,WASH,Water points rehabilitated,point,10,FE-05,10,CTR-B
+FR-00679,2026-11-02,ITCN-GZ-001,WASH,Water points rehabilitated,point,10,FE-05,10,CTR-B
+FR-01201,2026-08-31,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,0,FE-06,3,CTR-D
+FR-00039,2026-09-07,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,0,FE-06,3,CTR-D
+FR-00220,2026-09-14,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,3,CTR-D
+FR-00059,2026-09-21,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,3,CTR-D
+FR-00533,2026-09-28,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,3,CTR-D
+FR-01070,2026-10-05,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,3,CTR-D
+FR-00323,2026-10-12,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,3,CTR-D
+FR-00599,2026-10-19,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,3,CTR-D
+FR-00417,2026-10-26,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,2,FE-06,3,CTR-D
+FR-00782,2026-11-02,ITCN-GZ-002,Community Facility,Community facilities rehabilitated,facility,2,FE-06,3,CTR-D
+FR-01176,2026-08-31,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,58,FE-06,390,CTR-A
+FR-00528,2026-09-07,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,113,FE-06,390,CTR-A
+FR-00576,2026-09-14,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,150,FE-06,390,CTR-A
+FR-00193,2026-09-21,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,169,FE-06,390,CTR-A
+FR-00934,2026-09-28,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,210,FE-06,390,CTR-A
+FR-00610,2026-10-05,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,277,FE-06,390,CTR-A
+FR-00700,2026-10-12,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,331,FE-06,390,CTR-A
+FR-00096,2026-10-19,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,390,FE-06,390,CTR-A
+FR-00379,2026-10-26,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,390,FE-06,390,CTR-A
+FR-00286,2026-11-02,ITCN-GZ-002,Roads & Access,Access road rehabilitated,metre,390,FE-06,390,CTR-A
+FR-01032,2026-08-31,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,3,FE-06,60,CTR-B
+FR-00570,2026-09-07,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,3,FE-06,60,CTR-B
+FR-00253,2026-09-14,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,4,FE-06,60,CTR-B
+FR-01247,2026-09-21,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,4,FE-06,60,CTR-B
+FR-00772,2026-09-28,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,8,FE-06,60,CTR-B
+FR-00270,2026-10-05,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,14,FE-06,60,CTR-B
+FR-00197,2026-10-12,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,20,FE-06,60,CTR-B
+FR-01245,2026-10-19,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,20,FE-06,60,CTR-B
+FR-00537,2026-10-26,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,23,FE-06,60,CTR-B
+FR-00018,2026-11-02,ITCN-GZ-002,Shelter,Relief Housing Units installed,RHU,23,FE-06,60,CTR-B
+FR-00434,2026-08-31,ITCN-GZ-002,Solid Waste,Waste collection points established,point,0,FE-06,5,CTR-A
+FR-00092,2026-09-07,ITCN-GZ-002,Solid Waste,Waste collection points established,point,0,FE-06,5,CTR-A
+FR-00358,2026-09-14,ITCN-GZ-002,Solid Waste,Waste collection points established,point,0,FE-06,5,CTR-A
+FR-01172,2026-09-21,ITCN-GZ-002,Solid Waste,Waste collection points established,point,1,FE-06,5,CTR-A
+FR-00595,2026-09-28,ITCN-GZ-002,Solid Waste,Waste collection points established,point,1,FE-06,5,CTR-A
+FR-00829,2026-10-05,ITCN-GZ-002,Solid Waste,Waste collection points established,point,1,FE-06,5,CTR-A
+FR-00535,2026-10-12,ITCN-GZ-002,Solid Waste,Waste collection points established,point,2,FE-06,5,CTR-A
+FR-00003,2026-10-19,ITCN-GZ-002,Solid Waste,Waste collection points established,point,2,FE-06,5,CTR-A
+FR-00965,2026-10-26,ITCN-GZ-002,Solid Waste,Waste collection points established,point,2,FE-06,5,CTR-A
+FR-00325,2026-11-02,ITCN-GZ-002,Solid Waste,Waste collection points established,point,3,FE-06,5,CTR-A
+FR-00328,2026-08-31,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,0,FE-03,3,CTR-D
+FR-00927,2026-09-07,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00529,2026-09-14,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00624,2026-09-21,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,2,FE-03,3,CTR-D
+FR-01185,2026-09-28,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,FE-03,3,CTR-D
+FR-01248,2026-10-05,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,FE-03,3,CTR-D
+FR-00587,2026-10-12,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,FE-03,3,CTR-D
+FR-01066,2026-10-19,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,FE-03,3,CTR-D
+FR-00100,2026-10-26,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,FE-03,3,CTR-D
+FR-00070,2026-11-02,ITCN-GZ-003,Community Facility,Community facilities rehabilitated,facility,3,FE-03,3,CTR-D
+FR-00856,2026-08-31,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,4,FE-03,53,CTR-B
+FR-01023,2026-09-07,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,9,FE-03,53,CTR-B
+FR-00811,2026-09-14,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,11,FE-03,53,CTR-B
+FR-00652,2026-09-21,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,15,FE-03,53,CTR-B
+FR-00684,2026-09-28,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,22,FE-03,53,CTR-B
+FR-00917,2026-10-05,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,24,FE-03,53,CTR-B
+FR-00830,2026-10-12,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,33,FE-03,53,CTR-B
+FR-00305,2026-10-19,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,39,FE-03,53,CTR-B
+FR-01053,2026-10-26,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,42,FE-03,53,CTR-B
+FR-00312,2026-11-02,ITCN-GZ-003,Electricity,Solar lighting units installed,unit,47,FE-03,53,CTR-B
+FR-00853,2026-08-31,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,22,FE-03,115,CTR-B
+FR-01241,2026-09-07,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,39,FE-03,115,CTR-B
+FR-00748,2026-09-14,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,48,FE-03,115,CTR-B
+FR-01033,2026-09-21,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,70,FE-03,115,CTR-B
+FR-00062,2026-09-28,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,85,FE-03,115,CTR-B
+FR-01013,2026-10-05,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,107,FE-03,115,CTR-B
+FR-00319,2026-10-12,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,108,FE-03,115,CTR-B
+FR-00553,2026-10-19,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,115,FE-03,115,CTR-B
+FR-00618,2026-10-26,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,115,FE-03,115,CTR-B
+FR-01263,2026-11-02,ITCN-GZ-003,Shelter,Relief Housing Units installed,RHU,115,FE-03,115,CTR-B
+FR-01180,2026-08-31,ITCN-GZ-003,Solid Waste,Waste collection points established,point,1,FE-03,3,CTR-D
+FR-00216,2026-09-07,ITCN-GZ-003,Solid Waste,Waste collection points established,point,1,FE-03,3,CTR-D
+FR-00176,2026-09-14,ITCN-GZ-003,Solid Waste,Waste collection points established,point,1,FE-03,3,CTR-D
+FR-00231,2026-09-21,ITCN-GZ-003,Solid Waste,Waste collection points established,point,2,FE-03,3,CTR-D
+FR-00726,2026-09-28,ITCN-GZ-003,Solid Waste,Waste collection points established,point,2,FE-03,3,CTR-D
+FR-00734,2026-10-05,ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,FE-03,3,CTR-D
+FR-00367,2026-10-12,ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,FE-03,3,CTR-D
+FR-00562,2026-10-19,ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,FE-03,3,CTR-D
+FR-00531,2026-10-26,ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,FE-03,3,CTR-D
+FR-00474,2026-11-02,ITCN-GZ-003,Solid Waste,Waste collection points established,point,3,FE-03,3,CTR-D
+FR-00447,2026-08-31,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,5,FE-04,49,CTR-C
+FR-00845,2026-09-07,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,11,FE-04,49,CTR-C
+FR-00881,2026-09-14,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,13,FE-04,49,CTR-C
+FR-00344,2026-09-21,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,18,FE-04,49,CTR-C
+FR-00427,2026-09-28,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,24,FE-04,49,CTR-C
+FR-00879,2026-10-05,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,30,FE-04,49,CTR-C
+FR-01073,2026-10-12,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,33,FE-04,49,CTR-C
+FR-00030,2026-10-19,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,37,FE-04,49,CTR-C
+FR-00073,2026-10-26,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,42,FE-04,49,CTR-C
+FR-00440,2026-11-02,ITCN-GZ-004,Electricity,Solar lighting units installed,unit,48,FE-04,49,CTR-C
+FR-00259,2026-08-31,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,61,FE-04,865,CTR-C
+FR-01256,2026-09-07,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,198,FE-04,865,CTR-C
+FR-00272,2026-09-14,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,198,FE-04,865,CTR-C
+FR-00459,2026-09-21,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,263,FE-04,865,CTR-C
+FR-01098,2026-09-28,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,362,FE-04,865,CTR-C
+FR-00085,2026-10-05,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,439,FE-04,865,CTR-C
+FR-00422,2026-10-12,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,502,FE-04,865,CTR-C
+FR-00831,2026-10-19,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,568,FE-04,865,CTR-C
+FR-00969,2026-10-26,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,700,FE-04,865,CTR-C
+FR-00826,2026-11-02,ITCN-GZ-004,Roads & Access,Access road rehabilitated,metre,788,FE-04,865,CTR-C
+FR-00332,2026-08-31,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,18,FE-04,118,CTR-D
+FR-01153,2026-09-07,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,41,FE-04,118,CTR-D
+FR-00503,2026-09-14,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,57,FE-04,118,CTR-D
+FR-01104,2026-09-21,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,74,FE-04,118,CTR-D
+FR-00074,2026-09-28,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,90,FE-04,118,CTR-D
+FR-00623,2026-10-05,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,108,FE-04,118,CTR-D
+FR-00878,2026-10-12,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,118,FE-04,118,CTR-D
+FR-00389,2026-10-19,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,118,FE-04,118,CTR-D
+FR-00385,2026-10-26,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,118,FE-04,118,CTR-D
+FR-01047,2026-11-02,ITCN-GZ-004,Shelter,Relief Housing Units installed,RHU,118,FE-04,118,CTR-D
+FR-01063,2026-08-31,ITCN-GZ-004,WASH,Water points rehabilitated,point,1,FE-04,6,CTR-B
+FR-00191,2026-09-07,ITCN-GZ-004,WASH,Water points rehabilitated,point,2,FE-04,6,CTR-B
+FR-01049,2026-09-14,ITCN-GZ-004,WASH,Water points rehabilitated,point,3,FE-04,6,CTR-B
+FR-00492,2026-09-21,ITCN-GZ-004,WASH,Water points rehabilitated,point,4,FE-04,6,CTR-B
+FR-00869,2026-09-28,ITCN-GZ-004,WASH,Water points rehabilitated,point,5,FE-04,6,CTR-B
+FR-00043,2026-10-05,ITCN-GZ-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-B
+FR-00403,2026-10-12,ITCN-GZ-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-B
+FR-00401,2026-10-19,ITCN-GZ-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-B
+FR-00159,2026-10-26,ITCN-GZ-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-B
+FR-00697,2026-11-02,ITCN-GZ-004,WASH,Water points rehabilitated,point,6,FE-04,6,CTR-B
+FR-00053,2026-08-31,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,0,FE-03,3,CTR-D
+FR-00796,2026-09-07,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-01288,2026-09-14,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00297,2026-09-21,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00048,2026-09-28,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00054,2026-10-05,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00541,2026-10-12,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,1,FE-03,3,CTR-D
+FR-00733,2026-10-19,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,2,FE-03,3,CTR-D
+FR-00383,2026-10-26,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,2,FE-03,3,CTR-D
+FR-00008,2026-11-02,ITCN-GZ-005,Community Facility,Community facilities rehabilitated,facility,2,FE-03,3,CTR-D
+FR-00912,2026-08-31,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,3,FE-03,86,CTR-B
+FR-01042,2026-09-07,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,10,FE-03,86,CTR-B
+FR-00209,2026-09-14,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,17,FE-03,86,CTR-B
+FR-00186,2026-09-21,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,24,FE-03,86,CTR-B
+FR-01139,2026-09-28,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,30,FE-03,86,CTR-B
+FR-00145,2026-10-05,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,35,FE-03,86,CTR-B
+FR-01060,2026-10-12,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,43,FE-03,86,CTR-B
+FR-01114,2026-10-19,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,45,FE-03,86,CTR-B
+FR-01287,2026-10-26,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,58,FE-03,86,CTR-B
+FR-00392,2026-11-02,ITCN-GZ-005,Shelter,Relief Housing Units installed,RHU,64,FE-03,86,CTR-B
+FR-01005,2026-08-31,ITCN-GZ-005,WASH,Water points rehabilitated,point,1,FE-03,5,CTR-B
+FR-00050,2026-09-07,ITCN-GZ-005,WASH,Water points rehabilitated,point,2,FE-03,5,CTR-B
+FR-00918,2026-09-14,ITCN-GZ-005,WASH,Water points rehabilitated,point,2,FE-03,5,CTR-B
+FR-00828,2026-09-21,ITCN-GZ-005,WASH,Water points rehabilitated,point,3,FE-03,5,CTR-B
+FR-00617,2026-09-28,ITCN-GZ-005,WASH,Water points rehabilitated,point,4,FE-03,5,CTR-B
+FR-01108,2026-10-05,ITCN-GZ-005,WASH,Water points rehabilitated,point,5,FE-03,5,CTR-B
+FR-00370,2026-10-12,ITCN-GZ-005,WASH,Water points rehabilitated,point,5,FE-03,5,CTR-B
+FR-00756,2026-10-19,ITCN-GZ-005,WASH,Water points rehabilitated,point,5,FE-03,5,CTR-B
+FR-00021,2026-10-26,ITCN-GZ-005,WASH,Water points rehabilitated,point,5,FE-03,5,CTR-B
+FR-00545,2026-11-02,ITCN-GZ-005,WASH,Water points rehabilitated,point,5,FE-03,5,CTR-B
+FR-00294,2026-08-31,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-B
+FR-00488,2026-09-07,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-B
+FR-00256,2026-09-14,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-B
+FR-00815,2026-09-21,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-01062,2026-09-28,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-00126,2026-10-05,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-01243,2026-10-12,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-00886,2026-10-19,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-00953,2026-10-26,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-00215,2026-11-02,ITCN-GZ-006,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-B
+FR-00705,2026-08-31,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,2,FE-03,18,CTR-D
+FR-01252,2026-09-07,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,6,FE-03,18,CTR-D
+FR-00295,2026-09-14,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,8,FE-03,18,CTR-D
+FR-01189,2026-09-21,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,9,FE-03,18,CTR-D
+FR-00560,2026-09-28,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,12,FE-03,18,CTR-D
+FR-00628,2026-10-05,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,15,FE-03,18,CTR-D
+FR-00397,2026-10-12,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,18,FE-03,18,CTR-D
+FR-00908,2026-10-19,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,18,FE-03,18,CTR-D
+FR-00035,2026-10-26,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,18,FE-03,18,CTR-D
+FR-00900,2026-11-02,ITCN-GZ-006,Electricity,Solar lighting units installed,unit,18,FE-03,18,CTR-D
+FR-01223,2026-08-31,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,28,FE-03,175,CTR-B
+FR-00322,2026-09-07,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,52,FE-03,175,CTR-B
+FR-00888,2026-09-14,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,85,FE-03,175,CTR-B
+FR-00285,2026-09-21,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,116,FE-03,175,CTR-B
+FR-01177,2026-09-28,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,145,FE-03,175,CTR-B
+FR-00672,2026-10-05,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,161,FE-03,175,CTR-B
+FR-00513,2026-10-12,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,175,FE-03,175,CTR-B
+FR-00806,2026-10-19,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,175,FE-03,175,CTR-B
+FR-00251,2026-10-26,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,175,FE-03,175,CTR-B
+FR-00549,2026-11-02,ITCN-GZ-006,Roads & Access,Access road rehabilitated,metre,175,FE-03,175,CTR-B
+FR-01238,2026-08-31,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,0,FE-03,47,CTR-D
+FR-00614,2026-09-07,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,4,FE-03,47,CTR-D
+FR-00181,2026-09-14,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,7,FE-03,47,CTR-D
+FR-00921,2026-09-21,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,12,FE-03,47,CTR-D
+FR-00147,2026-09-28,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,19,FE-03,47,CTR-D
+FR-00981,2026-10-05,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,26,FE-03,47,CTR-D
+FR-01262,2026-10-12,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,31,FE-03,47,CTR-D
+FR-01281,2026-10-19,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,34,FE-03,47,CTR-D
+FR-00504,2026-10-26,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,38,FE-03,47,CTR-D
+FR-01203,2026-11-02,ITCN-GZ-006,Shelter,Relief Housing Units installed,RHU,44,FE-03,47,CTR-D
+FR-00641,2026-08-31,ITCN-GZ-006,WASH,Water points rehabilitated,point,0,FE-03,2,CTR-D
+FR-00615,2026-09-07,ITCN-GZ-006,WASH,Water points rehabilitated,point,1,FE-03,2,CTR-D
+FR-00486,2026-09-14,ITCN-GZ-006,WASH,Water points rehabilitated,point,1,FE-03,2,CTR-D
+FR-01056,2026-09-21,ITCN-GZ-006,WASH,Water points rehabilitated,point,1,FE-03,2,CTR-D
+FR-00419,2026-09-28,ITCN-GZ-006,WASH,Water points rehabilitated,point,2,FE-03,2,CTR-D
+FR-00090,2026-10-05,ITCN-GZ-006,WASH,Water points rehabilitated,point,2,FE-03,2,CTR-D
+FR-00738,2026-10-12,ITCN-GZ-006,WASH,Water points rehabilitated,point,2,FE-03,2,CTR-D
+FR-00670,2026-10-19,ITCN-GZ-006,WASH,Water points rehabilitated,point,2,FE-03,2,CTR-D
+FR-00014,2026-10-26,ITCN-GZ-006,WASH,Water points rehabilitated,point,2,FE-03,2,CTR-D
+FR-00984,2026-11-02,ITCN-GZ-006,WASH,Water points rehabilitated,point,2,FE-03,2,CTR-D
+FR-00036,2026-08-31,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-01015,2026-09-07,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00863,2026-09-14,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00648,2026-09-21,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00993,2026-09-28,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00435,2026-10-05,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00536,2026-10-12,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-01275,2026-10-19,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00711,2026-10-26,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00314,2026-11-02,ITCN-KY-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-D
+FR-00510,2026-08-31,ITCN-KY-001,Electricity,Solar lighting units installed,unit,3,FE-03,49,CTR-D
+FR-00964,2026-09-07,ITCN-KY-001,Electricity,Solar lighting units installed,unit,7,FE-03,49,CTR-D
+FR-00241,2026-09-14,ITCN-KY-001,Electricity,Solar lighting units installed,unit,9,FE-03,49,CTR-D
+FR-01181,2026-09-21,ITCN-KY-001,Electricity,Solar lighting units installed,unit,14,FE-03,49,CTR-D
+FR-00931,2026-09-28,ITCN-KY-001,Electricity,Solar lighting units installed,unit,15,FE-03,49,CTR-D
+FR-00988,2026-10-05,ITCN-KY-001,Electricity,Solar lighting units installed,unit,18,FE-03,49,CTR-D
+FR-00866,2026-10-12,ITCN-KY-001,Electricity,Solar lighting units installed,unit,21,FE-03,49,CTR-D
+FR-01127,2026-10-19,ITCN-KY-001,Electricity,Solar lighting units installed,unit,23,FE-03,49,CTR-D
+FR-01207,2026-10-26,ITCN-KY-001,Electricity,Solar lighting units installed,unit,30,FE-03,49,CTR-D
+FR-01035,2026-11-02,ITCN-KY-001,Electricity,Solar lighting units installed,unit,36,FE-03,49,CTR-D
+FR-00987,2026-08-31,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,65,FE-03,483,CTR-C
+FR-01149,2026-09-07,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,95,FE-03,483,CTR-C
+FR-00820,2026-09-14,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,155,FE-03,483,CTR-C
+FR-00303,2026-09-21,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,178,FE-03,483,CTR-C
+FR-01150,2026-09-28,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,182,FE-03,483,CTR-C
+FR-00990,2026-10-05,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,222,FE-03,483,CTR-C
+FR-00720,2026-10-12,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,266,FE-03,483,CTR-C
+FR-00069,2026-10-19,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,323,FE-03,483,CTR-C
+FR-01146,2026-10-26,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,352,FE-03,483,CTR-C
+FR-00117,2026-11-02,ITCN-KY-001,Roads & Access,Access road rehabilitated,metre,425,FE-03,483,CTR-C
+FR-00360,2026-08-31,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,5,FE-03,105,CTR-A
+FR-00702,2026-09-07,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,11,FE-03,105,CTR-A
+FR-00119,2026-09-14,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,20,FE-03,105,CTR-A
+FR-00997,2026-09-21,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,33,FE-03,105,CTR-A
+FR-00478,2026-09-28,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,41,FE-03,105,CTR-A
+FR-00113,2026-10-05,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,48,FE-03,105,CTR-A
+FR-00703,2026-10-12,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,59,FE-03,105,CTR-A
+FR-00161,2026-10-19,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,66,FE-03,105,CTR-A
+FR-00551,2026-10-26,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,76,FE-03,105,CTR-A
+FR-00494,2026-11-02,ITCN-KY-001,Shelter,Relief Housing Units installed,RHU,83,FE-03,105,CTR-A
+FR-00195,2026-08-31,ITCN-KY-001,Solid Waste,Waste collection points established,point,0,FE-03,2,CTR-A
+FR-00691,2026-09-07,ITCN-KY-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-A
+FR-01156,2026-09-14,ITCN-KY-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-A
+FR-00794,2026-09-21,ITCN-KY-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-A
+FR-00120,2026-09-28,ITCN-KY-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-A
+FR-01044,2026-10-05,ITCN-KY-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-A
+FR-00388,2026-10-12,ITCN-KY-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-A
+FR-00329,2026-10-19,ITCN-KY-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-A
+FR-00196,2026-10-26,ITCN-KY-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-A
+FR-01260,2026-11-02,ITCN-KY-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-A
+FR-00707,2026-08-31,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,44,FE-06,643,CTR-A
+FR-00442,2026-09-07,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,144,FE-06,643,CTR-A
+FR-00656,2026-09-14,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,191,FE-06,643,CTR-A
+FR-00058,2026-09-21,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,289,FE-06,643,CTR-A
+FR-01126,2026-09-28,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,344,FE-06,643,CTR-A
+FR-00783,2026-10-05,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,464,FE-06,643,CTR-A
+FR-01039,2026-10-12,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,547,FE-06,643,CTR-A
+FR-00804,2026-10-19,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,603,FE-06,643,CTR-A
+FR-01276,2026-10-26,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,643,FE-06,643,CTR-A
+FR-00692,2026-11-02,ITCN-KY-002,Roads & Access,Access road rehabilitated,metre,643,FE-06,643,CTR-A
+FR-00556,2026-08-31,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,4,FE-06,65,CTR-D
+FR-00078,2026-09-07,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,10,FE-06,65,CTR-D
+FR-00909,2026-09-14,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,10,FE-06,65,CTR-D
+FR-01267,2026-09-21,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,15,FE-06,65,CTR-D
+FR-00805,2026-09-28,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,22,FE-06,65,CTR-D
+FR-00484,2026-10-05,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,29,FE-06,65,CTR-D
+FR-00354,2026-10-12,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,34,FE-06,65,CTR-D
+FR-00768,2026-10-19,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,38,FE-06,65,CTR-D
+FR-01043,2026-10-26,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,41,FE-06,65,CTR-D
+FR-00887,2026-11-02,ITCN-KY-002,Shelter,Relief Housing Units installed,RHU,41,FE-06,65,CTR-D
+FR-00045,2026-08-31,ITCN-KY-002,Solid Waste,Waste collection points established,point,1,FE-06,8,CTR-A
+FR-00689,2026-09-07,ITCN-KY-002,Solid Waste,Waste collection points established,point,1,FE-06,8,CTR-A
+FR-00986,2026-09-14,ITCN-KY-002,Solid Waste,Waste collection points established,point,2,FE-06,8,CTR-A
+FR-01097,2026-09-21,ITCN-KY-002,Solid Waste,Waste collection points established,point,2,FE-06,8,CTR-A
+FR-00923,2026-09-28,ITCN-KY-002,Solid Waste,Waste collection points established,point,3,FE-06,8,CTR-A
+FR-00729,2026-10-05,ITCN-KY-002,Solid Waste,Waste collection points established,point,4,FE-06,8,CTR-A
+FR-00630,2026-10-12,ITCN-KY-002,Solid Waste,Waste collection points established,point,4,FE-06,8,CTR-A
+FR-00060,2026-10-19,ITCN-KY-002,Solid Waste,Waste collection points established,point,5,FE-06,8,CTR-A
+FR-01160,2026-10-26,ITCN-KY-002,Solid Waste,Waste collection points established,point,6,FE-06,8,CTR-A
+FR-00671,2026-11-02,ITCN-KY-002,Solid Waste,Waste collection points established,point,6,FE-06,8,CTR-A
+FR-00007,2026-08-31,ITCN-KY-002,WASH,Water points rehabilitated,point,0,FE-06,7,CTR-B
+FR-00111,2026-09-07,ITCN-KY-002,WASH,Water points rehabilitated,point,0,FE-06,7,CTR-B
+FR-00839,2026-09-14,ITCN-KY-002,WASH,Water points rehabilitated,point,0,FE-06,7,CTR-B
+FR-01255,2026-09-21,ITCN-KY-002,WASH,Water points rehabilitated,point,1,FE-06,7,CTR-B
+FR-00968,2026-09-28,ITCN-KY-002,WASH,Water points rehabilitated,point,1,FE-06,7,CTR-B
+FR-00515,2026-10-05,ITCN-KY-002,WASH,Water points rehabilitated,point,2,FE-06,7,CTR-B
+FR-00369,2026-10-12,ITCN-KY-002,WASH,Water points rehabilitated,point,2,FE-06,7,CTR-B
+FR-00089,2026-10-19,ITCN-KY-002,WASH,Water points rehabilitated,point,3,FE-06,7,CTR-B
+FR-00732,2026-10-26,ITCN-KY-002,WASH,Water points rehabilitated,point,3,FE-06,7,CTR-B
+FR-00384,2026-11-02,ITCN-KY-002,WASH,Water points rehabilitated,point,3,FE-06,7,CTR-B
+FR-00287,2026-08-31,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00744,2026-09-07,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00848,2026-09-14,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00966,2026-09-21,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00882,2026-09-28,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00009,2026-10-05,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-01069,2026-10-12,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00269,2026-10-19,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-01184,2026-10-26,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00625,2026-11-02,ITCN-KY-003,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00276,2026-08-31,ITCN-KY-003,Electricity,Solar lighting units installed,unit,1,FE-06,41,CTR-D
+FR-00915,2026-09-07,ITCN-KY-003,Electricity,Solar lighting units installed,unit,4,FE-06,41,CTR-D
+FR-01079,2026-09-14,ITCN-KY-003,Electricity,Solar lighting units installed,unit,4,FE-06,41,CTR-D
+FR-00361,2026-09-21,ITCN-KY-003,Electricity,Solar lighting units installed,unit,5,FE-06,41,CTR-D
+FR-00506,2026-09-28,ITCN-KY-003,Electricity,Solar lighting units installed,unit,5,FE-06,41,CTR-D
+FR-00664,2026-10-05,ITCN-KY-003,Electricity,Solar lighting units installed,unit,10,FE-06,41,CTR-D
+FR-00227,2026-10-12,ITCN-KY-003,Electricity,Solar lighting units installed,unit,10,FE-06,41,CTR-D
+FR-00103,2026-10-19,ITCN-KY-003,Electricity,Solar lighting units installed,unit,12,FE-06,41,CTR-D
+FR-00075,2026-10-26,ITCN-KY-003,Electricity,Solar lighting units installed,unit,13,FE-06,41,CTR-D
+FR-00620,2026-11-02,ITCN-KY-003,Electricity,Solar lighting units installed,unit,19,FE-06,41,CTR-D
+FR-00448,2026-08-31,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,2,FE-06,106,CTR-D
+FR-00524,2026-09-07,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,16,FE-06,106,CTR-D
+FR-00558,2026-09-14,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,26,FE-06,106,CTR-D
+FR-00025,2026-09-21,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,37,FE-06,106,CTR-D
+FR-00745,2026-09-28,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,41,FE-06,106,CTR-D
+FR-00033,2026-10-05,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,47,FE-06,106,CTR-D
+FR-00341,2026-10-12,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,52,FE-06,106,CTR-D
+FR-00594,2026-10-19,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,58,FE-06,106,CTR-D
+FR-01179,2026-10-26,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,73,FE-06,106,CTR-D
+FR-01285,2026-11-02,ITCN-KY-003,Shelter,Relief Housing Units installed,RHU,86,FE-06,106,CTR-D
+FR-01027,2026-08-31,ITCN-KY-003,Solid Waste,Waste collection points established,point,0,FE-06,2,CTR-D
+FR-00476,2026-09-07,ITCN-KY-003,Solid Waste,Waste collection points established,point,0,FE-06,2,CTR-D
+FR-00874,2026-09-14,ITCN-KY-003,Solid Waste,Waste collection points established,point,1,FE-06,2,CTR-D
+FR-00706,2026-09-21,ITCN-KY-003,Solid Waste,Waste collection points established,point,1,FE-06,2,CTR-D
+FR-00945,2026-09-28,ITCN-KY-003,Solid Waste,Waste collection points established,point,1,FE-06,2,CTR-D
+FR-00778,2026-10-05,ITCN-KY-003,Solid Waste,Waste collection points established,point,2,FE-06,2,CTR-D
+FR-00561,2026-10-12,ITCN-KY-003,Solid Waste,Waste collection points established,point,2,FE-06,2,CTR-D
+FR-01121,2026-10-19,ITCN-KY-003,Solid Waste,Waste collection points established,point,2,FE-06,2,CTR-D
+FR-00433,2026-10-26,ITCN-KY-003,Solid Waste,Waste collection points established,point,2,FE-06,2,CTR-D
+FR-00526,2026-11-02,ITCN-KY-003,Solid Waste,Waste collection points established,point,2,FE-06,2,CTR-D
+FR-00837,2026-08-31,ITCN-KY-003,WASH,Water points rehabilitated,point,0,FE-06,5,CTR-A
+FR-00780,2026-09-07,ITCN-KY-003,WASH,Water points rehabilitated,point,1,FE-06,5,CTR-A
+FR-00109,2026-09-14,ITCN-KY-003,WASH,Water points rehabilitated,point,1,FE-06,5,CTR-A
+FR-01036,2026-09-21,ITCN-KY-003,WASH,Water points rehabilitated,point,2,FE-06,5,CTR-A
+FR-00582,2026-09-28,ITCN-KY-003,WASH,Water points rehabilitated,point,2,FE-06,5,CTR-A
+FR-01183,2026-10-05,ITCN-KY-003,WASH,Water points rehabilitated,point,2,FE-06,5,CTR-A
+FR-00167,2026-10-12,ITCN-KY-003,WASH,Water points rehabilitated,point,3,FE-06,5,CTR-A
+FR-01041,2026-10-19,ITCN-KY-003,WASH,Water points rehabilitated,point,3,FE-06,5,CTR-A
+FR-01050,2026-10-26,ITCN-KY-003,WASH,Water points rehabilitated,point,4,FE-06,5,CTR-A
+FR-00982,2026-11-02,ITCN-KY-003,WASH,Water points rehabilitated,point,4,FE-06,5,CTR-A
+FR-01024,2026-08-31,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-D
+FR-00407,2026-09-07,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-D
+FR-00511,2026-09-14,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,2,FE-02,3,CTR-D
+FR-00771,2026-09-21,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,2,FE-02,3,CTR-D
+FR-01080,2026-09-28,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,FE-02,3,CTR-D
+FR-00452,2026-10-05,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,FE-02,3,CTR-D
+FR-00892,2026-10-12,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,FE-02,3,CTR-D
+FR-00208,2026-10-19,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,FE-02,3,CTR-D
+FR-01240,2026-10-26,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,FE-02,3,CTR-D
+FR-00605,2026-11-02,ITCN-KY-004,Community Facility,Community facilities rehabilitated,facility,3,FE-02,3,CTR-D
+FR-00814,2026-08-31,ITCN-KY-004,Electricity,Solar lighting units installed,unit,4,FE-02,39,CTR-B
+FR-00548,2026-09-07,ITCN-KY-004,Electricity,Solar lighting units installed,unit,6,FE-02,39,CTR-B
+FR-00801,2026-09-14,ITCN-KY-004,Electricity,Solar lighting units installed,unit,12,FE-02,39,CTR-B
+FR-00740,2026-09-21,ITCN-KY-004,Electricity,Solar lighting units installed,unit,18,FE-02,39,CTR-B
+FR-00290,2026-09-28,ITCN-KY-004,Electricity,Solar lighting units installed,unit,21,FE-02,39,CTR-B
+FR-00635,2026-10-05,ITCN-KY-004,Electricity,Solar lighting units installed,unit,27,FE-02,39,CTR-B
+FR-00268,2026-10-12,ITCN-KY-004,Electricity,Solar lighting units installed,unit,27,FE-02,39,CTR-B
+FR-00042,2026-10-19,ITCN-KY-004,Electricity,Solar lighting units installed,unit,28,FE-02,39,CTR-B
+FR-01270,2026-10-26,ITCN-KY-004,Electricity,Solar lighting units installed,unit,31,FE-02,39,CTR-B
+FR-00439,2026-11-02,ITCN-KY-004,Electricity,Solar lighting units installed,unit,35,FE-02,39,CTR-B
+FR-01164,2026-08-31,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,11,FE-02,108,CTR-A
+FR-00612,2026-09-07,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,21,FE-02,108,CTR-A
+FR-01257,2026-09-14,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,24,FE-02,108,CTR-A
+FR-00789,2026-09-21,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,42,FE-02,108,CTR-A
+FR-01235,2026-09-28,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,50,FE-02,108,CTR-A
+FR-01113,2026-10-05,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,60,FE-02,108,CTR-A
+FR-00543,2026-10-12,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,80,FE-02,108,CTR-A
+FR-00371,2026-10-19,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,92,FE-02,108,CTR-A
+FR-00037,2026-10-26,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,102,FE-02,108,CTR-A
+FR-00365,2026-11-02,ITCN-KY-004,Shelter,Relief Housing Units installed,RHU,108,FE-02,108,CTR-A
+FR-01264,2026-08-31,ITCN-KY-004,Solid Waste,Waste collection points established,point,0,FE-02,4,CTR-C
+FR-00626,2026-09-07,ITCN-KY-004,Solid Waste,Waste collection points established,point,1,FE-02,4,CTR-C
+FR-00854,2026-09-14,ITCN-KY-004,Solid Waste,Waste collection points established,point,1,FE-02,4,CTR-C
+FR-00935,2026-09-21,ITCN-KY-004,Solid Waste,Waste collection points established,point,2,FE-02,4,CTR-C
+FR-01273,2026-09-28,ITCN-KY-004,Solid Waste,Waste collection points established,point,2,FE-02,4,CTR-C
+FR-00172,2026-10-05,ITCN-KY-004,Solid Waste,Waste collection points established,point,2,FE-02,4,CTR-C
+FR-01205,2026-10-12,ITCN-KY-004,Solid Waste,Waste collection points established,point,2,FE-02,4,CTR-C
+FR-00695,2026-10-19,ITCN-KY-004,Solid Waste,Waste collection points established,point,3,FE-02,4,CTR-C
+FR-00857,2026-10-26,ITCN-KY-004,Solid Waste,Waste collection points established,point,3,FE-02,4,CTR-C
+FR-01142,2026-11-02,ITCN-KY-004,Solid Waste,Waste collection points established,point,4,FE-02,4,CTR-C
+FR-01228,2026-08-31,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00189,2026-09-07,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00581,2026-09-14,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-01152,2026-09-21,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-01215,2026-09-28,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00849,2026-10-05,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00010,2026-10-12,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,0,FE-01,1,CTR-B
+FR-00924,2026-10-19,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00291,2026-10-26,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-01130,2026-11-02,ITCN-KY-005,Community Facility,Community facilities rehabilitated,facility,1,FE-01,1,CTR-B
+FR-00465,2026-08-31,ITCN-KY-005,Electricity,Solar lighting units installed,unit,4,FE-01,59,CTR-D
+FR-00547,2026-09-07,ITCN-KY-005,Electricity,Solar lighting units installed,unit,11,FE-01,59,CTR-D
+FR-00432,2026-09-14,ITCN-KY-005,Electricity,Solar lighting units installed,unit,15,FE-01,59,CTR-D
+FR-00266,2026-09-21,ITCN-KY-005,Electricity,Solar lighting units installed,unit,16,FE-01,59,CTR-D
+FR-01151,2026-09-28,ITCN-KY-005,Electricity,Solar lighting units installed,unit,17,FE-01,59,CTR-D
+FR-00763,2026-10-05,ITCN-KY-005,Electricity,Solar lighting units installed,unit,19,FE-01,59,CTR-D
+FR-00586,2026-10-12,ITCN-KY-005,Electricity,Solar lighting units installed,unit,25,FE-01,59,CTR-D
+FR-00387,2026-10-19,ITCN-KY-005,Electricity,Solar lighting units installed,unit,30,FE-01,59,CTR-D
+FR-00142,2026-10-26,ITCN-KY-005,Electricity,Solar lighting units installed,unit,35,FE-01,59,CTR-D
+FR-00148,2026-11-02,ITCN-KY-005,Electricity,Solar lighting units installed,unit,36,FE-01,59,CTR-D
+FR-00757,2026-08-31,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,5,FE-01,46,CTR-B
+FR-00514,2026-09-07,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,15,FE-01,46,CTR-B
+FR-01193,2026-09-14,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,21,FE-01,46,CTR-B
+FR-00784,2026-09-21,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,30,FE-01,46,CTR-B
+FR-01094,2026-09-28,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,36,FE-01,46,CTR-B
+FR-00431,2026-10-05,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,44,FE-01,46,CTR-B
+FR-01266,2026-10-12,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,46,FE-01,46,CTR-B
+FR-00590,2026-10-19,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,46,FE-01,46,CTR-B
+FR-00897,2026-10-26,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,46,FE-01,46,CTR-B
+FR-00311,2026-11-02,ITCN-KY-005,Shelter,Relief Housing Units installed,RHU,46,FE-01,46,CTR-B
+FR-00487,2026-08-31,ITCN-KY-005,WASH,Water points rehabilitated,point,1,FE-01,7,CTR-B
+FR-00604,2026-09-07,ITCN-KY-005,WASH,Water points rehabilitated,point,1,FE-01,7,CTR-B
+FR-00776,2026-09-14,ITCN-KY-005,WASH,Water points rehabilitated,point,2,FE-01,7,CTR-B
+FR-01078,2026-09-21,ITCN-KY-005,WASH,Water points rehabilitated,point,3,FE-01,7,CTR-B
+FR-00862,2026-09-28,ITCN-KY-005,WASH,Water points rehabilitated,point,3,FE-01,7,CTR-B
+FR-01166,2026-10-05,ITCN-KY-005,WASH,Water points rehabilitated,point,4,FE-01,7,CTR-B
+FR-00324,2026-10-12,ITCN-KY-005,WASH,Water points rehabilitated,point,5,FE-01,7,CTR-B
+FR-00864,2026-10-19,ITCN-KY-005,WASH,Water points rehabilitated,point,6,FE-01,7,CTR-B
+FR-00601,2026-10-26,ITCN-KY-005,WASH,Water points rehabilitated,point,7,FE-01,7,CTR-B
+FR-00357,2026-11-02,ITCN-KY-005,WASH,Water points rehabilitated,point,7,FE-01,7,CTR-B
+FR-00719,2026-08-31,ITCN-KY-006,Electricity,Solar lighting units installed,unit,7,FE-05,56,CTR-C
+FR-00567,2026-09-07,ITCN-KY-006,Electricity,Solar lighting units installed,unit,12,FE-05,56,CTR-C
+FR-00758,2026-09-14,ITCN-KY-006,Electricity,Solar lighting units installed,unit,16,FE-05,56,CTR-C
+FR-01165,2026-09-21,ITCN-KY-006,Electricity,Solar lighting units installed,unit,17,FE-05,56,CTR-C
+FR-00257,2026-09-28,ITCN-KY-006,Electricity,Solar lighting units installed,unit,25,FE-05,56,CTR-C
+FR-00588,2026-10-05,ITCN-KY-006,Electricity,Solar lighting units installed,unit,30,FE-05,56,CTR-C
+FR-00466,2026-10-12,ITCN-KY-006,Electricity,Solar lighting units installed,unit,32,FE-05,56,CTR-C
+FR-00441,2026-10-19,ITCN-KY-006,Electricity,Solar lighting units installed,unit,40,FE-05,56,CTR-C
+FR-00263,2026-10-26,ITCN-KY-006,Electricity,Solar lighting units installed,unit,48,FE-05,56,CTR-C
+FR-01134,2026-11-02,ITCN-KY-006,Electricity,Solar lighting units installed,unit,54,FE-05,56,CTR-C
+FR-00600,2026-08-31,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,36,FE-05,494,CTR-D
+FR-00278,2026-09-07,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,91,FE-05,494,CTR-D
+FR-00390,2026-09-14,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,129,FE-05,494,CTR-D
+FR-00938,2026-09-21,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,167,FE-05,494,CTR-D
+FR-00538,2026-09-28,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,181,FE-05,494,CTR-D
+FR-01261,2026-10-05,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,204,FE-05,494,CTR-D
+FR-00539,2026-10-12,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,265,FE-05,494,CTR-D
+FR-01198,2026-10-19,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,304,FE-05,494,CTR-D
+FR-01124,2026-10-26,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,327,FE-05,494,CTR-D
+FR-00414,2026-11-02,ITCN-KY-006,Roads & Access,Access road rehabilitated,metre,367,FE-05,494,CTR-D
+FR-00467,2026-08-31,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,4,FE-05,74,CTR-A
+FR-00046,2026-09-07,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,12,FE-05,74,CTR-A
+FR-00327,2026-09-14,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,22,FE-05,74,CTR-A
+FR-00451,2026-09-21,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,29,FE-05,74,CTR-A
+FR-00280,2026-09-28,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,34,FE-05,74,CTR-A
+FR-00847,2026-10-05,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,38,FE-05,74,CTR-A
+FR-00995,2026-10-12,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,46,FE-05,74,CTR-A
+FR-00277,2026-10-19,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,48,FE-05,74,CTR-A
+FR-00364,2026-10-26,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,52,FE-05,74,CTR-A
+FR-00150,2026-11-02,ITCN-KY-006,Shelter,Relief Housing Units installed,RHU,59,FE-05,74,CTR-A
+FR-00516,2026-08-31,ITCN-KY-006,WASH,Water points rehabilitated,point,1,FE-05,6,CTR-C
+FR-01170,2026-09-07,ITCN-KY-006,WASH,Water points rehabilitated,point,2,FE-05,6,CTR-C
+FR-00946,2026-09-14,ITCN-KY-006,WASH,Water points rehabilitated,point,2,FE-05,6,CTR-C
+FR-01168,2026-09-21,ITCN-KY-006,WASH,Water points rehabilitated,point,3,FE-05,6,CTR-C
+FR-01167,2026-09-28,ITCN-KY-006,WASH,Water points rehabilitated,point,4,FE-05,6,CTR-C
+FR-00023,2026-10-05,ITCN-KY-006,WASH,Water points rehabilitated,point,4,FE-05,6,CTR-C
+FR-00622,2026-10-12,ITCN-KY-006,WASH,Water points rehabilitated,point,5,FE-05,6,CTR-C
+FR-00398,2026-10-19,ITCN-KY-006,WASH,Water points rehabilitated,point,6,FE-05,6,CTR-C
+FR-01106,2026-10-26,ITCN-KY-006,WASH,Water points rehabilitated,point,6,FE-05,6,CTR-C
+FR-00418,2026-11-02,ITCN-KY-006,WASH,Water points rehabilitated,point,6,FE-05,6,CTR-C
+FR-00825,2026-08-31,ITCN-NG-001,Electricity,Solar lighting units installed,unit,6,FE-05,40,CTR-B
+FR-00728,2026-09-07,ITCN-NG-001,Electricity,Solar lighting units installed,unit,14,FE-05,40,CTR-B
+FR-00386,2026-09-14,ITCN-NG-001,Electricity,Solar lighting units installed,unit,22,FE-05,40,CTR-B
+FR-00989,2026-09-21,ITCN-NG-001,Electricity,Solar lighting units installed,unit,27,FE-05,40,CTR-B
+FR-00876,2026-09-28,ITCN-NG-001,Electricity,Solar lighting units installed,unit,31,FE-05,40,CTR-B
+FR-00840,2026-10-05,ITCN-NG-001,Electricity,Solar lighting units installed,unit,36,FE-05,40,CTR-B
+FR-01175,2026-10-12,ITCN-NG-001,Electricity,Solar lighting units installed,unit,40,FE-05,40,CTR-B
+FR-00274,2026-10-19,ITCN-NG-001,Electricity,Solar lighting units installed,unit,40,FE-05,40,CTR-B
+FR-00373,2026-10-26,ITCN-NG-001,Electricity,Solar lighting units installed,unit,40,FE-05,40,CTR-B
+FR-00844,2026-11-02,ITCN-NG-001,Electricity,Solar lighting units installed,unit,40,FE-05,40,CTR-B
+FR-00523,2026-08-31,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,39,FE-05,248,CTR-B
+FR-00105,2026-09-07,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,85,FE-05,248,CTR-B
+FR-01229,2026-09-14,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,122,FE-05,248,CTR-B
+FR-00218,2026-09-21,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,150,FE-05,248,CTR-B
+FR-00317,2026-09-28,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,172,FE-05,248,CTR-B
+FR-00525,2026-10-05,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,219,FE-05,248,CTR-B
+FR-00064,2026-10-12,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,248,FE-05,248,CTR-B
+FR-00362,2026-10-19,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,248,FE-05,248,CTR-B
+FR-00799,2026-10-26,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,248,FE-05,248,CTR-B
+FR-00959,2026-11-02,ITCN-NG-001,Roads & Access,Access road rehabilitated,metre,248,FE-05,248,CTR-B
+FR-00477,2026-08-31,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,8,FE-05,116,CTR-C
+FR-01051,2026-09-07,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,16,FE-05,116,CTR-C
+FR-01129,2026-09-14,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,26,FE-05,116,CTR-C
+FR-01141,2026-09-21,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,41,FE-05,116,CTR-C
+FR-00654,2026-09-28,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,44,FE-05,116,CTR-C
+FR-00914,2026-10-05,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,45,FE-05,116,CTR-C
+FR-00284,2026-10-12,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,54,FE-05,116,CTR-C
+FR-01144,2026-10-19,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,60,FE-05,116,CTR-C
+FR-00880,2026-10-26,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,67,FE-05,116,CTR-C
+FR-00057,2026-11-02,ITCN-NG-001,Shelter,Relief Housing Units installed,RHU,67,FE-05,116,CTR-C
+FR-00791,2026-08-31,ITCN-NG-001,Solid Waste,Waste collection points established,point,1,FE-05,4,CTR-B
+FR-00550,2026-09-07,ITCN-NG-001,Solid Waste,Waste collection points established,point,1,FE-05,4,CTR-B
+FR-00149,2026-09-14,ITCN-NG-001,Solid Waste,Waste collection points established,point,2,FE-05,4,CTR-B
+FR-00736,2026-09-21,ITCN-NG-001,Solid Waste,Waste collection points established,point,2,FE-05,4,CTR-B
+FR-01204,2026-09-28,ITCN-NG-001,Solid Waste,Waste collection points established,point,3,FE-05,4,CTR-B
+FR-00223,2026-10-05,ITCN-NG-001,Solid Waste,Waste collection points established,point,3,FE-05,4,CTR-B
+FR-00205,2026-10-12,ITCN-NG-001,Solid Waste,Waste collection points established,point,3,FE-05,4,CTR-B
+FR-00841,2026-10-19,ITCN-NG-001,Solid Waste,Waste collection points established,point,4,FE-05,4,CTR-B
+FR-00420,2026-10-26,ITCN-NG-001,Solid Waste,Waste collection points established,point,4,FE-05,4,CTR-B
+FR-00822,2026-11-02,ITCN-NG-001,Solid Waste,Waste collection points established,point,4,FE-05,4,CTR-B
+FR-00456,2026-08-31,ITCN-NG-001,WASH,Water points rehabilitated,point,0,FE-05,3,CTR-D
+FR-00106,2026-09-07,ITCN-NG-001,WASH,Water points rehabilitated,point,0,FE-05,3,CTR-D
+FR-01155,2026-09-14,ITCN-NG-001,WASH,Water points rehabilitated,point,1,FE-05,3,CTR-D
+FR-00836,2026-09-21,ITCN-NG-001,WASH,Water points rehabilitated,point,1,FE-05,3,CTR-D
+FR-00518,2026-09-28,ITCN-NG-001,WASH,Water points rehabilitated,point,1,FE-05,3,CTR-D
+FR-01199,2026-10-05,ITCN-NG-001,WASH,Water points rehabilitated,point,2,FE-05,3,CTR-D
+FR-01227,2026-10-12,ITCN-NG-001,WASH,Water points rehabilitated,point,2,FE-05,3,CTR-D
+FR-00696,2026-10-19,ITCN-NG-001,WASH,Water points rehabilitated,point,2,FE-05,3,CTR-D
+FR-00760,2026-10-26,ITCN-NG-001,WASH,Water points rehabilitated,point,2,FE-05,3,CTR-D
+FR-00530,2026-11-02,ITCN-NG-001,WASH,Water points rehabilitated,point,3,FE-05,3,CTR-D
+FR-00723,2026-08-31,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00859,2026-09-07,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-00192,2026-09-14,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,0,FE-06,1,CTR-B
+FR-01212,2026-09-21,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00809,2026-09-28,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00540,2026-10-05,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00098,2026-10-12,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-01265,2026-10-19,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-01231,2026-10-26,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-00454,2026-11-02,ITCN-NG-002,Community Facility,Community facilities rehabilitated,facility,1,FE-06,1,CTR-B
+FR-01046,2026-08-31,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,20,FE-06,202,CTR-C
+FR-00156,2026-09-07,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,27,FE-06,202,CTR-C
+FR-00458,2026-09-14,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,31,FE-06,202,CTR-C
+FR-00737,2026-09-21,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,31,FE-06,202,CTR-C
+FR-01087,2026-09-28,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,44,FE-06,202,CTR-C
+FR-00139,2026-10-05,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,54,FE-06,202,CTR-C
+FR-01190,2026-10-12,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,61,FE-06,202,CTR-C
+FR-00425,2026-10-19,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,77,FE-06,202,CTR-C
+FR-00206,2026-10-26,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,88,FE-06,202,CTR-C
+FR-00634,2026-11-02,ITCN-NG-002,Roads & Access,Access road rehabilitated,metre,103,FE-06,202,CTR-C
+FR-01278,2026-08-31,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,14,FE-06,85,CTR-A
+FR-00835,2026-09-07,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,23,FE-06,85,CTR-A
+FR-00462,2026-09-14,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,33,FE-06,85,CTR-A
+FR-01194,2026-09-21,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,43,FE-06,85,CTR-A
+FR-01221,2026-09-28,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,52,FE-06,85,CTR-A
+FR-00376,2026-10-05,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,59,FE-06,85,CTR-A
+FR-01020,2026-10-12,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,68,FE-06,85,CTR-A
+FR-00022,2026-10-19,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,74,FE-06,85,CTR-A
+FR-00213,2026-10-26,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,79,FE-06,85,CTR-A
+FR-01169,2026-11-02,ITCN-NG-002,Shelter,Relief Housing Units installed,RHU,81,FE-06,85,CTR-A
+FR-00925,2026-08-31,ITCN-NG-002,WASH,Water points rehabilitated,point,0,FE-06,6,CTR-A
+FR-00817,2026-09-07,ITCN-NG-002,WASH,Water points rehabilitated,point,1,FE-06,6,CTR-A
+FR-00954,2026-09-14,ITCN-NG-002,WASH,Water points rehabilitated,point,2,FE-06,6,CTR-A
+FR-00175,2026-09-21,ITCN-NG-002,WASH,Water points rehabilitated,point,3,FE-06,6,CTR-A
+FR-01031,2026-09-28,ITCN-NG-002,WASH,Water points rehabilitated,point,4,FE-06,6,CTR-A
+FR-00797,2026-10-05,ITCN-NG-002,WASH,Water points rehabilitated,point,4,FE-06,6,CTR-A
+FR-01008,2026-10-12,ITCN-NG-002,WASH,Water points rehabilitated,point,5,FE-06,6,CTR-A
+FR-01232,2026-10-19,ITCN-NG-002,WASH,Water points rehabilitated,point,6,FE-06,6,CTR-A
+FR-00239,2026-10-26,ITCN-NG-002,WASH,Water points rehabilitated,point,6,FE-06,6,CTR-A
+FR-00204,2026-11-02,ITCN-NG-002,WASH,Water points rehabilitated,point,6,FE-06,6,CTR-A
+FR-00896,2026-08-31,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,0,FE-05,2,CTR-A
+FR-00034,2026-09-07,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,0,FE-05,2,CTR-A
+FR-01239,2026-09-14,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,0,FE-05,2,CTR-A
+FR-00819,2026-09-21,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,0,FE-05,2,CTR-A
+FR-00827,2026-09-28,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,0,FE-05,2,CTR-A
+FR-00519,2026-10-05,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,1,FE-05,2,CTR-A
+FR-00930,2026-10-12,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,1,FE-05,2,CTR-A
+FR-01280,2026-10-19,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,1,FE-05,2,CTR-A
+FR-00919,2026-10-26,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,1,FE-05,2,CTR-A
+FR-00210,2026-11-02,ITCN-NG-003,Community Facility,Community facilities rehabilitated,facility,1,FE-05,2,CTR-A
+FR-00741,2026-08-31,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,5,FE-05,73,CTR-D
+FR-00651,2026-09-07,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,9,FE-05,73,CTR-D
+FR-00606,2026-09-14,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,24,FE-05,73,CTR-D
+FR-00134,2026-09-21,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,29,FE-05,73,CTR-D
+FR-00055,2026-09-28,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,34,FE-05,73,CTR-D
+FR-00445,2026-10-05,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,43,FE-05,73,CTR-D
+FR-00165,2026-10-12,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,45,FE-05,73,CTR-D
+FR-00922,2026-10-19,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,49,FE-05,73,CTR-D
+FR-00521,2026-10-26,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,58,FE-05,73,CTR-D
+FR-01186,2026-11-02,ITCN-NG-003,Shelter,Relief Housing Units installed,RHU,68,FE-05,73,CTR-D
+FR-00428,2026-08-31,ITCN-NG-003,Solid Waste,Waste collection points established,point,0,FE-05,6,CTR-B
+FR-00580,2026-09-07,ITCN-NG-003,Solid Waste,Waste collection points established,point,1,FE-05,6,CTR-B
+FR-00972,2026-09-14,ITCN-NG-003,Solid Waste,Waste collection points established,point,1,FE-05,6,CTR-B
+FR-00589,2026-09-21,ITCN-NG-003,Solid Waste,Waste collection points established,point,2,FE-05,6,CTR-B
+FR-01128,2026-09-28,ITCN-NG-003,Solid Waste,Waste collection points established,point,3,FE-05,6,CTR-B
+FR-00415,2026-10-05,ITCN-NG-003,Solid Waste,Waste collection points established,point,3,FE-05,6,CTR-B
+FR-01037,2026-10-12,ITCN-NG-003,Solid Waste,Waste collection points established,point,4,FE-05,6,CTR-B
+FR-00642,2026-10-19,ITCN-NG-003,Solid Waste,Waste collection points established,point,4,FE-05,6,CTR-B
+FR-00288,2026-10-26,ITCN-NG-003,Solid Waste,Waste collection points established,point,5,FE-05,6,CTR-B
+FR-00246,2026-11-02,ITCN-NG-003,Solid Waste,Waste collection points established,point,5,FE-05,6,CTR-B
+FR-01115,2026-08-31,ITCN-NG-003,WASH,Water points rehabilitated,point,2,FE-05,9,CTR-B
+FR-00858,2026-09-07,ITCN-NG-003,WASH,Water points rehabilitated,point,3,FE-05,9,CTR-B
+FR-00752,2026-09-14,ITCN-NG-003,WASH,Water points rehabilitated,point,3,FE-05,9,CTR-B
+FR-00759,2026-09-21,ITCN-NG-003,WASH,Water points rehabilitated,point,4,FE-05,9,CTR-B
+FR-00940,2026-09-28,ITCN-NG-003,WASH,Water points rehabilitated,point,5,FE-05,9,CTR-B
+FR-00597,2026-10-05,ITCN-NG-003,WASH,Water points rehabilitated,point,6,FE-05,9,CTR-B
+FR-01208,2026-10-12,ITCN-NG-003,WASH,Water points rehabilitated,point,7,FE-05,9,CTR-B
+FR-01125,2026-10-19,ITCN-NG-003,WASH,Water points rehabilitated,point,8,FE-05,9,CTR-B
+FR-00621,2026-10-26,ITCN-NG-003,WASH,Water points rehabilitated,point,9,FE-05,9,CTR-B
+FR-00607,2026-11-02,ITCN-NG-003,WASH,Water points rehabilitated,point,9,FE-05,9,CTR-B
+FR-00565,2026-08-31,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00155,2026-09-07,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00657,2026-09-14,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00345,2026-09-21,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00893,2026-09-28,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00320,2026-10-05,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-01110,2026-10-12,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00346,2026-10-19,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00381,2026-10-26,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,0,FE-03,1,CTR-A
+FR-00254,2026-11-02,ITCN-RF-001,Community Facility,Community facilities rehabilitated,facility,1,FE-03,1,CTR-A
+FR-00187,2026-08-31,ITCN-RF-001,Electricity,Solar lighting units installed,unit,9,FE-03,55,CTR-D
+FR-01187,2026-09-07,ITCN-RF-001,Electricity,Solar lighting units installed,unit,13,FE-03,55,CTR-D
+FR-00899,2026-09-14,ITCN-RF-001,Electricity,Solar lighting units installed,unit,24,FE-03,55,CTR-D
+FR-00708,2026-09-21,ITCN-RF-001,Electricity,Solar lighting units installed,unit,32,FE-03,55,CTR-D
+FR-01211,2026-09-28,ITCN-RF-001,Electricity,Solar lighting units installed,unit,41,FE-03,55,CTR-D
+FR-00463,2026-10-05,ITCN-RF-001,Electricity,Solar lighting units installed,unit,48,FE-03,55,CTR-D
+FR-00633,2026-10-12,ITCN-RF-001,Electricity,Solar lighting units installed,unit,55,FE-03,55,CTR-D
+FR-00101,2026-10-19,ITCN-RF-001,Electricity,Solar lighting units installed,unit,55,FE-03,55,CTR-D
+FR-00380,2026-10-26,ITCN-RF-001,Electricity,Solar lighting units installed,unit,55,FE-03,55,CTR-D
+FR-00501,2026-11-02,ITCN-RF-001,Electricity,Solar lighting units installed,unit,55,FE-03,55,CTR-D
+FR-00944,2026-08-31,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,1,FE-03,41,CTR-C
+FR-00382,2026-09-07,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,4,FE-03,41,CTR-C
+FR-00860,2026-09-14,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,6,FE-03,41,CTR-C
+FR-01017,2026-09-21,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,8,FE-03,41,CTR-C
+FR-01090,2026-09-28,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,9,FE-03,41,CTR-C
+FR-01143,2026-10-05,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,10,FE-03,41,CTR-C
+FR-01093,2026-10-12,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,13,FE-03,41,CTR-C
+FR-00490,2026-10-19,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,14,FE-03,41,CTR-C
+FR-01095,2026-10-26,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,14,FE-03,41,CTR-C
+FR-00093,2026-11-02,ITCN-RF-001,Shelter,Relief Housing Units installed,RHU,16,FE-03,41,CTR-C
+FR-00980,2026-08-31,ITCN-RF-001,Solid Waste,Waste collection points established,point,0,FE-03,2,CTR-C
+FR-00682,2026-09-07,ITCN-RF-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-C
+FR-00659,2026-09-14,ITCN-RF-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-C
+FR-01045,2026-09-21,ITCN-RF-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-C
+FR-00168,2026-09-28,ITCN-RF-001,Solid Waste,Waste collection points established,point,1,FE-03,2,CTR-C
+FR-00555,2026-10-05,ITCN-RF-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-C
+FR-00667,2026-10-12,ITCN-RF-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-C
+FR-00952,2026-10-19,ITCN-RF-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-C
+FR-00072,2026-10-26,ITCN-RF-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-C
+FR-00171,2026-11-02,ITCN-RF-001,Solid Waste,Waste collection points established,point,2,FE-03,2,CTR-C
+FR-00273,2026-08-31,ITCN-RF-001,WASH,Water points rehabilitated,point,1,FE-03,11,CTR-D
+FR-00920,2026-09-07,ITCN-RF-001,WASH,Water points rehabilitated,point,2,FE-03,11,CTR-D
+FR-00532,2026-09-14,ITCN-RF-001,WASH,Water points rehabilitated,point,3,FE-03,11,CTR-D
+FR-00905,2026-09-21,ITCN-RF-001,WASH,Water points rehabilitated,point,4,FE-03,11,CTR-D
+FR-00577,2026-09-28,ITCN-RF-001,WASH,Water points rehabilitated,point,6,FE-03,11,CTR-D
+FR-01088,2026-10-05,ITCN-RF-001,WASH,Water points rehabilitated,point,7,FE-03,11,CTR-D
+FR-00224,2026-10-12,ITCN-RF-001,WASH,Water points rehabilitated,point,9,FE-03,11,CTR-D
+FR-00569,2026-10-19,ITCN-RF-001,WASH,Water points rehabilitated,point,9,FE-03,11,CTR-D
+FR-00248,2026-10-26,ITCN-RF-001,WASH,Water points rehabilitated,point,11,FE-03,11,CTR-D
+FR-00743,2026-08-31,ITCN-RF-002,Electricity,Solar lighting units installed,unit,4,FE-01,27,CTR-D
+FR-00483,2026-09-07,ITCN-RF-002,Electricity,Solar lighting units installed,unit,6,FE-01,27,CTR-D
+FR-00977,2026-09-14,ITCN-RF-002,Electricity,Solar lighting units installed,unit,11,FE-01,27,CTR-D
+FR-00460,2026-09-21,ITCN-RF-002,Electricity,Solar lighting units installed,unit,13,FE-01,27,CTR-D
+FR-00258,2026-09-28,ITCN-RF-002,Electricity,Solar lighting units installed,unit,16,FE-01,27,CTR-D
+FR-00875,2026-10-05,ITCN-RF-002,Electricity,Solar lighting units installed,unit,18,FE-01,27,CTR-D
+FR-00602,2026-10-12,ITCN-RF-002,Electricity,Solar lighting units installed,unit,22,FE-01,27,CTR-D
+FR-01244,2026-10-19,ITCN-RF-002,Electricity,Solar lighting units installed,unit,22,FE-01,27,CTR-D
+FR-00158,2026-10-26,ITCN-RF-002,Electricity,Solar lighting units installed,unit,24,FE-01,27,CTR-D
+FR-00512,2026-11-02,ITCN-RF-002,Electricity,Solar lighting units installed,unit,27,FE-01,27,CTR-D
+FR-00353,2026-08-31,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,6,FE-01,71,CTR-A
+FR-00554,2026-09-07,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,16,FE-01,71,CTR-A
+FR-00307,2026-09-14,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,19,FE-01,71,CTR-A
+FR-00304,2026-09-21,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,26,FE-01,71,CTR-A
+FR-00790,2026-09-28,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,33,FE-01,71,CTR-A
+FR-00265,2026-10-05,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,38,FE-01,71,CTR-A
+FR-00761,2026-10-12,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,45,FE-01,71,CTR-A
+FR-00489,2026-10-19,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,46,FE-01,71,CTR-A
+FR-00429,2026-10-26,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,51,FE-01,71,CTR-A
+FR-00775,2026-11-02,ITCN-RF-002,Shelter,Relief Housing Units installed,RHU,53,FE-01,71,CTR-A
+FR-00807,2026-08-31,ITCN-RF-002,Solid Waste,Waste collection points established,point,0,FE-01,2,CTR-B
+FR-00275,2026-09-07,ITCN-RF-002,Solid Waste,Waste collection points established,point,0,FE-01,2,CTR-B
+FR-01269,2026-09-14,ITCN-RF-002,Solid Waste,Waste collection points established,point,0,FE-01,2,CTR-B
+FR-00647,2026-09-21,ITCN-RF-002,Solid Waste,Waste collection points established,point,0,FE-01,2,CTR-B
+FR-00079,2026-09-28,ITCN-RF-002,Solid Waste,Waste collection points established,point,1,FE-01,2,CTR-B
+FR-01282,2026-10-05,ITCN-RF-002,Solid Waste,Waste collection points established,point,1,FE-01,2,CTR-B
+FR-00372,2026-10-12,ITCN-RF-002,Solid Waste,Waste collection points established,point,1,FE-01,2,CTR-B
+FR-00573,2026-10-19,ITCN-RF-002,Solid Waste,Waste collection points established,point,1,FE-01,2,CTR-B
+FR-00961,2026-10-26,ITCN-RF-002,Solid Waste,Waste collection points established,point,1,FE-01,2,CTR-B
+FR-00152,2026-11-02,ITCN-RF-002,Solid Waste,Waste collection points established,point,1,FE-01,2,CTR-B
+FR-01237,2026-08-31,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,0,FE-02,3,CTR-A
+FR-00296,2026-09-07,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-A
+FR-00583,2026-09-14,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-A
+FR-00788,2026-09-21,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-A
+FR-00650,2026-09-28,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-A
+FR-00546,2026-10-05,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-A
+FR-00226,2026-10-12,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,1,FE-02,3,CTR-A
+FR-00497,2026-10-19,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,2,FE-02,3,CTR-A
+FR-01224,2026-10-26,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,2,FE-02,3,CTR-A
+FR-00507,2026-11-02,ITCN-RF-003,Community Facility,Community facilities rehabilitated,facility,2,FE-02,3,CTR-A
+FR-00527,2026-08-31,ITCN-RF-003,Electricity,Solar lighting units installed,unit,1,FE-02,12,CTR-D
+FR-00252,2026-09-07,ITCN-RF-003,Electricity,Solar lighting units installed,unit,2,FE-02,12,CTR-D
+FR-00400,2026-09-14,ITCN-RF-003,Electricity,Solar lighting units installed,unit,3,FE-02,12,CTR-D
+FR-01289,2026-09-21,ITCN-RF-003,Electricity,Solar lighting units installed,unit,5,FE-02,12,CTR-D
+FR-00430,2026-09-28,ITCN-RF-003,Electricity,Solar lighting units installed,unit,6,FE-02,12,CTR-D
+FR-00416,2026-10-05,ITCN-RF-003,Electricity,Solar lighting units installed,unit,7,FE-02,12,CTR-D
+FR-01061,2026-10-12,ITCN-RF-003,Electricity,Solar lighting units installed,unit,8,FE-02,12,CTR-D
+FR-01057,2026-10-19,ITCN-RF-003,Electricity,Solar lighting units installed,unit,10,FE-02,12,CTR-D
+FR-00742,2026-10-26,ITCN-RF-003,Electricity,Solar lighting units installed,unit,11,FE-02,12,CTR-D
+FR-00727,2026-11-02,ITCN-RF-003,Electricity,Solar lighting units installed,unit,12,FE-02,12,CTR-D
+FR-01162,2026-08-31,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,46,FE-02,267,CTR-C
+FR-01220,2026-09-07,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,94,FE-02,267,CTR-C
+FR-00331,2026-09-14,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,148,FE-02,267,CTR-C
+FR-00913,2026-09-21,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,174,FE-02,267,CTR-C
+FR-00065,2026-09-28,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,206,FE-02,267,CTR-C
+FR-01018,2026-10-05,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,248,FE-02,267,CTR-C
+FR-00568,2026-10-12,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,267,FE-02,267,CTR-C
+FR-00520,2026-10-19,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,267,FE-02,267,CTR-C
+FR-01202,2026-10-26,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,267,FE-02,267,CTR-C
+FR-00301,2026-11-02,ITCN-RF-003,Roads & Access,Access road rehabilitated,metre,267,FE-02,267,CTR-C
+FR-00102,2026-08-31,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,18,FE-02,101,CTR-B
+FR-00762,2026-09-07,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,30,FE-02,101,CTR-B
+FR-00446,2026-09-14,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,38,FE-02,101,CTR-B
+FR-01091,2026-09-21,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,54,FE-02,101,CTR-B
+FR-00473,2026-09-28,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,70,FE-02,101,CTR-B
+FR-00872,2026-10-05,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,86,FE-02,101,CTR-B
+FR-00906,2026-10-12,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,94,FE-02,101,CTR-B
+FR-00948,2026-10-19,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,101,FE-02,101,CTR-B
+FR-00992,2026-10-26,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,101,FE-02,101,CTR-B
+FR-00271,2026-11-02,ITCN-RF-003,Shelter,Relief Housing Units installed,RHU,101,FE-02,101,CTR-B
+FR-00867,2026-08-31,ITCN-RF-003,Solid Waste,Waste collection points established,point,1,FE-02,7,CTR-A
+FR-00219,2026-09-07,ITCN-RF-003,Solid Waste,Waste collection points established,point,2,FE-02,7,CTR-A
+FR-00808,2026-09-14,ITCN-RF-003,Solid Waste,Waste collection points established,point,3,FE-02,7,CTR-A
+FR-00709,2026-09-21,ITCN-RF-003,Solid Waste,Waste collection points established,point,4,FE-02,7,CTR-A
+FR-00302,2026-09-28,ITCN-RF-003,Solid Waste,Waste collection points established,point,5,FE-02,7,CTR-A
+FR-00002,2026-10-05,ITCN-RF-003,Solid Waste,Waste collection points established,point,6,FE-02,7,CTR-A
+FR-00200,2026-10-12,ITCN-RF-003,Solid Waste,Waste collection points established,point,7,FE-02,7,CTR-A
+FR-01082,2026-10-19,ITCN-RF-003,Solid Waste,Waste collection points established,point,7,FE-02,7,CTR-A
+FR-00979,2026-10-26,ITCN-RF-003,Solid Waste,Waste collection points established,point,7,FE-02,7,CTR-A
+FR-01226,2026-11-02,ITCN-RF-003,Solid Waste,Waste collection points established,point,7,FE-02,7,CTR-A

@@ -1,0 +1,901 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.474643,
+     31.52741
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-NG-001",
+    "site_name": "Jabalia Site 1",
+    "governorate_code": "NG",
+    "governorate": "North Gaza",
+    "locality": "Jabalia",
+    "site_type": "Transitional Neighborhood",
+    "households": 120,
+    "individuals": 811,
+    "field_engineer": "FE-05",
+    "start_date": "2026-08-03",
+    "coords_valid": true,
+    "households_registered": 110,
+    "individuals_registered": 619,
+    "female_headed": 34,
+    "rhu_target": 116,
+    "rhu_installed": 67,
+    "workers": 8,
+    "workdays": 171.5,
+    "female_workers": 1,
+    "avg_progress": 0.916
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.439714,
+     31.521734
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-GZ-001",
+    "site_name": "Gaza City - Rimal Site 1",
+    "governorate_code": "GZ",
+    "governorate": "Gaza",
+    "locality": "Gaza City - Rimal",
+    "site_type": "Informal Site",
+    "households": 174,
+    "individuals": 1179,
+    "field_engineer": "FE-05",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 152,
+    "individuals_registered": 956,
+    "female_headed": 48,
+    "rhu_target": 102,
+    "rhu_installed": 82,
+    "workers": 6,
+    "workdays": 108.0,
+    "female_workers": 1,
+    "avg_progress": 0.88
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.463789,
+     31.541698
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-GZ-002",
+    "site_name": "Gaza City - Sheikh Radwan Site 1",
+    "governorate_code": "GZ",
+    "governorate": "Gaza",
+    "locality": "Gaza City - Sheikh Radwan",
+    "site_type": "Collective Centre",
+    "households": 353,
+    "individuals": 2006,
+    "field_engineer": "FE-06",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 330,
+    "individuals_registered": 1881,
+    "female_headed": 97,
+    "rhu_target": 60,
+    "rhu_installed": 23,
+    "workers": 6,
+    "workdays": 121.5,
+    "female_workers": 3,
+    "avg_progress": 0.662
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.346225,
+     31.408513
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-001",
+    "site_name": "Deir al-Balah Site 1",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Deir al-Balah",
+    "site_type": "Transitional Neighborhood",
+    "households": 360,
+    "individuals": 2386,
+    "field_engineer": "FE-01",
+    "start_date": "2026-08-03",
+    "coords_valid": true,
+    "households_registered": 319,
+    "individuals_registered": 1841,
+    "female_headed": 81,
+    "rhu_target": 101,
+    "rhu_installed": 89,
+    "workers": 5,
+    "workdays": 90.5,
+    "female_workers": 0,
+    "avg_progress": 0.908
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.389348,
+     31.448556
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-002",
+    "site_name": "Nuseirat Site 1",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Nuseirat",
+    "site_type": "Transitional Neighborhood",
+    "households": 116,
+    "individuals": 707,
+    "field_engineer": "FE-01",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 115,
+    "individuals_registered": 637,
+    "female_headed": 35,
+    "rhu_target": 69,
+    "rhu_installed": 69,
+    "workers": 7,
+    "workdays": 157.0,
+    "female_workers": 1,
+    "avg_progress": 0.694
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.397058,
+     31.448479
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-003",
+    "site_name": "Bureij Site 1",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Bureij",
+    "site_type": "Informal Site",
+    "households": 65,
+    "individuals": 434,
+    "field_engineer": "FE-06",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 55,
+    "individuals_registered": 306,
+    "female_headed": 12,
+    "rhu_target": 93,
+    "rhu_installed": 93,
+    "workers": 7,
+    "workdays": 128.5,
+    "female_workers": 2,
+    "avg_progress": 1.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.376525,
+     31.424984
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-004",
+    "site_name": "Maghazi Site 1",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Maghazi",
+    "site_type": "Transitional Neighborhood",
+    "households": 407,
+    "individuals": 2270,
+    "field_engineer": "FE-04",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 379,
+    "individuals_registered": 2259,
+    "female_headed": 102,
+    "rhu_target": 28,
+    "rhu_installed": 28,
+    "workers": 6,
+    "workdays": 114.0,
+    "female_workers": 0,
+    "avg_progress": 0.939
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.302283,
+     31.343758
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-KY-001",
+    "site_name": "Khan Younis Site 1",
+    "governorate_code": "KY",
+    "governorate": "Khan Younis",
+    "locality": "Khan Younis",
+    "site_type": "Informal Site",
+    "households": 238,
+    "individuals": 1497,
+    "field_engineer": "FE-03",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 224,
+    "individuals_registered": 1324,
+    "female_headed": 68,
+    "rhu_target": 105,
+    "rhu_installed": 83,
+    "workers": 9,
+    "workdays": 159.0,
+    "female_workers": 5,
+    "avg_progress": 0.681
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.274477,
+     31.362159
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-KY-002",
+    "site_name": "Al-Mawasi Site 1",
+    "governorate_code": "KY",
+    "governorate": "Khan Younis",
+    "locality": "Al-Mawasi",
+    "site_type": "Collective Centre",
+    "households": 322,
+    "individuals": 1942,
+    "field_engineer": "FE-06",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 278,
+    "individuals_registered": 1587,
+    "female_headed": 71,
+    "rhu_target": 65,
+    "rhu_installed": 41,
+    "workers": 8,
+    "workdays": 132.0,
+    "female_workers": 3,
+    "avg_progress": 0.702
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.248633,
+     31.286952
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-RF-001",
+    "site_name": "Rafah Site 1",
+    "governorate_code": "RF",
+    "governorate": "Rafah",
+    "locality": "Rafah",
+    "site_type": "Collective Centre",
+    "households": 105,
+    "individuals": 631,
+    "field_engineer": "FE-03",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 94,
+    "individuals_registered": 542,
+    "female_headed": 21,
+    "rhu_target": 41,
+    "rhu_installed": 16,
+    "workers": 8,
+    "workdays": 166.0,
+    "female_workers": 3,
+    "avg_progress": 0.878
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.499379,
+     31.527832
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-NG-002",
+    "site_name": "Jabalia Site 2",
+    "governorate_code": "NG",
+    "governorate": "North Gaza",
+    "locality": "Jabalia",
+    "site_type": "Transitional Neighborhood",
+    "households": 294,
+    "individuals": 1626,
+    "field_engineer": "FE-06",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 280,
+    "individuals_registered": 1628,
+    "female_headed": 73,
+    "rhu_target": 85,
+    "rhu_installed": 81,
+    "workers": 8,
+    "workdays": 179.5,
+    "female_workers": 1,
+    "avg_progress": 0.866
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.458382,
+     31.529278
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-GZ-004",
+    "site_name": "Gaza City - Sheikh Radwan Site 2",
+    "governorate_code": "GZ",
+    "governorate": "Gaza",
+    "locality": "Gaza City - Sheikh Radwan",
+    "site_type": "Transitional Neighborhood",
+    "households": 296,
+    "individuals": 1856,
+    "field_engineer": "FE-04",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 275,
+    "individuals_registered": 1521,
+    "female_headed": 77,
+    "rhu_target": 118,
+    "rhu_installed": 118,
+    "workers": 16,
+    "workdays": 318.5,
+    "female_workers": 1,
+    "avg_progress": 0.973
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.353641,
+     31.421865
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-005",
+    "site_name": "Deir al-Balah Site 2",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Deir al-Balah",
+    "site_type": "Transitional Neighborhood",
+    "households": 119,
+    "individuals": 634,
+    "field_engineer": "FE-05",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 102,
+    "individuals_registered": 601,
+    "female_headed": 28,
+    "rhu_target": 39,
+    "rhu_installed": 39,
+    "workers": 10,
+    "workdays": 193.0,
+    "female_workers": 0,
+    "avg_progress": 0.886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.392586,
+     31.448965
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-006",
+    "site_name": "Nuseirat Site 2",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Nuseirat",
+    "site_type": "Informal Site",
+    "households": 263,
+    "individuals": 1388,
+    "field_engineer": "FE-03",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 243,
+    "individuals_registered": 1404,
+    "female_headed": 71,
+    "rhu_target": 118,
+    "rhu_installed": 118,
+    "workers": 3,
+    "workdays": 64.0,
+    "female_workers": 1,
+    "avg_progress": 0.888
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.39918,
+     31.426732
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-007",
+    "site_name": "Bureij Site 2",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Bureij",
+    "site_type": "Informal Site",
+    "households": 348,
+    "individuals": 2178,
+    "field_engineer": "FE-04",
+    "start_date": "2026-08-03",
+    "coords_valid": true,
+    "households_registered": 343,
+    "individuals_registered": 1983,
+    "female_headed": 84,
+    "rhu_target": 98,
+    "rhu_installed": 98,
+    "workers": 7,
+    "workdays": 153.0,
+    "female_workers": 4,
+    "avg_progress": 0.933
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.394037,
+     31.42664
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-008",
+    "site_name": "Maghazi Site 2",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Maghazi",
+    "site_type": "Transitional Neighborhood",
+    "households": 354,
+    "individuals": 2173,
+    "field_engineer": "FE-02",
+    "start_date": "2026-08-03",
+    "coords_valid": true,
+    "households_registered": 319,
+    "individuals_registered": 1885,
+    "female_headed": 83,
+    "rhu_target": 81,
+    "rhu_installed": 81,
+    "workers": 8,
+    "workdays": 192.0,
+    "female_workers": 1,
+    "avg_progress": 0.891
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.264002,
+     31.35713
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-KY-004",
+    "site_name": "Al-Mawasi Site 2",
+    "governorate_code": "KY",
+    "governorate": "Khan Younis",
+    "locality": "Al-Mawasi",
+    "site_type": "Transitional Neighborhood",
+    "households": 378,
+    "individuals": 2288,
+    "field_engineer": "FE-02",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 352,
+    "individuals_registered": 2047,
+    "female_headed": 83,
+    "rhu_target": 108,
+    "rhu_installed": 108,
+    "workers": 11,
+    "workdays": 221.5,
+    "female_workers": 0,
+    "avg_progress": 0.974
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.236131,
+     31.297524
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-RF-002",
+    "site_name": "Rafah Site 2",
+    "governorate_code": "RF",
+    "governorate": "Rafah",
+    "locality": "Rafah",
+    "site_type": "Informal Site",
+    "households": 177,
+    "individuals": 1052,
+    "field_engineer": "FE-01",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 152,
+    "individuals_registered": 839,
+    "female_headed": 47,
+    "rhu_target": 71,
+    "rhu_installed": 53,
+    "workers": 10,
+    "workdays": 191.0,
+    "female_workers": 2,
+    "avg_progress": 0.749
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.476802,
+     31.535489
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-NG-003",
+    "site_name": "Jabalia Site 3",
+    "governorate_code": "NG",
+    "governorate": "North Gaza",
+    "locality": "Jabalia",
+    "site_type": "Transitional Neighborhood",
+    "households": 405,
+    "individuals": 2175,
+    "field_engineer": "FE-05",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 357,
+    "individuals_registered": 2032,
+    "female_headed": 97,
+    "rhu_target": 73,
+    "rhu_installed": 68,
+    "workers": 7,
+    "workdays": 125.5,
+    "female_workers": 1,
+    "avg_progress": 0.816
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.442562,
+     31.524333
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-GZ-005",
+    "site_name": "Gaza City - Rimal Site 3",
+    "governorate_code": "GZ",
+    "governorate": "Gaza",
+    "locality": "Gaza City - Rimal",
+    "site_type": "Transitional Neighborhood",
+    "households": 346,
+    "individuals": 2215,
+    "field_engineer": "FE-03",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 336,
+    "individuals_registered": 2010,
+    "female_headed": 106,
+    "rhu_target": 86,
+    "rhu_installed": 64,
+    "workers": 8,
+    "workdays": 180.0,
+    "female_workers": 3,
+    "avg_progress": 0.804
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.459333,
+     31.537297
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-GZ-006",
+    "site_name": "Gaza City - Sheikh Radwan Site 3",
+    "governorate_code": "GZ",
+    "governorate": "Gaza",
+    "locality": "Gaza City - Sheikh Radwan",
+    "site_type": "Transitional Neighborhood",
+    "households": 265,
+    "individuals": 1691,
+    "field_engineer": "FE-03",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 230,
+    "individuals_registered": 1303,
+    "female_headed": 59,
+    "rhu_target": 47,
+    "rhu_installed": 44,
+    "workers": 14,
+    "workdays": 261.0,
+    "female_workers": 1,
+    "avg_progress": 0.987
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.353714,
+     31.416586
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-009",
+    "site_name": "Deir al-Balah Site 3",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Deir al-Balah",
+    "site_type": "Transitional Neighborhood",
+    "households": 64,
+    "individuals": 350,
+    "field_engineer": "FE-06",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 61,
+    "individuals_registered": 337,
+    "female_headed": 13,
+    "rhu_target": 35,
+    "rhu_installed": 35,
+    "workers": 7,
+    "workdays": 141.5,
+    "female_workers": 1,
+    "avg_progress": 0.889
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.389759,
+     31.452896
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-010",
+    "site_name": "Nuseirat Site 3",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Nuseirat",
+    "site_type": "Informal Site",
+    "households": 327,
+    "individuals": 2146,
+    "field_engineer": "FE-03",
+    "start_date": "2026-08-10",
+    "coords_valid": true,
+    "households_registered": 310,
+    "individuals_registered": 1758,
+    "female_headed": 84,
+    "rhu_target": 82,
+    "rhu_installed": 82,
+    "workers": 4,
+    "workdays": 60.5,
+    "female_workers": 0,
+    "avg_progress": 0.889
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.398063,
+     31.441185
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-011",
+    "site_name": "Bureij Site 3",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Bureij",
+    "site_type": "Collective Centre",
+    "households": 193,
+    "individuals": 1301,
+    "field_engineer": "FE-04",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 190,
+    "individuals_registered": 1108,
+    "female_headed": 56,
+    "rhu_target": 23,
+    "rhu_installed": 12,
+    "workers": 9,
+    "workdays": 192.5,
+    "female_workers": 2,
+    "avg_progress": 0.603
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.384688,
+     31.419595
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-DB-012",
+    "site_name": "Maghazi Site 3",
+    "governorate_code": "DB",
+    "governorate": "Deir al-Balah",
+    "locality": "Maghazi",
+    "site_type": "Collective Centre",
+    "households": 282,
+    "individuals": 1737,
+    "field_engineer": "FE-01",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 266,
+    "individuals_registered": 1512,
+    "female_headed": 73,
+    "rhu_target": 22,
+    "rhu_installed": 22,
+    "workers": 7,
+    "workdays": 143.5,
+    "female_workers": 1,
+    "avg_progress": 0.702
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.307512,
+     31.349247
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-KY-005",
+    "site_name": "Khan Younis Site 3",
+    "governorate_code": "KY",
+    "governorate": "Khan Younis",
+    "locality": "Khan Younis",
+    "site_type": "Transitional Neighborhood",
+    "households": 222,
+    "individuals": 1226,
+    "field_engineer": "FE-01",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 212,
+    "individuals_registered": 1219,
+    "female_headed": 60,
+    "rhu_target": 46,
+    "rhu_installed": 46,
+    "workers": 10,
+    "workdays": 190.5,
+    "female_workers": 1,
+    "avg_progress": 0.902
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.272494,
+     31.358867
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-KY-006",
+    "site_name": "Al-Mawasi Site 3",
+    "governorate_code": "KY",
+    "governorate": "Khan Younis",
+    "locality": "Al-Mawasi",
+    "site_type": "Collective Centre",
+    "households": 412,
+    "individuals": 2756,
+    "field_engineer": "FE-05",
+    "start_date": "2026-08-17",
+    "coords_valid": true,
+    "households_registered": 398,
+    "individuals_registered": 2295,
+    "female_headed": 115,
+    "rhu_target": 74,
+    "rhu_installed": 59,
+    "workers": 5,
+    "workdays": 79.0,
+    "female_workers": 2,
+    "avg_progress": 0.876
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.245794,
+     31.285917
+    ]
+   },
+   "properties": {
+    "site_id": "ITCN-RF-003",
+    "site_name": "Rafah Site 3",
+    "governorate_code": "RF",
+    "governorate": "Rafah",
+    "locality": "Rafah",
+    "site_type": "Informal Site",
+    "households": 291,
+    "individuals": 1812,
+    "field_engineer": "FE-02",
+    "start_date": "2026-08-24",
+    "coords_valid": true,
+    "households_registered": 268,
+    "individuals_registered": 1557,
+    "female_headed": 69,
+    "rhu_target": 101,
+    "rhu_installed": 101,
+    "workers": 13,
+    "workdays": 302.0,
+    "female_workers": 3,
+    "avg_progress": 0.933
+   }
+  }
+ ]
+}
